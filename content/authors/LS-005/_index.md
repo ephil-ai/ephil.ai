@@ -4,7 +4,7 @@ title: LS-005
 
 # Username (this should match the folder name)
 authors:
-- LS-005
+- ls005
 
 # Is this the primary user of the site?
 superuser: false
