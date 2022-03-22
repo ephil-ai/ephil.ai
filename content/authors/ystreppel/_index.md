@@ -1,21 +1,17 @@
 ---
 # Display name
-title: TK-626
-
-# Username (this should match the folder name)
-authors:
-- LS-TK-626
+title: Yeji Streppel
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Eindhoven University of Technology
+  url: "https://research.tue.nl/en/persons/emily-sullivan"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:y.j.m.b.k.streppel@tue.nl'
+#- icon: twitter
+ # icon_pack: fab
+  #link: https://twitter.com/carloszednik
+#- icon: google-scholar
+ # icon_pack: ai
+ # link: https://scholar.google.com/citations?user=RI7Q9PIAAAAJ&hl=en&oi=ao
+#- icon: github
+# icon_pack: fab
+ # link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,12 +59,15 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- PhD Candidates
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yeji Streppel is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
