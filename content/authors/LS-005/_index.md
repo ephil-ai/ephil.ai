@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LS-005
+title: LSD
 
 # Username (this should match the folder name)
 authors:
