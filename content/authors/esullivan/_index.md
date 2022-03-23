@@ -6,7 +6,7 @@ title: Emily Sullivan
 superuser: true
 
 # Role/position
-role: Assistant Professor and Co-Director
+role: Assistant Professor <br> Co-Director
 
 # Organizations/Affiliations
 organizations:

@@ -21,7 +21,7 @@ content:
   -  PhD Candidates
   - Researchers
   - Administration
-  - Visitors
+  - Visiting Fellows
   - Alumni
 design:
   show_interests: false
