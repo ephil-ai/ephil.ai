@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Carlos Zednik
+title: Tarek R. Besold
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Co-Director
+role: Visiting Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/carlos-zednik"
+- name: DEKRA Digital GmbH
+  url: "https://www.dekra.digital"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -40,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:c.a.zednik@tue.nl'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/carloszednik
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=7-LN-vIAAAAJ&hl=en&oi=ao
+  link: 'mailto:tarek.besold@gmail.com'
+#- icon: twitter
+ # icon_pack: fab
+  #link: https://twitter.com/carloszednik
+#- icon: google-scholar
+ # icon_pack: ai
+ # link: https://scholar.google.com/citations?user=RI7Q9PIAAAAJ&hl=en&oi=ao
 #- icon: github
 # icon_pack: fab
  # link: https://github.com/gcushen
@@ -65,9 +65,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Directors
+- Visitors
 ---
 
-Carlos Zednik is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tarek R. Besold is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
