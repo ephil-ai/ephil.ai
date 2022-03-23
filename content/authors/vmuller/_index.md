@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Guido Löhr
+title: Vincent C. Müller
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Full Professor
 
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/guido-löhr"
+  url: "https://research.tue.nl/en/persons/vincent-c-m%C3%BCller"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
-#education:
- # courses:
-  #- course: PhD in Artificial Intelligence
-   # institution: Stanford University
-    #year: 2012
-  #- course: MEng in Artificial Intelligence
-   # institution: Massachusetts Institute of Technology
-    #year: 2009
-  #- course: BSc in Artificial Intelligence
-   # institution: Massachusetts Institute of Technology
-    #year: 2008
+education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +40,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:g.lohr@tue.nl'
+  link: 'mailto:l.m.m.royakkers@tue.nl'
 #- icon: twitter
  # icon_pack: fab
   #link: https://twitter.com/carloszednik
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=7fXQ6hcAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=Rjp2j6sAAAAJ&hl=en&oi=ao
 #- icon: github
 # icon_pack: fab
  # link: https://github.com/gcushen
@@ -65,9 +65,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Principal Investigators
 ---
 
-Guido Löhr is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vincent C. Müller is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

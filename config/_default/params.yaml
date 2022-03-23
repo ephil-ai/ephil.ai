@@ -41,11 +41,13 @@ header:
 
 # Site footer
 
+# notice: '© {year} Eindhoven Center for Philosophy of Artificial Intelligence. This work is licensed under {license}'
+
 footer:
   copyright:
-    notice: '© {year} Eindhoven Center for Philosophy of Artificial Intelligence. This work is licensed under {license}'
+    notice: '© {year} Eindhoven Center for the Philosophy of Artificial Intelligence.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
