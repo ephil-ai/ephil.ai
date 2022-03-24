@@ -2,6 +2,7 @@
 title: Socially Disruptive Technologies
 summary: '[(read more)](/project/ethics-digital-tech)' 
 date: "2021-12-01T00:00:00Z"
+profile: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
