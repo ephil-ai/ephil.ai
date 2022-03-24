@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Research Topics
+title: Research Areas
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,21 @@ feature:
 - description: 
   icon: square
   icon_pack: fas
-  name: Opacity in <br> Machine Learning
+  name: <a href="/research-areas/opacity-ml/">Opacity in <br> Machine Learning</a>
 - description: 
   icon: book
   icon_pack: fas
-  name: Ethics of <br> Digital Technologies
+  name: <a href="/research-areas/ethics-digital-tech/">Ethics of <br> Digital Technologies</a>
 - description: 
   icon: robot
   icon_pack: fas
-  name: Social Robots and <br> Embodied AI
+  name:   <a href="/research-areas/social-robots-ai/">Social Robots and <br> Embodied AI</a>
+  
+  
+
+
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
