@@ -19,15 +19,15 @@ feature:
 - description: 
   icon: square
   icon_pack: fas
-  name: <a href="/research-areas/opacity-ml/">Opacity in <br> Machine Learning</a>
+  name: <a href="/project/opacity-ml/">Opacity in <br> Machine Learning</a>
 - description: 
   icon: book
   icon_pack: fas
-  name: <a href="/research-areas/ethics-digital-tech/">Ethics of <br> Digital Technologies</a>
+  name: <a href="/project/ethics-digital-tech/">Ethics of <br> Digital Technologies</a>
 - description: 
   icon: robot
   icon_pack: fas
-  name:   <a href="/research-areas/social-robots-ai/">Social Robots and <br> Embodied AI</a>
+  name:   <a href="/project/social-robots-ai/">Social Robots and <br> Embodied AI</a>
   
   
 
