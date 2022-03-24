@@ -14,10 +14,15 @@ name = "TUe"
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
   home_section_even = "rgb(247, 247, 247)"
+  
+  # Links
+  #link = "#c72125"
+  #link_hover = "#000"
+  #link_decoration = "underline"
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#c72125"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"

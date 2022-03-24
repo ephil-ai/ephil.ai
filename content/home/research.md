@@ -16,21 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: <a href="/project/opacity-ml/">See more</a>
+- description: 
   icon: square
   icon_pack: fas
-  name: Opacity in <br> Machine Learning
-- description: <a href="/project/ethics-digital-tech/">See more</a>
+  name: <a href="/project/opacity-ml/">Opacity in <br> Machine Learning</a>
+- description: 
   icon: book
   icon_pack: fas
-  name: Ethics of <br> Digital Technologies
-- description: <a href="/project/social-robots-ai/">See more</a>
+  name: <a href="/project/ethics-digital-tech/">Socially Disruptive <br> Technologies</a>
+- description: 
   icon: robot
   icon_pack: fas
-  name:   Social Robots and <br> Embodied AI
-  
-  
-
+  name:   <a href="/project/social-robots-ai/">Social Robots and <br> Embodied AI</a>
 
 
 

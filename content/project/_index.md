@@ -2,7 +2,7 @@
 title: Research Areas
 
 # Listing view
-view: showcase
+view: 5
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

@@ -1,15 +1,16 @@
 ---
 title: Opacity in Machine Learning
-summary: 
-- Opacity in Machine Learning
+summary: 'Transparency is a cornerstone of the responsible use and development of artificial intelligence. Unfortunately, many state-of-the-art AI systems are notoriously opaque: it is difficult to know what these systems are actually doing, why they do what they do, and how they do it. [(read more)](/project/opacity-ml)'
 date: "2021-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-#image:
- # caption: Photo by rawpixel on Unsplash
- # focal_point: Smart
+image:
+ #caption: Photo by rawpixel on Unsplash
+ placement: 1
+ focal_point: Smart
+ preview_only: false
 
 links:
 #- icon: twitter
