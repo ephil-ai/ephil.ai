@@ -13,7 +13,7 @@ design:
 
 The Eindhoven Center for the Philosophy of Artificial Intelligence brings visiting fellows to Eindhoven physically and digitally. Visiting fellows collaborate with researchers in the Philosophy & Ethics group to explore philosophical topics in artificial intelligence. Among others, they join research groups, give lectures and co-organize workshops, and co-author academic papers.
 
-If you are interested in joining ECPAI as a visiting fellow, [contact us](/contact)!
+If you are interested in joining ECPAI as a visiting fellow, [contact us](/#contact)!
 
 ## Current fellows
 

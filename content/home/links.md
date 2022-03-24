@@ -14,16 +14,12 @@ design:
 <div class="container">
   <div class="row align-items-start">
     <div class="col">
-    <center>
-     <a href="https://google.ca">{{< figure src="EAISI.jpg" caption="EAISI" numbered="false" >}}</a>
     </div>
     <div class="col">
     <center>
-      <a href="https://google.ca">{{< figure src="EAISI.jpg" caption="EAISI" numbered="false" >}}</a>
+      <a href="https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/">{{< figure src="EAISI-logo.jpg" height="200px" caption="" numbered="false" >}}</a>
     </div>
     <div class="col">
-    <center>
-      <a href="https://google.ca">{{< figure src="EAISI.jpg" caption="EAISI" numbered="false" >}}</a>
     </div>
   </div>
 

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Eindhoven Center for the Philosophy of Artificial Intelligence 
+title: Patrik Hummel
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
-  url: "https://ephil.ai"
+  url: "https://research.tue.nl/en/persons/patrik-hummel"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: ''
 
 #interests:
 #- Artificial Intelligence
@@ -40,13 +40,13 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:info@ephil.ai'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ephil_ai
-#- icon: google-scholar
- # icon_pack: ai
- # link: https://scholar.google.com/citations?user=7-LN-vIAAAAJ&hl=en&oi=ao
+  link: 'mailto:p.a.hummel@tue.nl'
+#- icon: twitter
+ # icon_pack: fab
+ # link: https://twitter.com/carloszednik
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=R90WJu8AAAAJ&hl=en&oi=ao
 #- icon: github
 # icon_pack: fab
  # link: https://github.com/gcushen
@@ -65,5 +65,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Principal Investigators
 ---
