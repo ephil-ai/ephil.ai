@@ -7,7 +7,7 @@ main:
   - name: Home
     url: #welcome
     weight: 10
-  - name: News
+  - name: Newslify
     url: post
     weight: 20
   - name: People
