@@ -40,7 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:l.m.m.royakkers@tue.nl'
+  link: 'mailto:v.c.muller@tue.nl'
+- icon: globe
+  icon_pack: fas
+  link: http://sophia.de
 #- icon: twitter
  # icon_pack: fab
   #link: https://twitter.com/carloszednik

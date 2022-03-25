@@ -41,6 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:c.a.zednik@tue.nl'
+- icon: globe
+  icon_pack: fas
+  link: http://explanations.ai
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/carloszednik

@@ -41,6 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:e.e.sullivan@tue.nl'
+- icon: globe
+  icon_pack: fas
+  link: https://www.eesullivan.com
 #- icon: twitter
  # icon_pack: fab
   #link: https://twitter.com/carloszednik
