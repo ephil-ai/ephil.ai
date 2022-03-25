@@ -13,10 +13,10 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: 'Research Areas'
+  - name: Research
     url: project
     weight: 30
-  - name: 'Visiting Fellows'
+  - name: Fellows
     url: visiting
     weight: 40
 
