@@ -23,7 +23,7 @@ feature:
 - description: 
   icon: book
   icon_pack: fas
-  name: <a href="/project/ethics-digital-tech/">Socially Disruptive <br> Technologies</a>
+  name: <a href="/project/human-control-ai/">Human Control <br> and AI</a>
 - description: 
   icon: robot
   icon_pack: fas
