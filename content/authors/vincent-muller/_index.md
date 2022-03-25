@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Vincent C. Müller
+title: Vincent C. Müller 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full Professor
+role: 'Full Professor <br> Area Lead: Social Robots and Embodied AI'
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Members
 ---
 
 Vincent C. Müller is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

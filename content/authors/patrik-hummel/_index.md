@@ -6,7 +6,7 @@ title: Patrik Hummel
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: 'Assistant Professor <br> Area Lead: Human Control and AI'
 
 # Organizations/Affiliations
 organizations:
@@ -16,10 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 #  courses:
@@ -65,5 +65,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Members
 ---
