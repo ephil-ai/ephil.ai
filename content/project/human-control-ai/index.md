@@ -40,3 +40,4 @@ ECPAI researchers investigate whether and how digital technologies interact with
 ## Associated Researchers
 
 - Patrik Hummel
+- Diego Morales Pérez

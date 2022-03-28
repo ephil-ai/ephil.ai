@@ -8,10 +8,11 @@ profile: false
 external_link: ""
 
 image:
- #caption: Photo by rawpixel on Unsplash
+ #caption: Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on [Unsplash](https://unsplash.com)
  placement: 1
  focal_point: Smart
  preview_only: false
+
 
 links:
 #- icon: twitter

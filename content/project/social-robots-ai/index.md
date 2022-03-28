@@ -7,9 +7,9 @@ profile: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-#image:
- # caption: Photo by rawpixel on Unsplash
- # focal_point: Smart
+image:
+ #caption: Photo by [Alex Knight](https://unsplash.com/@agk42) on [Unsplash](https://unsplash.com)
+ focal_point: Smart
 
 links:
 #- icon: twitter

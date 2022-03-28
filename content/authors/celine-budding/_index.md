@@ -11,7 +11,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/emily-sullivan"
+  url: "https://research.tue.nl/en/persons/céline-budding"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
