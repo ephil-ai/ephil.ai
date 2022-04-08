@@ -9,7 +9,9 @@ external_link: ""
 
 image:
  #caption: Photo by [Alex Knight](https://unsplash.com/@agk42) on [Unsplash](https://unsplash.com)
+ placement: 1
  focal_point: Smart
+ preview_only: false
 
 links:
 #- icon: twitter
@@ -33,5 +35,4 @@ There is a fundamental difference between an AI that works in the background as 
 
 ## Associated Researchers
 
-- Vincent C. Müller
 - Guido Löhr
