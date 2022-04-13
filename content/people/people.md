@@ -18,7 +18,7 @@ content:
   user_groups:
   - Management Team
   - Members
-  - <>
+  - <p style="color:white"></p>
   - Principal Investigators
   -  Postdocs
   -  PhD Candidates
