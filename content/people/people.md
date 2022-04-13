@@ -25,6 +25,7 @@ content:
   - Researchers
   - Administration
   - Visiting Fellows
+  - Affiliated Researchers
   - Alumni
 design:
   show_interests: false
