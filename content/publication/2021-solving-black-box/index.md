@@ -18,7 +18,7 @@ publishDate: "2022-03-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Philosophy & Technology* 34(2)"
+publication: "*Philosophy & Technology*"
 publication_short: ""
 
 abstract: 'Many of the computing systems programmed using Machine Learning are *opaque*: it is difficult to know why they do what they do or how they work. *Explainable Artificial Intelligence* aims to develop analytic techniques that render opaque computing systems transparent, but lacks a normative framework with which to evaluate these techniques’ explanatory successes. The aim of the present discussion is to develop such a framework, paying particular attention to different stakeholders’ distinct explanatory requirements. Building on an analysis of "opacity" from philosophy of science, this framework is modeled after accounts of explanation in cognitive science. The framework distinguishes between the explanation-seeking questions that are likely to be asked by different stakeholders, and specifies the general ways in which these questions should be answered so as to allow these stakeholders to perform their roles in the *Machine Learning ecosystem*. By applying the normative framework to recently developed techniques such as *input heatmapping*, *feature-detector visualization*, and *diagnostic classification*, it is possible to determine whether and to what extent techniques from Explainable Artificial Intelligence can be used to render opaque computing systems transparent and, thus, whether they can be used to solve the *Black Box Problem*.'

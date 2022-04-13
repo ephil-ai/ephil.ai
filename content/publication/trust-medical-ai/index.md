@@ -1,13 +1,12 @@
 ---
-title: "Data Justice and Data Solidarity"
+title: "Trust in medical artificial intelligence: a discretionary account"
 authors:
-- Matthias Braun
-- patrik-hummel
+- philip-nickel
 author_notes:
-- 'Authors have equally contributed to all parts of the article'
-- 'Authors have equally contributed to all parts of the article'
-date: "2022-03-11T00:00:00Z"
-doi: "10.1016/j.patter.2021.100427"
+- ''
+- ''
+date: "2022-01-24T00:00:00Z"
+doi: "10.1007/s10676-022-09630-5"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-22T00:00:00Z"
@@ -19,26 +18,20 @@ publishDate: "2022-03-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Patterns*"
+publication: "*Ethics and Information Technology*"
 publication_short: ""
 
-abstract: 'Datafication shapes and gradually transforms societies. Given this impact, issues of justice around data-driven practices have received more and more attention in recent years as shown, for example, by various reports and guidelines on artificial intelligence and data ethics. In this article, we elaborate on and defend two claims. First, these discourses on justice tend to center primarily around conceptions of fairness. We argue that justice in connection with datafication relates to, but ultimately encompasses more than, solely fairness. Second, although it is an important project to clarify what justice in connection with datafication encompasses, we argue that attention toward attitudes and practices of data solidarity have so far been largely overlooked. They are, however, indispensable as a catalytic element to advance toward data justice in practice.'
+abstract: 'This paper sets out an account of trust in AI as a relationship between clinicians, AI applications, and AI practitioners in which AI is given discretionary authority over medical questions by clinicians. Compared to other accounts in recent literature, this account more adequately explains the normative commitments created by practitioners when inviting clinicians’ trust in AI. To avoid committing to an account of trust in AI applications themselves, I sketch a reductive view on which discretionary authority is exercised by AI practitioners through the vehicle of an AI application. I conclude with four critical questions based on the discretionary account to determine if trust in particular AI applications is sound, and a brief discussion of the possibility that the main roles of the physician could be replaced by AI.'
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- 'data ethics'
 - 'artificial intelligence'
-- 'datafication'
-- 'visibility'
-- 'capability approach'
-- 'oppression'
-- 'vulnerability'
-- 'injustice'
-- 'recognition'
-- 'bias'
-- 'fairness'
+- 'trust in AI'
+- 'discretion'
+- 'normative expectations'
+- 'future of medicine'
 featured: false
 
 # links:
