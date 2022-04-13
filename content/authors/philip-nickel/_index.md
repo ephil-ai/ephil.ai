@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Philip Nickel
+title: Philip J. Nickel
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,7 +11,7 @@ role: ''
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/patrik-hummel"
+  url: "https://research.tue.nl/en/persons/philip-j-nickel"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''

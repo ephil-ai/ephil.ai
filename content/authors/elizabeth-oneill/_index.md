@@ -11,7 +11,7 @@ role: ''
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/patrik-hummel"
+  url: "https://research.tue.nl/en/persons/elizabeth-oneill"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
