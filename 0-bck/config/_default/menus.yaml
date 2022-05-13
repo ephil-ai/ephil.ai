@@ -17,7 +17,7 @@ main:
     url: visiting
     weight: 40
   - name: 'Research Areas'
-    url: research-areas
+    url: project
     weight: 40
   #- name: Events
    # url: event
