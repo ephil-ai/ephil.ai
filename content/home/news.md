@@ -21,5 +21,5 @@ content:
   page_type: post
 design:
   view: 3
-  columns: "2"
+  columns: "1"
 ---

@@ -8,7 +8,7 @@ subtitle:
 weight: 40  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '3'
+  columns: '1'
 ---
 
 <div class="container">
@@ -21,7 +21,7 @@ design:
     </div>
     <div class="col">
     <center>
-      <a href="https://www.tue.nl/en/research/research-areas/humans-and-technology/" target="_blank">Center for Humans and Technology</a>
+      <a href="https://www.tue.nl/en/research/research-areas/humans-and-technology/" target="_blank">{{< figure src="CHT-logo.jpg" height="200px" caption="" numbered="false" >}}</a>
     </div>
     <div class="col">
     </div>
