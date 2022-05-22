@@ -37,6 +37,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://pvjulien.net
+- icon: philpapers
+  icon_pack: ai
+  link: https://philpeople.org/profiles/philippe-verreault-julien
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=RI7Q9PIAAAAJ&hl=en&oi=ao

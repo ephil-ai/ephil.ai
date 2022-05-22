@@ -47,6 +47,9 @@ social:
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/carloszednik
+- icon: philpapers
+  icon_pack: ai
+  link: https://philpeople.org/profiles/philip-j-nickel
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.nl/citations?user=O0BnuXIAAAAJ&hl=en
