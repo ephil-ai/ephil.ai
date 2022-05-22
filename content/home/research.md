@@ -23,7 +23,7 @@ feature:
 - description: 
   icon: book
   icon_pack: fas
-  name: <a href="/project/human-control-ai/">Human Control <br> and AI</a>
+  name: <a href="/project/human-control-ai/">Human Control, Behavior <br> Change, and AI</a>
 - description: 
   icon: robot
   icon_pack: fas
