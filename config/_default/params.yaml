@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'Eindhoven Center for the Philosophy of Artificial Intelligence'
+    org_name: 'Eindhoven Center for the Philosophy of Artificial Intelligence'
+    description: 'Research Center on the Philosophy of Artificial Intelligence'
     twitter: 'ephil_ai'
   analytics:
     google_analytics: ''
@@ -26,6 +26,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
+    bing: ''
 
 # Site header
 
