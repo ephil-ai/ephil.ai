@@ -4,8 +4,8 @@ authors:
 - emily-sullivan
 - philippe-verreault-julien
 author_notes:
-- 'Authors have equally contributed to all parts of the article'
-- 'Authors have equally contributed to all parts of the article'
+- 'Both authors contributed equally to this research'
+- 'Both authors contributed equally to this research'
 date: "2022-07-27T00:00:00Z"
 doi: "10.1145/3514094.3534185"
 
