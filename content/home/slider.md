@@ -19,8 +19,6 @@ content:
       content: Take a look at what we're working on
       align: left
       background:
-        position: right
-        color: '#666'
         brightness: 0.5
         media: philosophical_research.png
         fit: cover
