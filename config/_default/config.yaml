@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Eindhoven Center for the Philosophy of AI # Website name
-baseURL: 'https://ephil.ai' # Website URL
+baseURL: 'https://ephil.ai/' # Website URL
 
 ############################
 ## LANGUAGE
