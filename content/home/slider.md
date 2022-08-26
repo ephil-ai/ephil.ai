@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.5
-        media: featured-human-control.jpg
+        media: 347479055_concept_art_of_people_doing_philosophical_research_.png
         fit: cover
     - title: '[Meet the Team!](/people/)'
       content: ''
