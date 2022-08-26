@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.5
-        media: featured-human-control.png
+        media: featured-human-control.jpg
         fit: cover
     - title: '[Meet the Team!](/people/)'
       content: ''
