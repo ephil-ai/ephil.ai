@@ -24,7 +24,7 @@ publication_short: ""
 abstract: 'Simple idealized models seem to provide more understanding than opaque, complex, and hyper-realistic models. However, an increasing number of scientists are going in the opposite direction by utilizing opaque machine learning models to make predictions and draw inferences, suggesting that scientists are opting for models that have less potential for understanding. Are scientists trading understanding for some other epistemic or pragmatic good when they choose a machine learning model? Or are the assumptions behind why minimal models provide understanding misguided? In this article, using the case of deep neural networks, I argue that it is not the complexity or black box nature of a model that limits how much understanding the model provides. Instead, it is a lack of scientific and empirical evidence supporting the link that connects a model to the target phenomenon that primarily prohibits understanding.'
 
 # Summary. An optional shortened abstract.
-summary:
+summary: ' '
 
 tags:
 - 'understanding'

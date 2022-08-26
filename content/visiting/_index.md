@@ -15,6 +15,8 @@ The Eindhoven Center for the Philosophy of Artificial Intelligence brings visiti
 
 We [welcome inquiries](/#contact) about fellowship opportunities for AI industry representatives, preferably mentioning concrete project ideas for which philosophical collaboration is essential. For academics, we will release more details about the fellowship program during the 2022-2023 academic year. There is a limited budget available to support travel and lodging, but we also welcome fellows with separate funding.
 
+{{< cta cta_text="📫 Inquire for a fellowship" cta_link="/#contact" cta_new_tab="false" >}}
+
 ## Current fellows
 
 - [Tarek R. Besold](http://tarekbesold.com)

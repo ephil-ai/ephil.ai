@@ -7,8 +7,13 @@ profile: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
 image:
- # caption: Photo by rawpixel on Unsplash
+ caption: Image created with DALL·E 2 by OpenAI
  placement: 1
  focal_point: Smart
  preview_only: false
