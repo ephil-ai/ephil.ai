@@ -19,8 +19,10 @@ content:
       content: Take a look at what we're working on
       align: left
       background:
+        position: right
+        color: '#666'
         brightness: 0.5
-        media: philosophical_research.png
+        media: 347479055_concept_art_of_people_doing_philosophical_research_.png
         fit: cover
     - title: '[Meet the Team!](/people/)'
       content: ''
