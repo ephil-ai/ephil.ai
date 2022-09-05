@@ -13,10 +13,10 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
- caption: Image created with DALL·E 2 by OpenAI
- placement: 4
- focal_point: Center
- preview_only: true
+ caption: "Image created with [DALL·E 2 by OpenAI](https://openai.com/dall-e-2/) (prompt: a photo of a robot at a Hollywood party)"
+ placement: 1
+ focal_point: Smart
+ preview_only: false
 
 links:
 #- icon: twitter
@@ -35,8 +35,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
-
-{{< figure src="/featured-social-robots-512px.png" height="400" width="400" caption="Image created with DALL·E 2 by OpenAI">}}
 
 There is a fundamental difference between an AI that works in the background as a computer program and an embodied AI – a robot – that physically interacts with us (and with other robots). Especially social robots will be omnipresent in the future, but we are only beginning to understand the important role of the body for cognition and cooperation. ECPAI researchers study the nature of social robotics as well as its ramifications for society, especially the future of work.
 
