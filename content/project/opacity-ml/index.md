@@ -13,7 +13,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
- caption: "Image created with [DALL·E 2 by OpenAI](https://openai.com/dall-e-2/) (prompt: an opaque deep learning model)"
+ caption: "Image created with [DALL·E by OpenAI](https://openai.com/dall-e-2/) (prompt: an opaque deep learning model)"
  placement: 1
  focal_point: Smart
  preview_only: false
