@@ -6,7 +6,7 @@ title: Guido Löhr
 superuser: false
 
 # Role/position
-role: Postdoc <br> Social Media Coordinator
+role: 'Postdoc <br> Social Media Coordinator <br> Area Lead : Social Robots and Embodied AI' 
 
 # Organizations/Affiliations
 organizations:
@@ -38,6 +38,9 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fas
+  link: https://sites.google.com/view/guidoloehr/home
 - icon: envelope
   icon_pack: fas
   link: 'mailto:g.lohr@tue.nl'
