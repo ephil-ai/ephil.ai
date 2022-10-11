@@ -3,6 +3,7 @@ title: Human Control, Behavior Change, and AI
 summary: 'Digital technologies offer great potentials to facilitate better decisions and outcomes, but they also raise ethical challenges and can undercut important human values. [(read more)](/project/human-control-ai)' 
 date: "2021-12-01T00:00:00Z"
 profile: false
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -52,6 +53,6 @@ ECPAI researchers investigate whether and how digital technologies influence hum
 - Gunter Bombaerts 
 - Lily Frank
 - Matthew J. Dennis
-- Patrik Hummel
+- Patrik Hummel (Area)
 - Philip J. Nickel
 - Roxanne van der Puil

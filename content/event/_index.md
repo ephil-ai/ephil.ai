@@ -1,11 +1,13 @@
 ---
-title: Recent & Upcoming Events
+title: Workshops
 
 # Listing view
-view: compact
+view: 2
 
-# Optional header image (relative to `assets/media/` folder).
+# Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
+
+<br>

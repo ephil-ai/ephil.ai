@@ -3,6 +3,7 @@ title: Opacity in Machine Learning
 summary: 'Transparency is a cornerstone of the responsible use and development of artificial intelligence. Unfortunately, many state-of-the-art AI systems are notoriously opaque: it is difficult to know what these systems are actually doing, why they do what they do, and how they do it. [(read more)](/project/opacity-ml)'
 date: "2021-12-01T00:00:00Z"
 profile: false
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -43,8 +44,8 @@ ECPAI researchers are engaged in the project of defining normative constraints o
 
 ## Associated Researchers
 
-- Emily Sullivan
 - Carlos Zednik
-- Philippe Verreault-Julien
 - Céline Budding
+- Emily Sullivan (Area Lead)
+- Philippe Verreault-Julien
 - Yeji Streppel

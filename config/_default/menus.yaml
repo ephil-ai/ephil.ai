@@ -11,18 +11,30 @@ main:
     url: post
     weight: 20
   - name: People
-    url: people
+    identifier: people
     weight: 30
   - name: Research
     url: project
-    weight: 30
-  - name: Fellows
-    url: visiting
     weight: 40
-
-  #- name: Events
-   # url: event
-   # weight: 40
+  - name: Members
+    parent: people
+    url: people/
+    weight: 10
+  - name: Visiting
+    parent: people
+    url: visiting/
+    weight: 20
+  - name: Activities
+    identifier: activities
+    weight: 50
+  - name: Workshops
+    parent: activities
+    url: event/
+    weight: 10
+  - name: Reading Groups
+    parent: activities
+    url: activities/reading-groups/
+    weight: 20
   - name: Publications
     url: publication
     weight: 60

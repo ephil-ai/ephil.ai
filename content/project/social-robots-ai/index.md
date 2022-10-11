@@ -3,6 +3,7 @@ title: Social Robots and Embodied AI
 summary: 'There is a fundamental difference between an AI that works in the background as a computer program and an embodied AI – a robot – that physically interacts with us (and with other robots).  [(read more)](/project/social-robots-ai)'
 date: "2021-12-01T00:00:00Z"
 profile: false
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,4 +41,7 @@ There is a fundamental difference between an AI that works in the background as 
 
 ## Associated Researchers
 
-- Guido Löhr
+- Céline Budding
+- [Guido Löhr](mailto:g.lohr@tue.nl) (Area Lead)
+- Matthew Dennis
+- Michael Dale

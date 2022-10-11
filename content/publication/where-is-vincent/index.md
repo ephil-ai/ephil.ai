@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*CUI '22: Proceedings of the 4th Conference on Conversational User Interfaces*"
-publication_short: "CUI '22"
+publication_short: "*CUI '22*"
 
 abstract: "In what ways could the future of emotional bonds between humans and conversational AI change us? To explore this question in a multi-faceted manner, designers, engineers, philosophers as separate focus groups were given a design fiction probe— a story of a chatbot’s disappearance from a person’s life. Though articulated in discipline-specific ways, participants expressed similar concerns and hopes: 1) caring for a machine could teach people to emotionally care for themselves and others, 2) the boundary between human and non-human emotions may become blurred when people project their own emotions onto AI, e.g., a bot’s ”breakdown” as one’s own, and 3) people may then intertwine their identities with AI through emotions. We consider ethical ramifications of socially constructed emotions between humans and conversational agents."
 
