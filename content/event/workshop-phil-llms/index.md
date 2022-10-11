@@ -1,6 +1,6 @@
 ---
 type: event
-title: Workshop Philosophy of Large Language Models
+title: Hybrid workshop on the philosophy of large language models (with a focus on communication and explainable AI)
 
 event: ''
 event_url: ''
@@ -12,10 +12,9 @@ location: Eindhoven University of Technology and online
  # postcode: '94305'
  # country: 'The Netherlands'
 
-summary: "Hybrid workshop on the philosophy of large language models (with a focus on communication and explainable AI). Hosted and sponsored by the [Eindhoven Center for the Philosophy of Artificial Intelligence](https://ephil.ai) ([@ephil.ai](https://twitter.com/ephil_ai)), the research consortium [Ethics of Socially Disruptive Technologies (ESDIT)](https://www.esdit.nl) and the [Philosophy and Ethics Group](https://research.tue.nl/en/organisations/philosophy-ethics) at Eindhoven University of Technology ([@PhilEthicsTuE](https://twitter.com/PhilEthicsTUe))."
-abstract: "In this workshop, we explore two aspects of the nature of large language models like LaMDA, GPT3 or PaLM. On the first day, we will explore the question of what it can mean for these LLMs to make speech acts or to communicate with us. What can it mean for a chatbot to make an assertion or make a demand? 
-On the second day, we will discuss LLMs in relation to explainable AI. How can we make sense of the transformer models that make modern LLMs so successful?
-The workshop is a hybrid event and open to anyone who is interested. It will take place at the end of January, most likely either January 25th and 26th, or January 26th and 27th."
+summary: ""
+
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -62,6 +61,13 @@ slides:
 projects: [social-robots-ai]
 ---
 
+Hybrid workshop on the philosophy of large language models (with a focus on communication and explainable AI). Hosted and sponsored by the [Eindhoven Center for the Philosophy of Artificial Intelligence](https://ephil.ai) ([@ephil.ai](https://twitter.com/ephil_ai)), the research consortium [Ethics of Socially Disruptive Technologies (ESDIT)](https://www.esdit.nl) and the [Philosophy and Ethics Group](https://research.tue.nl/en/organisations/philosophy-ethics) at Eindhoven University of Technology ([@PhilEthicsTuE](https://twitter.com/PhilEthicsTUe)).
+
+In this workshop, we explore two aspects of the nature of large language models like LaMDA, GPT3 or PaLM. On the first day, we will explore the question of what it can mean for these LLMs to make speech acts or to communicate with us. What can it mean for a chatbot to make an assertion or make a demand? 
+On the second day, we will discuss LLMs in relation to explainable AI. How can we make sense of the transformer models that make modern LLMs so successful?
+The workshop is a hybrid event and open to anyone who is interested. It will take place at the end of January, most likely either January 25th and 26th, or January 26th and 27th.
+
+
 ## Confirmed speakers:
 
 -	[Herman Cappelen](https://www.hermancappelen.net) (online)
@@ -70,6 +76,8 @@ projects: [social-robots-ai]
 -	[Raphaël Millière](https://www.raphaelmilliere.com) (online) 
 -	[Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/) 
 -	[Patrick Butlin](https://patrickbutlin.com)
+
+## Call for Papers
 
 We have space for a few contributions from graduate students or early career researchers.
 
