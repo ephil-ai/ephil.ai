@@ -44,4 +44,4 @@ Moreover, there has recently been some work on the question of whether robots th
 
 **Date and Time of first meeting:** October 27 at 4 PM CEST, online.
 
-Contact [Michael Dale](mailto:m.t.dale@tue.nl) or [Guido Lohr](mailto:g.lohr@tue.nl) to join the group or receive updates.
+Contact [Michael Dale](mailto:m.t.dale@tue.nl) or [Guido Löhr](mailto:g.lohr@tue.nl) to join the group or receive updates.
