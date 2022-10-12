@@ -18,8 +18,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-25T13:00:00Z"
-date_end: "2022-01-27T15:00:00Z"
+date: "2023-01-26T13:00:00Z"
+date_end: "2023-01-27T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -71,18 +71,18 @@ The workshop is a hybrid event and open to anyone who is interested. It will tak
 ## Confirmed speakers:
 
 -	[Herman Cappelen](https://www.hermancappelen.net) (online)
--	[Philip Nickel](https://www.tue.nl/en/research/researchers/philip-nickel/)
 -	Jan Michel 
+-	[Patrick Butlin](https://patrickbutlin.com)
+-	[Philip Nickel](https://www.tue.nl/en/research/researchers/philip-nickel/)
 -	[Raphaël Millière](https://www.raphaelmilliere.com) (online) 
 -	[Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/) 
--	[Patrick Butlin](https://patrickbutlin.com)
 
 ## Call for Papers
 
 We have space for a few contributions from graduate students or early career researchers.
 
-Please submit an abstract of 500-1000 words to g.lohr@tue.nl.
+Please submit an abstract of 500 words to [Guido Löhr](mailto:g.lohr@tue.nl).
 
-**Deadline is December 15.** 
+**Deadline is December 2nd 2022.** 
 
-If you would like to participate, you can register using the same email address and we will send you an invitation to MS Teams.
+If you would like to participate, you can register using the same email address and we will send you an invitation to Microsoft Teams.
