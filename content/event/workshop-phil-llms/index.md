@@ -1,6 +1,6 @@
 ---
 type: event
-title: Hybrid Workshop on the Philosophy of Large Language models
+title: Hybrid Workshop on the Philosophy of Large Language Models
 
 event: ''
 event_url: ''
@@ -26,7 +26,7 @@ all_day: true
 publishDate: "2022-10-11T00:00:00Z"
 
 authors: [guido-lohr, celine-budding]
-tags: [language models]
+tags: [language models, communication, XAI, workshop]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -58,7 +58,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [social-robots-ai]
+projects: [social-robots-ai, opacity-ml]
 ---
 
 Hybrid workshop on the philosophy of large language models (with a focus on communication and explainable AI). Hosted and sponsored by the [Eindhoven Center for the Philosophy of Artificial Intelligence](https://ephil.ai) ([@ephil.ai](https://twitter.com/ephil_ai)), the research consortium [Ethics of Socially Disruptive Technologies (ESDIT)](https://www.esdit.nl), and the [Philosophy and Ethics Group](https://research.tue.nl/en/organisations/philosophy-ethics) at [Eindhoven University of Technology](https://www.tue.nl/en/) ([@PhilEthicsTuE](https://twitter.com/PhilEthicsTUe)).
