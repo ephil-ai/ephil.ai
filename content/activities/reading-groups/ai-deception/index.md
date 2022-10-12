@@ -15,7 +15,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
- caption: "Image created with [DALL·E by OpenAI](https://openai.com/dall-e-2/) (prompt: a photo of a robot at a Hollywood party)"
+ caption: "Image created with [DALL·E by OpenAI](https://openai.com/dall-e-2/) (prompt: a photo of a robot that looks like dr evil holding a persian cat)"
  placement: 1
  focal_point: Smart
  preview_only: false
@@ -42,4 +42,6 @@ As social robots become more prevalent, some worry about the nature of the relat
 
 Moreover, there has recently been some work on the question of whether robots themselves can lie to us or in other ways deceive us, or whether they can only be used by other humans to do so. What does it mean for anyone to deceive us and can this be applied to robots? What requirements do chatbots for example have to meet, such that it would be possible for them to mislead or trick us?
 
-**Date and Time of first meeting:** October 27 at 4 PM. It will be online.
+**Date and Time of first meeting:** October 27 at 4 PM CEST, online.
+
+Contact [Michael Dale](mailto:m.t.dale@tue.nl) or [Guido Lohr](mailto:g.lohr@tue.nl) to join the group or receive updates.
