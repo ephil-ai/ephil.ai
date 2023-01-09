@@ -61,28 +61,50 @@ slides:
 projects: [social-robots-ai, opacity-ml]
 ---
 
+## Summary
+
 Hybrid workshop on the philosophy of large language models (with a focus on communication and explainable AI). Hosted and sponsored by the [Eindhoven Center for the Philosophy of Artificial Intelligence](https://ephil.ai) ([@ephil.ai](https://twitter.com/ephil_ai)), the research consortium [Ethics of Socially Disruptive Technologies (ESDIT)](https://www.esdit.nl), and the [Philosophy and Ethics Group](https://research.tue.nl/en/organisations/philosophy-ethics) at [Eindhoven University of Technology](https://www.tue.nl/en/) ([@PhilEthicsTuE](https://twitter.com/PhilEthicsTUe)).
 
-In this workshop, we explore two aspects of the nature of large language models like LaMDA, GPT3 or PaLM. On the first day, we will explore the question of what it can mean for these LLMs to make speech acts or to communicate with us. What can it mean for a chatbot to make an assertion or make a demand? 
-On the second day, we will discuss LLMs in relation to explainable AI. How can we make sense of the transformer models that make modern LLMs so successful?
-The workshop is a hybrid event and open to anyone who is interested. It will take place at the end of January, most likely either January 25th and 26th, or January 26th and 27th.
+In this workshop, we explore two aspects of the nature of large language models like LaMDA, GPT3 or PaLM. First, we will explore the question of what it can mean for these LLMs to make speech acts or to communicate with us. For example, what could it mean for a chatbot to make an assertion or make a demand? Second, we will discuss LLMs in relation to explainable AI. How can we make sense of the transformer models that make modern LLMs so successful?
+
+The workshop is a hybrid event and open to anyone who is interested.  
 
 
-## Confirmed speakers:
+## Schedule
 
--	[Herman Cappelen](https://www.hermancappelen.net) (online)
--	Jan Michel 
--	[Patrick Butlin](https://patrickbutlin.com)
--	[Philip Nickel](https://www.tue.nl/en/research/researchers/philip-nickel/)
--	[Raphaël Millière](https://www.raphaelmilliere.com) (online) 
--	[Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/) 
+All time is in Central European Time (CET).
 
-## Call for Papers
+### Day 1: 26th January 2023
 
-We have space for a few contributions from graduate students or early career researchers.
+**Room: Atlas 6.210**
 
-Please submit an abstract of 500 words to [Guido Löhr](mailto:g.lohr@tue.nl).
+- 13:00: Welcome (tea/coffee/sweets)
+- 13:20: Introduction
+- 13:30--15:15: **LLMs and Explainable AI I**
+  - 13:30--14:30: Keynote [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/)
+  - 14:30--15:15: [Raphaël Millière](https://www.raphaelmilliere.com) (online) 
+- 15:15--15:30: Coffee Break
+- 15:30--17:00:  **Chatbots and Communication I**
+  - 15:30--16:15: [Patrick Butlin](https://patrickbutlin.com)
+  - 16:15--17:00: [Philip Nickel](https://www.tue.nl/en/research/researchers/philip-nickel/)
+- 17:00--17:15: Break
+- 19:00: Dinner (venue TBD)
 
-**Deadline is December 2nd 2022.** 
 
-If you would like to participate, you can register using the same email address and we will send you an invitation to Microsoft Teams.
+### Day 2: 27th January 2023
+
+**Room: Atlas 1.652**
+
+- 10:00--12:30: **Chatbots and Communications II**
+  - 10:00--10:45: [Jan Michel](https://www.philosophie.hhu.de/en/staff/philosophy-vi-philosophy-of-mind-and-cognition/staff-members/translate-to-english-ehemalige-mitarbeiter/innen/jan-g-michel) & [Mitchell S. Green](https://sites.google.com/site/mitchsgreenphilosophy/home)
+  - 10:45--11:00: Coffee Break
+  - 11:00--11:45: [Guido Löhr](https://sites.google.com/view/guidoloehr/home)  
+  - 11:45--12:30: [Atoosa Kasirzadeh](https://kasirzadeh.org) (online)   
+- 12:30--13:30: Lunch
+- 13:30--16:15: **LLMs and Explainable AI II**
+  - 13:30--14:30: Keynote [Herman Cappelen](https://www.hermancappelen.net)
+  - 14:30–15:15: Céline Budding
+  - 15:15--15:30: Coffee Break
+  - 15:30--16:15: Kristian González Barman
+- Conclusion
+ 
