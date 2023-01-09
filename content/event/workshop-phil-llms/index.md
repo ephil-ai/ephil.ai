@@ -84,7 +84,7 @@ All time is in Central European Time (CET).
   - 13:30--14:30: Keynote [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/)
   - 14:30--15:15: [Raphaël Millière](https://www.raphaelmilliere.com) (online) 
 - 15:15--15:30: Coffee Break
-- 15:30--17:00:  **Chatbots and Communication I**
+- 15:30--18:00:  **Chatbots and Communication I**
   - 15:30--16:15: [Patrick Butlin](https://patrickbutlin.com)
   - 16:15--17:00: [Philip Nickel](https://www.tue.nl/en/research/researchers/philip-nickel/)
   - 17:00--17:15: Break
