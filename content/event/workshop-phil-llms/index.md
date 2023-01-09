@@ -87,7 +87,8 @@ All time is in Central European Time (CET).
 - 15:30--17:00:  **Chatbots and Communication I**
   - 15:30--16:15: [Patrick Butlin](https://patrickbutlin.com)
   - 16:15--17:00: [Philip Nickel](https://www.tue.nl/en/research/researchers/philip-nickel/)
-- 17:00--17:15: Break
+  - 17:00--17:15: Break
+  - 17:15--18:00: [Anna Strasser](https://www.denkwerkstatt.berlin)
 - 19:00: Dinner (venue TBD)
 
 
