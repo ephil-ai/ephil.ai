@@ -67,12 +67,12 @@ Hybrid workshop on the philosophy of large language models (with a focus on comm
 
 In this workshop, we explore two aspects of the nature of large language models like LaMDA, GPT3 or PaLM. First, we will explore the question of what it can mean for these LLMs to make speech acts or to communicate with us. For example, what could it mean for a chatbot to make an assertion or make a demand? Second, we will discuss LLMs in relation to explainable AI. How can we make sense of the transformer models that make modern LLMs so successful?
 
-The workshop is a hybrid event and open to anyone who is interested.  
+The workshop is a hybrid event and open to anyone who is interested. If you are interested in attending online or in person, please email [Guido Löhr](mailto:g.lohr@tue.nl) and we will send you additional information.
 
 
 ## Schedule
 
-All time is in Central European Time (CET).
+Time is in Central European Time (CET).
 
 ### Day 1: 26th January 2023
 
@@ -88,8 +88,8 @@ All time is in Central European Time (CET).
   - 15:30--16:15: [Patrick Butlin](https://patrickbutlin.com)
   - 16:15--17:00: [Philip Nickel](https://www.tue.nl/en/research/researchers/philip-nickel/)
   - 17:00--17:15: Break
-  - 17:15--18:00: [Anna Strasser](https://www.denkwerkstatt.berlin)
-- 19:00: Dinner (venue TBD)
+  - 17:15--18:00: [Anna Strasser](https://www.denkwerkstatt.berlin) (online)
+- 19:00: Dinner at [Gezana](https://www.gezana-eindhoven.com)
 
 
 ### Day 2: 27th January 2023
@@ -106,6 +106,6 @@ All time is in Central European Time (CET).
   - 13:30--14:30: Keynote [Herman Cappelen](https://www.hermancappelen.net)
   - 14:30–15:15: Céline Budding
   - 15:15--15:30: Coffee Break
-  - 15:30--16:15: Kristian González Barman
+  - 15:30--16:15: Kristian González Barman (online)
 - Conclusion
  
