@@ -79,17 +79,17 @@ Time is in Central European Time (CET).
 **Room: Atlas 6.210**
 
 - 13:00: Welcome (tea/coffee/sweets)
-- 13:20: Introduction
+- 13:15: Introduction (Löhr, Budding)
 - 13:30--15:15: **LLMs and Explainable AI I**
   - 13:30--14:30: Keynote [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/)
-  - 14:30--15:15: [Raphaël Millière](https://www.raphaelmilliere.com) (online) 
+  - 14:30--15:15: [Raphaël Millière](https://www.raphaelmilliere.com) (online) — *Do large language models have any  semantic competence?*
 - 15:15--15:30: Coffee Break
 - 15:30--18:00:  **Chatbots and Communication I**
-  - 15:30--16:15: [Patrick Butlin](https://patrickbutlin.com)
+  - 15:30--16:15: [Patrick Butlin](https://patrickbutlin.com) — *Functions, content and understanding in current AI*
   - 16:15--17:00: [Philip Nickel](https://www.tue.nl/en/research/researchers/philip-nickel/)
   - 17:00--17:15: Break
-  - 17:15--18:00: [Anna Strasser](https://www.denkwerkstatt.berlin) (online)
-- 19:00: Dinner at [Gezana](https://www.gezana-eindhoven.com)
+  - 17:15--18:00: [Jan Michel](https://www.philosophie.hhu.de/en/staff/philosophy-vi-philosophy-of-mind-and-cognition/staff-members/translate-to-english-ehemalige-mitarbeiter/innen/jan-g-michel) & [Mitchell S. Green](https://sites.google.com/site/mitchsgreenphilosophy/home) — *What might machines mean?*
+- 19:00: Dinner at [Gezana](https://www.gezana-eindhoven.com) ([map](https://goo.gl/maps/qrQHYzK9RQjsBuAG9))
 
 
 ### Day 2: 27th January 2023
@@ -97,15 +97,15 @@ Time is in Central European Time (CET).
 **Room: Atlas 1.652**
 
 - 10:00--12:30: **Chatbots and Communications II**
-  - 10:00--10:45: [Jan Michel](https://www.philosophie.hhu.de/en/staff/philosophy-vi-philosophy-of-mind-and-cognition/staff-members/translate-to-english-ehemalige-mitarbeiter/innen/jan-g-michel) & [Mitchell S. Green](https://sites.google.com/site/mitchsgreenphilosophy/home)
+   - 10:00--10:45: [Anna Strasser](https://www.denkwerkstatt.berlin) (online) — *A new kind of comprehension in large language models?*
   - 10:45--11:00: Coffee Break
-  - 11:00--11:45: [Guido Löhr](https://sites.google.com/view/guidoloehr/home)  
+  - 11:00--11:45: [Guido Löhr](https://sites.google.com/view/guidoloehr/home)  — *Communicating with chatbots*
   - 11:45--12:30: [Atoosa Kasirzadeh](https://kasirzadeh.org) (online)   
 - 12:30--13:30: Lunch
 - 13:30--16:15: **LLMs and Explainable AI II**
   - 13:30--14:30: Keynote [Herman Cappelen](https://www.hermancappelen.net)
-  - 14:30–15:15: Céline Budding
+  - 14:30–15:15: Céline Budding — *Tacit knowledge and how-explanations of LLMs*
   - 15:15--15:30: Coffee Break
-  - 15:30--16:15: Kristian González Barman (online)
+  - 15:30--16:15: Kristian González Barman (online) — *The understanding test* 
 - Conclusion
  
