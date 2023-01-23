@@ -63,7 +63,7 @@ projects: [social-robots-ai, opacity-ml]
 
 ## Summary
 
-Hybrid workshop on the philosophy of large language models (with a focus on communication and explainable AI). Hosted and sponsored by the [Eindhoven Center for the Philosophy of Artificial Intelligence](https://ephil.ai) ([@ephil.ai](https://twitter.com/ephil_ai)), the research consortium [Ethics of Socially Disruptive Technologies (ESDIT)](https://www.esdit.nl), and the [Philosophy and Ethics Group](https://research.tue.nl/en/organisations/philosophy-ethics) at [Eindhoven University of Technology](https://www.tue.nl/en/) ([@PhilEthicsTuE](https://twitter.com/PhilEthicsTUe)).
+Hybrid workshop on the philosophy of large language models (with a focus on communication and explainable AI). Hosted and sponsored by the [Eindhoven Center for the Philosophy of Artificial Intelligence](https://ephil.ai) ([@ephil.ai](https://twitter.com/ephil_ai)), the research consortium [Ethics of Socially Disruptive Technologies (ESDIT)](https://www.esdit.nl), and the [Philosophy and Ethics Group](https://research.tue.nl/en/organisations/philosophy-ethics) at [Eindhoven University of Technology](https://www.tue.nl/en/) ([@PhilEthicsTuE](https://twitter.com/PhilEthicsTUe)). The workshop is organized by Guido Löhr and Céline Budding.
 
 In this workshop, we explore two aspects of the nature of large language models like LaMDA, GPT3 or PaLM. First, we will explore the question of what it can mean for these LLMs to make speech acts or to communicate with us. For example, what could it mean for a chatbot to make an assertion or make a demand? Second, we will discuss LLMs in relation to explainable AI. How can we make sense of the transformer models that make modern LLMs so successful?
 
@@ -85,10 +85,10 @@ Time is in Central European Time (CET).
   - 14:30--15:15: [Raphaël Millière](https://www.raphaelmilliere.com) (online) — *Do large language models have any  semantic competence?*
 - 15:15--15:30: Coffee Break
 - 15:30--18:00:  **Chatbots and Communication I**
-  - 15:30--16:15: [Patrick Butlin](https://patrickbutlin.com) — *Functions, content and understanding in current AI*
+  - 15:30--16:15: [Jan Michel](https://www.philosophie.hhu.de/en/staff/philosophy-vi-philosophy-of-mind-and-cognition/staff-members/translate-to-english-ehemalige-mitarbeiter/innen/jan-g-michel) & [Mitchell S. Green](https://sites.google.com/site/mitchsgreenphilosophy/home) — *What might machines mean?*
   - 16:15--17:00: [Philip Nickel](https://www.tue.nl/en/research/researchers/philip-nickel/)
   - 17:00--17:15: Break
-  - 17:15--18:00: [Jan Michel](https://www.philosophie.hhu.de/en/staff/philosophy-vi-philosophy-of-mind-and-cognition/staff-members/translate-to-english-ehemalige-mitarbeiter/innen/jan-g-michel) & [Mitchell S. Green](https://sites.google.com/site/mitchsgreenphilosophy/home) — *What might machines mean?*
+  - 17:15--18:00: [Patrick Butlin](https://patrickbutlin.com) — *Functions, content and understanding in current AI*
 - 19:00: Dinner at [Gezana](https://www.gezana-eindhoven.com) ([map](https://goo.gl/maps/qrQHYzK9RQjsBuAG9))
 
 
@@ -107,5 +107,5 @@ Time is in Central European Time (CET).
   - 14:30–15:15: Céline Budding — *Tacit knowledge and how-explanations of LLMs*
   - 15:15--15:30: Coffee Break
   - 15:30--16:15: Kristian González Barman (online) — *The understanding test* 
-- Conclusion
+- Conclusion/Drinks
  
