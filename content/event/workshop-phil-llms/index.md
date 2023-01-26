@@ -96,14 +96,14 @@ Time is in Central European Time (CET).
 
 **Room: Atlas 1.652**
 
-- 10:00--12:30: **Chatbots and Communications II**
-   - 10:00--10:45: Céline Budding — *Tacit knowledge and how-explanations of LLMs*
+- 10:00--12:30: **LLMs and Explainable AI II**
+   - 10:00--10:45: [Atoosa Kasirzadeh](https://kasirzadeh.org) (online)  — *Conversation with AI: aligning language models with human values*
   - 10:45--11:00: Coffee Break
-  - 11:00--11:45: [Guido Löhr](https://sites.google.com/view/guidoloehr/home)  — *Communicating with chatbots*
-  - 11:45--12:30: [Atoosa Kasirzadeh](https://kasirzadeh.org) (online)   
+  - 11:00--11:45: [Guido Löhr](https://sites.google.com/view/guidoloehr/home)  — *Responsibility gaps and proxy agents*
+  - 11:45--12:30: Céline Budding — *Tacit knowledge and how-explanations of LLMs*
 - 12:30--13:30: Lunch
-- 13:30--16:15: **LLMs and Explainable AI II**
-  - 13:30--14:30: Keynote [Herman Cappelen](https://www.hermancappelen.net)
+- 13:30--16:15: **Chatbots and Communications II**
+  - 13:30--14:30: Keynote [Herman Cappelen](https://www.hermancappelen.net) — *Explainable and interpretable AI: perspectives from externalism & conceptual engineering*
   - 14:30–15:15: [Anna Strasser](https://www.denkwerkstatt.berlin) (online) — *A new kind of comprehension in large language models?*
   - 15:15--15:30: Coffee Break
   - 15:30--16:15: Kristian González Barman (online) — *The understanding test* 
