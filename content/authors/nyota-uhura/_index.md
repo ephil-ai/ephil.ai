@@ -1,38 +1,28 @@
 ---
 # Display name
-title: Carlos Zednik
+title: Nyota Uhura
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:  Director <br> Assistant Professor
-weight: 1
+role:  Social Media Coordinator
+weight: 3
 
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/carlos-zednik"
+  url: "https://research.tue.nl/en/persons/emily-sullivan"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
-#education:
-#  courses:
- # - course: PhD in Artificial Intelligence
- #   institution: Stanford University
-  #  year: 2012
-  #- course: MEng in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  year: 2009
-  #- course: BSc in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-   # year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,19 +31,19 @@ bio: ''
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:c.a.zednik@tue.nl'
+  link: 'mailto:p.verreault-julien@tue.nl'
+#- icon: twitter
+ # icon_pack: fab
+  #link: https://twitter.com/pvjulien
 - icon: globe
   icon_pack: fas
-  link: http://explanations.ai
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/carloszednik
+  link: https://pvjulien.net
 - icon: philpapers
   icon_pack: ai
-  link: https://philpeople.org/profiles/carlos-zednik
+  link: https://philpeople.org/profiles/philippe-verreault-julien
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=7-LN-vIAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=RI7Q9PIAAAAJ&hl=en&oi=ao
 #- icon: github
 # icon_pack: fab
  # link: https://github.com/gcushen
@@ -74,3 +64,7 @@ highlight_name: false
 user_groups:
 - Management Team
 ---
+
+Philippe Verreault-Julien is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

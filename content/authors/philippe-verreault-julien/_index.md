@@ -6,7 +6,8 @@ title: Philippe Verreault-Julien
 superuser: false
 
 # Role/position
-role: Postdoc <br> Webmaster
+role:  Managing Director <br> Postdoc
+weight: 2
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- <p style="color:white"></p>
+- Management Team
 ---
 
 Philippe Verreault-Julien is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

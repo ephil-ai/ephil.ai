@@ -1,5 +1,5 @@
 ---
-title: Opacity in Machine Learning
+title: Trustworthy AI
 summary: 'Transparency is a cornerstone of the responsible use and development of artificial intelligence. Unfortunately, many state-of-the-art AI systems are notoriously opaque: it is difficult to know what these systems are actually doing, why they do what they do, and how they do it. [(read more)](/project/opacity-ml)'
 date: "2021-12-01T00:00:00Z"
 profile: false
@@ -41,6 +41,11 @@ slides: ''
 Transparency is a cornerstone of the responsible use and development of artificial intelligence. Unfortunately, many state-of-the-art AI systems are notoriously opaque: it is difficult to know what these systems are actually doing, why they do what they do, and how they do it. The Explainable AI research program is dedicated to the challenge of rendering opaque AI systems transparent. However, questions remain about what exactly opacity is, what kinds of transparency are required when and by whom, and how such transparency can actually be achieved.
 
 ECPAI researchers are engaged in the project of defining normative constraints on Explainable AI, and actively collaborate with industry and research to develop methods with which to explain the behavior of opaque AI systems. To this end, they study typical use-cases of Explainable AI, evaluate the possibilities and limits of current explanatory practices, and participate in regulatory efforts to guide their development and use.
+
+## Valorization
+
+Carlos Zednik and Yeji Streppel haved helped write a preliminary standard for explainable AI (XAI) called [DIN SPEC 92001-3]((https://www.beuth.de/en/technical-rule/din-spec-92001-3/369799101)). This standard reflects the current state of XAI research and proposes a process model for developing trustworthy XAI systems that could be used to ensure the quality of machine learning systems. The proposed workflow includes formally specifying use-case-specific XAI problems and formally verifying the resulting solutions.
+
 
 ## Associated Researchers
 

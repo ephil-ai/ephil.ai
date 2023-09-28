@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Carlos Zednik
+title: Adam Arafan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:  Director <br> Assistant Professor
-weight: 1
+role: 'PhD Candidate'
 
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/carlos-zednik"
+  url: "https://research.tue.nl/en/persons/roxanne-van-der-puil"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 #  courses:
@@ -39,21 +38,18 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:c.a.zednik@tue.nl'
 - icon: globe
   icon_pack: fas
-  link: http://explanations.ai
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/carloszednik
-- icon: philpapers
-  icon_pack: ai
-  link: https://philpeople.org/profiles/carlos-zednik
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=7-LN-vIAAAAJ&hl=en&oi=ao
+  link: https://research.tue.nl/en/persons/roxanne-van-der-puil
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:p.a.hummel@tue.nl'
+#- icon: twitter
+ # icon_pack: fab
+ # link: https://twitter.com/carloszednik
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.nl/citations?user=O0BnuXIAAAAJ&hl=en
 #- icon: github
 # icon_pack: fab
  # link: https://github.com/gcushen
@@ -72,5 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Management Team
+- PhD Candidates
 ---

@@ -1,6 +1,6 @@
 ---
-title: Social Robots and Embodied AI
-summary: 'There is a fundamental difference between an AI that works in the background as a computer program and an embodied AI – a robot – that physically interacts with us (and with other robots).  [(read more)](/project/social-robots-ai)'
+title: AI in Education
+summary: 'Recent progress in artificial intelligence presents a unique opportunity for higher education, but also poses challenges. [(read more)](/project/social-robots-ai)'
 date: "2021-12-01T00:00:00Z"
 profile: false
 show_date: false
@@ -37,11 +37,27 @@ url_video: ""
 slides: ''
 ---
 
-There is a fundamental difference between an AI that works in the background as a computer program and an embodied AI – a robot – that physically interacts with us (and with other robots). Especially social robots will be omnipresent in the future, but we are only beginning to understand the important role of the body for cognition and cooperation. ECPAI researchers study the nature of social robotics as well as its ramifications for society, especially the future of work.
+Recent progress in artificial intelligence presents a unique opportunity for higher education, but also poses challenges. Generative AI systems are increasingly capable of producing text, images, and computer code. Students can use these systems to increase their productivity and level the playing field between e.g. native and non-native speakers, but can also use them to undermine the validity of traditional assessment methods. At the same time, data-driven methods in learning analytics, automated review, and personalized questioning can be used by teachers to promote objectivity and learning success, while also introducing risks such as potential bias and lack of transparency.
+
+ECPAI researchers are involved in many different ways to better understand the impact of AI in higher education, and are actively involved in the development of tools and policy frameworks to ensure that this impact is positive. In particular, funded research projects are used to explore the use of chatbots for academic writing, and several researchers are actively involved in the articulation of education policy at the university and beyond.
+
+## Funded Projects
+
+- [BOOST!](https://boost.tue.nl) / [4TUCEE](https://www.4tu.nl/cee/) project on generative AI for writing education
+
+## Output
+
+- Membership in IE&IS task force on AI in education
+- Participation in TU/e Learning Community on AI in education
+
+## Activities
+
+- Matthew Dennis contributed to a [Panel for the Future of Science and Technology at the European Parliament](https://www.europarl.europa.eu/stoa/en/events/details/human-computer-confluence-in-education/20230901WKS05501).
+- Carlos Zednik and Gunter Bombaerts will lead a Learning Community meeting on 30th October 2023.
 
 ## Associated Researchers
 
-- Céline Budding
-- [Guido Löhr](mailto:g.lohr@tue.nl) (Area Lead)
-- Matthew Dennis
-- Michael Dale
+- Gunter Bombaerts
+- Carlos Zednik
+- Vlasta Sikimić
+- Matthew Dennis (?)

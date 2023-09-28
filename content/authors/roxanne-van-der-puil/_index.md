@@ -6,7 +6,7 @@ title: Roxanne van der Puil
 superuser: false
 
 # Role/position
-role: ''
+role: 'PhD Candidate'
 
 # Organizations/Affiliations
 organizations:
@@ -68,5 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliated Researchers
+- PhD Candidates
 ---
