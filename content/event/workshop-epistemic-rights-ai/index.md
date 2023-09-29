@@ -117,4 +117,25 @@ Time is in Central European Time (CET).
 
 ## Practical Information
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu ipsum malesuada, pulvinar urna sit amet, fringilla dui. Etiam quis sem eu velit aliquet consectetur vitae in quam. Vivamus a massa at nibh feugiat malesuada sed non est. Aliquam erat volutpat. Aenean blandit, nulla rutrum ornare tincidunt, sapien ex placerat eros, eu condimentum mauris turpis eget lorem. Sed sit amet consectetur nisi, eget lobortis velit. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur fringilla pulvinar molestie. Phasellus convallis arcu non iaculis lobortis. Proin luctus congue sem sit amet condimentum. Pellentesque eu ultrices lacus, sed vestibulum tortor. Pellentesque id urna volutpat, auctor massa sit amet, lacinia magna. Nam sit amet elementum sem. Ut in ullamcorper dolor. Donec tincidunt id enim sed vestibulum.
+The workshop will take place at [Hotel De Bildeberg](https://www.bilderberg.nl/en/oosterbeek/hotel-de-bilderberg/).
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2456.9230215667135!2d5.81527907664908!3d51.990056671927086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c7af1a3b32acbf%3A0x190e7d091d88b9c5!2sHotel%20de%20Bilderberg!5e0!3m2!1sen!2sca!4v1695978646765!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### Travel
+
+If travelling by **air**, the easiest airport to travel to is [Schiphol Airport (Amsterdam)](https://www.schiphol.nl/en/). Other possibilities are:
+
+- [Rotterdam The Hague Airport](https://www.rotterdamthehagueairport.nl/en/)
+- [Eindhoven Airport](https://www.eindhovenairport.nl/en)
+
+If travelling by **train**, [Arnhem Centraal](https://www.ns.nl/en/featured/destinations/arnhem) ([Google Maps](https://maps.app.goo.gl/xevnMoYieWDsCsTDA)) is a nearby station. From Arnhem station, **bus 352** direction Wageningen stops close to the hotel. [Taxi Arnhem Central](https://taxiarnhemcentrale.nl) operates in the area.
+
+
+### Activities
+
+Arriving earlier or staying longer? Here are some sights and attractions in the area.
+
+- [De Hoge Veluwe National Park](https://www.hogeveluwe.nl/en)
+- [Kröller-Müller Museum](https://krollermuller.nl/en)
+- [Dutch Open Air Museum](https://www.openluchtmuseum.nl/?taal=en)
+- [Airborne Museum](https://www.airbornemuseum.nl/en/home)
