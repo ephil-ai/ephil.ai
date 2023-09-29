@@ -43,16 +43,16 @@ ECPAI researchers are involved in many different ways to better understand the i
 
 ## Funded Projects
 
-- [BOOST!](https://boost.tue.nl) / [4TUCEE](https://www.4tu.nl/cee/) project on generative AI for writing education
+- [BOOST!](https://boost.tue.nl) / [4TUCEE](https://www.4tu.nl/cee/) project on generative AI for writing education.
 
 ## Output
 
-- Participation in TU/e Learning Community on AI in education
+- Participation in TU/e Learning Community on AI in education.
 
 ## Activities
 
 - Matthew Dennis contributed to a [Panel for the Future of Science and Technology at the European Parliament](https://www.europarl.europa.eu/stoa/en/events/details/human-computer-confluence-in-education/20230901WKS05501).
-- Membership in IE&IS task force on AI in education
+- Membership in IE&IS task force on AI in education.
 - Carlos Zednik and Gunter Bombaerts will lead a Learning Community meeting on 30th October 2023.
 
 ## Associated Researchers
