@@ -6,7 +6,7 @@ title: Emily Sullivan
 superuser: false
 
 # Role/position
-role: 'Assistant Professor <br> Co-Director <br> Area Lead: Opacity and ML'
+role: ''
 
 # Organizations/Affiliations
 organizations:
@@ -38,9 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:e.e.sullivan@tue.nl'
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:e.e.sullivan@tue.nl'
 - icon: globe
   icon_pack: fas
   link: https://www.eesullivan.com

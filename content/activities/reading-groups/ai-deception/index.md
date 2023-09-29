@@ -27,7 +27,7 @@ image:
  focal_point: Smart
  preview_only: false
 
-projects: [social-robots-ai]
+#projects: [social-robots-ai]
 
 links:
 #- icon: twitter
