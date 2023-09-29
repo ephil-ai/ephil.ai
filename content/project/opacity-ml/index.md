@@ -61,6 +61,7 @@ Trustworthiness is recognized as a key quality requirement for AI systems as the
 
 - Céline Budding
 - Elizabeth O'Neill
+- Philip J. Nickel
 - Yeji Streppel
 - Philippe Verreault-Julien
 - Carlos Zednik

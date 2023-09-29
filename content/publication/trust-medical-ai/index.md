@@ -1,5 +1,5 @@
 ---
-title: "Trust in medical artificial intelligence: a discretionary account"
+title: "Trust in Medical Artificial Intelligence: A Discretionary Account"
 authors:
 - philip-nickel
 author_notes:
@@ -58,7 +58,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [human-control-ai]
+projects: [human-control-ai, opacity-ml]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
