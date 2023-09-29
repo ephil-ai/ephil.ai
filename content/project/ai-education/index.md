@@ -1,6 +1,6 @@
 ---
 title: AI in Education
-summary: 'Recent progress in artificial intelligence presents a unique opportunity for higher education, but also poses challenges. [(read more)](/project/social-robots-ai)'
+summary: 'Recent progress in artificial intelligence presents a unique opportunity for higher education, but also poses challenges. [(read more)](/project/ai-education)'
 date: "2021-12-01T00:00:00Z"
 profile: false
 show_date: false
@@ -54,6 +54,6 @@ ECPAI researchers are involved in many different ways to better understand the i
 ## Associated Researchers
 
 - Gunter Bombaerts
-- Carlos Zednik
-- Vlasta Sikimić
 - Matthew Dennis
+- Vlasta Sikimić
+- Carlos Zednik

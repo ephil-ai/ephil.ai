@@ -1,6 +1,6 @@
 ---
 title: Trustworthy AI
-summary: 'Transparency is a cornerstone of the responsible use and development of artificial intelligence. Unfortunately, many state-of-the-art AI systems are notoriously opaque: it is difficult to know what these systems are actually doing, why they do what they do, and how they do it. [(read more)](/project/opacity-ml)'
+summary: 'Trustworthiness is recognized as a key quality requirement for AI systems as they become increasingly powerful and prevalent. However, trustworthiness depends on properties such as transparency, fairness, reliability, and robustness--many of which remain poorly understood and difficult to implement. [(read more)](/project/opacity-ml)'
 date: "2021-12-01T00:00:00Z"
 profile: false
 show_date: false
@@ -38,19 +38,29 @@ url_video: ""
 slides: ''
 ---
 
-Transparency is a cornerstone of the responsible use and development of artificial intelligence. Unfortunately, many state-of-the-art AI systems are notoriously opaque: it is difficult to know what these systems are actually doing, why they do what they do, and how they do it. The Explainable AI research program is dedicated to the challenge of rendering opaque AI systems transparent. However, questions remain about what exactly opacity is, what kinds of transparency are required when and by whom, and how such transparency can actually be achieved.
+Trustworthiness is recognized as a key quality requirement for AI systems as they become increasingly powerful and prevalent. However, trustworthiness depends on properties such as transparency, fairness, reliability, and robustness--many of which remain poorly understood and difficult to implement. So for example, it remains unclear to what extent transparency can actually be achieved in high dimensional nonlinear systems, what fairness actually consists in, and how we can assess the reliability of AI-generated content, predictions, and recommendations. To a large extent, these are philosophical questions that require a close analysis of relevant concepts, as well as a close integration of technical solutions with normative and societal constraints.
 
-ECPAI researchers are engaged in the project of defining normative constraints on Explainable AI, and actively collaborate with industry and research to develop methods with which to explain the behavior of opaque AI systems. To this end, they study typical use-cases of Explainable AI, evaluate the possibilities and limits of current explanatory practices, and participate in regulatory efforts to guide their development and use.
+**Transparency:** ECPAI members are engaged in the project of defining normative constraints for Explainable AI, and actively collaborate with representatives from industry and research to develop methods with which to explain the behavior of opaque AI systems in many different domains, from medical applications to self-driving cars. To this end, they study typical use-cases of Explainable AI, evaluate the possibilities and limits of current explanatory practices, and participate in regulatory efforts to promote transparency in AI.
 
-## Output
+**Reliability:** ECPAI members aim to uncover and characterize the criteria that can be used to judge whether or not an AI system's recommendations are reliable.
+
+
+## Funded Projects
+
+- [NWO LTP ROBUST project](https://www.tue.nl/en/storage/biomedische-technologie/de-faculteit/news-and-events/news-overview/05-01-2023-robust-ai-program-receives-additional-eur25-million-in-funding-from-dutch-research-council) on explainability of machine vision for self-driving cars
+- [NWO XS grant](https://www.tue.nl/en/news-and-events/news-overview/03-05-2023-xs-grant-for-elizabeth-oneill) on "When Computers Join the Moral Conversation"
+
+
+## Activities
 
 - Contribution to technical standard [DIN SPEC 92001-3 - Explainability](https://www.beuth.de/en/technical-rule/din-spec-92001-3/369799101)
+- YouTube video on [*How to Evaluate the Reliability of a Source?*](https://www.youtube.com/watch?v=Ts8F4V0yI-M)
 
 
 ## Associated Researchers
 
-- Carlos Zednik
 - Céline Budding
-- Emily Sullivan (Area Lead)
-- Philippe Verreault-Julien
+- Elizabeth O'Neill
 - Yeji Streppel
+- Philippe Verreault-Julien
+- Carlos Zednik
