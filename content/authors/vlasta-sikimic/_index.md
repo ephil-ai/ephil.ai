@@ -6,7 +6,7 @@ title: Vlasta Sikimić
 superuser: false
 
 # Role/position
-role: 'Assistant Professor'
+role: ''
 
 # Organizations/Affiliations
 organizations:
@@ -40,16 +40,16 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.tue.nl/en/research/researchers/andreas-spahn/
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:p.a.hummel@tue.nl'
+  link: https://vlastasikimic.com
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:v.sikimic@tue.nl'
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/carloszednik
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=ECPIXT0AAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=1LeFyzIAAAAJ&hl=en&oi=ao
 #- icon: github
 # icon_pack: fab
  # link: https://github.com/gcushen

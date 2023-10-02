@@ -55,6 +55,7 @@ Trustworthiness is recognized as a key quality requirement for AI systems as the
 
 - Contribution to technical standard [DIN SPEC 92001-3 - Explainability](https://www.beuth.de/en/technical-rule/din-spec-92001-3/369799101)
 - YouTube video on [*How to Evaluate the Reliability of a Source?*](https://www.youtube.com/watch?v=Ts8F4V0yI-M)
+- Vlasta Sikimić participated in the [governmental advisory board creating the Ethical Guidelines for Safe and Reliable Use of AI in the Republic of Serbia](https://www.ai.gov.rs/vest/en/423/adopted-ethical-guidelines-for-safe-and-reliable-use-of-ai.php). 
 
 
 ## Associated Researchers

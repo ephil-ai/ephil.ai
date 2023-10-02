@@ -1,5 +1,5 @@
 ---
-title: Human Control, Behavior Change, and AI
+title: Value Alignment
 summary: 'Digital technologies offer great potentials to facilitate better decisions and outcomes, but they also raise ethical challenges and can undercut important human values. [(read more)](/project/human-control-ai)' 
 date: "2021-12-01T00:00:00Z"
 profile: false

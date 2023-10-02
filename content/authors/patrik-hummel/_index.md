@@ -6,7 +6,7 @@ title: Patrik Hummel
 superuser: false
 
 # Role/position
-role: 'Assistant Professor <br> Area Lead: Human Control, <br> Behavior Change, and AI'
+role: ''
 
 # Organizations/Affiliations
 organizations:
