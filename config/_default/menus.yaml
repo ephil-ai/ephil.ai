@@ -14,8 +14,21 @@ main:
     identifier: people
     weight: 30
   - name: Projects
+    identifier: projects
     url: project
     weight: 40
+  - name: AI in Education
+    parent: projects
+    url: project/ai-education/
+    weight: 10
+  - name: Trustworthy AI
+    parent: projects
+    url: project/opacity-ml/
+    weight: 20
+  - name: Value Alignment
+    parent: projects
+    url: project/human-control-ai/
+    weight: 30
   - name: Members
     parent: people
     url: people/
