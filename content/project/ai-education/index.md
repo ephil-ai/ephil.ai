@@ -37,25 +37,29 @@ url_video: ""
 slides: ''
 ---
 
-Recent progress in artificial intelligence presents a unique opportunity for higher education, but also poses challenges. Generative AI systems are increasingly capable of producing text, images, and computer code. Students can use these systems to increase their productivity and level the playing field between e.g. native and non-native speakers, but can also use them to undermine the validity of traditional assessment methods. At the same time, data-driven methods in learning analytics, automated review, and personalized questioning can be used by teachers to promote objectivity and learning success, while also introducing risks such as potential bias and lack of transparency.
+Recent progress in artificial intelligence presents a unique opportunity for higher education, but also poses challenges. Generative AI systems are increasingly capable of producing text, images, and computer code. Students can use these systems to increase their productivity and level the playing field between e.g. native and non-native speakers, or students good or less good at writing. But students can also use AI systems to undermine the validity of traditional assessment methods. Teachers should adapt the ways they assess students to optimize the strengths of AI. At the same time, data-driven methods in learning analytics, automated review, and personalized questioning can be used by teachers to promote objectivity and learning success, while also introducing risks such as potential bias and lack of transparency.
 
-ECPAI researchers are involved in many different ways to better understand the impact of AI in higher education, and are actively involved in the development of tools and policy frameworks to ensure that this impact is positive. In particular, funded research projects are used to explore the use of chatbots for academic writing, and several researchers are actively involved in the articulation of education policy at the university and beyond.
+ECPAI researchers are involved in many different ways to better understand the impact of AI in higher education and are actively engaged in the development of tools and policy frameworks to ensure that this impact is positive. In particular, funded research projects are used to explore the use of chatbots for academic writing, and several researchers are actively involved in the articulation of education policy at the university and beyond.
+
 
 ## Funded Projects
 
 - [BOOST!](https://boost.tue.nl) / [4TUCEE](https://www.4tu.nl/cee/) project on generative AI for writing education.
 
+## Structural Contributions
+- Membership in IE&IS task force on AI in education.
+- Carlos Zednik and Gunter Bombaerts are part of the core team of the Eindhoven University of Technology Learning Community.  
+
+
 ## Activities
 
 - Matthew Dennis contributed to a [Panel for the Future of Science and Technology at the European Parliament](https://www.europarl.europa.eu/stoa/en/events/details/human-computer-confluence-in-education/20230901WKS05501) ([video recording](https://multimedia.europarl.europa.eu/en/webstreaming/panel-for-future-of-science-and-technology_20230927-1500-SPECIAL-STOA)).
-- Membership in IE&IS task force on AI in education.
-- Carlos Zednik and Gunter Bombaerts will lead a Learning Community meeting on 30th October 2023.
 - Vlasta Sikimić co-organizes an online workshop on the responsible use of AI in education (scheduled for 2024).
 - [Fall 2023 edition of the SEFI Ethics Special Interest Group Newsletter](https://stats.sender.net/browser_preview/KPpBJ7P8ot_dPBdB)
 
 ## Associated Researchers
 
+- Carlos Zednik
 - Gunter Bombaerts
 - Matthew Dennis
 - Vlasta Sikimić
-- Carlos Zednik

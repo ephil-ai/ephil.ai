@@ -3,7 +3,7 @@ type: event
 title: ChatGPT/AI lunch roundtable
 
 event: 'Constructive Alignment in the Age of Generative AI'
-event_url: 'https://www.bilderberg.nl/en/oosterbeek/hotel-de-bilderberg/'
+event_url: 'https://bit.ly/LunchRoundtable011123'
 location: Atlas 6.208, Eindhoven University of Technology
 # address:
 #  street: Utrechtseweg 261

@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Eindhoven Center for the Philosophy of AI # Website name
+title: 'Eindhoven Center for the Philosophy of AI' # Website name
 baseURL: 'https://ephil.ai/' # Website URL
 
 ############################
