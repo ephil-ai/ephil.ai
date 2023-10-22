@@ -84,7 +84,7 @@ Time is in Central European Time (CET).
 - 14:00--14:15: Introduction (Sullivan, Verreault-Julien, Streppel)
 - 14:15--15:00: Keynote on *Epistemic Rights* by [Lani Watson](https://www.philosophyofquestions.com/who-is-lani-watson)
 - 15:00--15:15: Coffee break
-- 15:15--16:00: Keynote on *TBA* by [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy)
+- 15:15--16:00: Keynote on *XAI from the Computer Science Perspective* by [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy)
 - 16:00--17:30: Work-groups
 - 17:30--18:00: Free time
 - 18:00--20:00: Dinner
@@ -94,7 +94,7 @@ Time is in Central European Time (CET).
 
 **Room: TBA**
 
-- 09:00--09:45: Keynote on *TBA* by [Aviva de Groot](https://www.tilburguniversity.edu/nl/medewerkers/aviva-degroot)
+- 09:00--09:45: Keynote on *Legal Aspects of Epistemic Rights* by [Aviva de Groot](https://www.tilburguniversity.edu/nl/medewerkers/aviva-degroot)
 - 09:45--10:00: Coffee break
 - 10:00--12:00: Work-groups
 - 12:00--13:45: Lunch
