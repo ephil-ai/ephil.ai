@@ -47,7 +47,7 @@ ECPAI researchers are involved in many different ways to better understand the i
 
 ## Activities
 
-- Matthew Dennis contributed to a [Panel for the Future of Science and Technology at the European Parliament](https://www.europarl.europa.eu/stoa/en/events/details/human-computer-confluence-in-education/20230901WKS05501).
+- Matthew Dennis contributed to a [Panel for the Future of Science and Technology at the European Parliament](https://www.europarl.europa.eu/stoa/en/events/details/human-computer-confluence-in-education/20230901WKS05501) ([video recording](https://multimedia.europarl.europa.eu/en/webstreaming/panel-for-future-of-science-and-technology_20230927-1500-SPECIAL-STOA)).
 - Membership in IE&IS task force on AI in education.
 - Carlos Zednik and Gunter Bombaerts will lead a Learning Community meeting on 30th October 2023.
 - Vlasta Sikimić co-organizes an online workshop on the responsible use of AI in education (scheduled for 2024).
