@@ -41,9 +41,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://research.tue.nl/en/persons/roxanne-van-der-puil
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:p.a.hummel@tue.nl'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:r.e.v.d.puil@tue.nl'
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/carloszednik

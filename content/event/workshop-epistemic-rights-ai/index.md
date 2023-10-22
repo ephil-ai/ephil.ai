@@ -23,9 +23,9 @@ date_end: "2023-11-10T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2023-09-26T00:00:00Z"
+publishDate: "2023-10-21T00:00:00Z"
 
-authors: [emily-sullivan, philippe-verreault-julien, yeji-streppel]
+authors: [emily-sullivan, yeji-streppel, philippe-verreault-julien]
 tags: [epistemic rights, AI policy, XAI, workshop]
 
 # Is this a featured talk? (true/false)
@@ -58,12 +58,12 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [opacity-ml]
+projects: [trustworthy-ai]
 ---
 
 ## Summary
 
-Workshop on epistemic rights in AI policy (with a focus on explainable AI, LLMs and generative AI, and fairness and accountability). Supported by the [Eindhoven Center for the Philosophy of Artificial Intelligence](https://ephil.ai) ([@ephil.ai](https://twitter.com/ephil_ai)) and the [Philosophy and Ethics Group](https://research.tue.nl/en/organisations/philosophy-ethics) at [Eindhoven University of Technology](https://www.tue.nl/en/) ([@PhilEthicsTuE](https://twitter.com/PhilEthicsTUe)). The workshop is organized by Emily Sullivan, Philippe Verreault-Julien, and Yeji Streppel. 
+Workshop on epistemic rights and AI policy (with a focus on explainable AI, LLMs and generative AI, and fairness and accountability). Supported by the [Eindhoven Center for the Philosophy of Artificial Intelligence](https://ephil.ai) ([@ephil.ai](https://twitter.com/ephil_ai)), the NWO Veni project [Explain Yourself!](https://www.nwo.nl/en/projects/viveni201f051), the [Philosophy and Ethics Group](https://research.tue.nl/en/organisations/philosophy-ethics) at [Eindhoven University of Technology](https://www.tue.nl/en/) ([@PhilEthicsTuE](https://twitter.com/PhilEthicsTUe)) and the [Eindhoven Artificial Intelligence Systems Institute](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute). The workshop is organized by Emily Sullivan, Philippe Verreault-Julien and Yeji Streppel. 
 
 While the GDPR arguably gave us the 'right to explanation' of AI decisions, we now recognize there are significant policy gaps surrounding issues of informed advocacy and AI justice. In this interdisciplinary workshop, we will explore whether an 'epistemic rights' perspective on ML and AI systems can help address gaps in AI policy and legislation. Do we have a right to understand how the algorithms powering social media work? Do we have a right against LLMs that 'hallucinate' information about real people and places? As machine learning (ML) and artificial intelligence (AI) systems continue to make large social impacts, it is crucial to address epistemic injustices that arise from algorithmic decison-making.
 
@@ -82,11 +82,11 @@ Time is in Central European Time (CET).
 
 - 13:00--14:00: Welcome lunch
 - 14:00--14:15: Introduction (Sullivan, Verreault-Julien, Streppel)
-- 14:15--15:00: Keynote on *Epistemic Rights*[Lani Watson](https://www.philosophyofquestions.com/who-is-lani-watson)
+- 14:15--15:00: Keynote on *Epistemic Rights* by [Lani Watson](https://www.philosophyofquestions.com/who-is-lani-watson)
 - 15:00--15:15: Coffee break
-- 15:15--16:00: Keynote on *TBA*[Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy)
-- 16:00--17:00: Work-groups
-- 17:00--18:00: Free time
+- 15:15--16:00: Keynote on *TBA* by [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy)
+- 16:00--17:30: Work-groups
+- 17:30--18:00: Free time
 - 18:00--20:00: Dinner
 - 20:00--22:00: Pub quiz
 
@@ -94,14 +94,15 @@ Time is in Central European Time (CET).
 
 **Room: TBA**
 
-- 09:00--09:45: Keynote on *TBA*[Aviva de Groot](https://www.tilburguniversity.edu/nl/medewerkers/aviva-degroot)
+- 09:00--09:45: Keynote on *TBA* by [Aviva de Groot](https://www.tilburguniversity.edu/nl/medewerkers/aviva-degroot)
 - 09:45--10:00: Coffee break
-- 10:00--12:30: Work-groups
-- 12:30--13:30: Lunch
-- 13:30--15:00: Work-groups
+- 10:00--12:00: Work-groups
+- 12:00--13:45: Lunch
+- 13:45--13:50: Stand-up
+- 13:50--15:00: Work-groups
 - 15:00--15:15: Coffee
-- 15:15--17:00: Work-groups
-- 17:00--18:00: Group presentations
+- 15:15--16:30: Work-groups
+- 16:30--18:00: Group presentations
 - 18:00--19:00: Free time
 - 19:00: Dinner
 

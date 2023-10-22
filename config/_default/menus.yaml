@@ -11,33 +11,38 @@ main:
     url: post
     weight: 20
   - name: People
-    identifier: people
+    url: people
     weight: 30
   - name: Projects
-    url: project
+    url: projects
+    identifier: projects
     weight: 40
-  - name: Members
-    parent: people
-    url: people/
-    weight: 10
-  - name: Visiting
-    parent: people
-    url: visiting/
-    weight: 20
-  - name: Activities
-    identifier: activities
+ # - name: AI in Education
+ #   parent: projects
+ #   url: project/ai-education
+ #   weight: 10
+ # - name: Trustworthy AI
+ #   parent: projects
+ #   url: project/trustworthy-ai
+ #   weight: 20
+  - name: Events
+    url: event
     weight: 50
-  - name: Workshops
-    parent: activities
-    url: event/
-    weight: 10
-  - name: Reading Groups
-    parent: activities
-    url: activities/reading-groups/
-    weight: 20
   - name: Publications
     url: publication
     weight: 60
   #- name: Contact
    # url: contact
     #weight: 70
+
+#  - name: People
+#    identifier: people
+#    weight: 30
+#  - name: Members
+#    parent: people
+#    url: people/
+#    weight: 10
+#  - name: Visiting
+#    parent: people
+#    url: visiting/
+#    weight: 20

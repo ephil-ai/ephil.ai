@@ -1,5 +1,5 @@
 ---
-title: Workshops
+title: Events and Activities
 
 # Listing view
 view: 2

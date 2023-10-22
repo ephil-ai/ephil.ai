@@ -44,6 +44,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:p.a.hummel@tue.nl'
+- icon: philpapers
+  icon_pack: ai
+  link: https://philpeople.org/profiles/matthew-dennis-4
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/carloszednik
@@ -68,5 +71,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- <p style="color:white"></p>
 ---

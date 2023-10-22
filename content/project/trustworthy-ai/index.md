@@ -1,6 +1,6 @@
 ---
 title: Trustworthy AI
-summary: 'Trustworthiness is recognized as a key quality requirement for AI systems as they become increasingly powerful and prevalent. However, trustworthiness depends on properties such as transparency, fairness, reliability, and robustness--many of which remain poorly understood and difficult to implement. [(read more)](/project/opacity-ml)'
+summary: 'Trustworthiness is recognized as a key quality requirement for AI systems as they become increasingly powerful and prevalent. However, trustworthiness depends on properties such as transparency, fairness, reliability, and robustness--many of which remain poorly understood and difficult to implement. [(read more)](/project/trustworthy-ai)'
 date: "2021-12-01T00:00:00Z"
 profile: false
 show_date: false
@@ -14,7 +14,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
- caption: "Image created with [DALL·E by OpenAI](https://openai.com/dall-e-2/) (prompt: an opaque deep learning model)"
+ caption: "Image created with [DALL·E by OpenAI](https://openai.com/dall-e-3)"
  placement: 1
  focal_point: Smart
  preview_only: false

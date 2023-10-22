@@ -6,12 +6,12 @@ title: Guido Löhr
 superuser: false
 
 # Role/position
-role: 'Postdoc <br> Social Media Coordinator <br> Area Lead : Social Robots and Embodied AI' 
+#role: 'Postdoc <br> Social Media Coordinator <br> Area Lead : Social Robots and Embodied AI' 
 
 # Organizations/Affiliations
 organizations:
-- name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/guido-löhr"
+- name: VU Amsterdam
+  url: "https://research.vu.nl/en/persons/guido-l%C3%B6hr"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -43,7 +43,7 @@ social:
   link: https://sites.google.com/view/guidoloehr/home
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:g.lohr@tue.nl'
+  link: 'mailto:g.lohr@vu.nl'
 #- icon: twitter
  # icon_pack: fab
   #link: https://twitter.com/carloszednik
@@ -70,8 +70,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- <p style="color:white"></p>
+user_groups:
+- Affiliated Researchers
 ---
 
 Guido Löhr is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

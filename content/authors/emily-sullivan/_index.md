@@ -38,12 +38,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:e.e.sullivan@tue.nl'
 - icon: globe
   icon_pack: fas
   link: https://www.eesullivan.com
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:e.e.sullivan@uu.nl'
 #- icon: twitter
  # icon_pack: fab
   #link: https://twitter.com/carloszednik
@@ -70,8 +70,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Management Team
+user_groups:
+- Affiliated Researchers
 ---
 
 Emily Sullivan is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

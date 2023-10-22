@@ -40,10 +40,10 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://research.tue.nl/en/persons/roxanne-van-der-puil
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:p.a.hummel@tue.nl'
+  link: https://research.tue.nl/en/persons/adam-arafan
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:a.m.arafan@tue.nl'
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/carloszednik

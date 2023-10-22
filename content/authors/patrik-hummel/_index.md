@@ -38,9 +38,12 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: globe
   icon_pack: fas
-  link: 'mailto:p.a.hummel@tue.nl'
+  link: https://www.tue.nl/en/research/researchers/patrik-hummel
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:p.a.hummel@tue.nl'
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/carloszednik
@@ -65,5 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- <p style="color:white"></p>
 ---

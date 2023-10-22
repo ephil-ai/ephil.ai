@@ -10,7 +10,7 @@ role: 'PhD Candidate'
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/roxanne-van-der-puil"
+  url: "https://research.tue.nl/en/persons/kaush-kalidindi"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -39,10 +39,10 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://research.tue.nl/en/persons/roxanne-van-der-puil
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:p.a.hummel@tue.nl'
+  link: https://research.tue.nl/en/persons/kaush-kalidindi
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:k.v.kalidindi@tue.nl'
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/carloszednik

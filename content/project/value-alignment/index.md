@@ -1,6 +1,6 @@
 ---
 title: Value Alignment
-summary: 'Digital technologies offer great potentials to facilitate better decisions and outcomes, but they also raise ethical challenges and can undercut important human values. [(read more)](/project/human-control-ai)' 
+summary: 'Digital technologies offer great potentials to facilitate better decisions and outcomes, but they also raise ethical challenges and can undercut important human values. [(read more)](/project/value-alignment)' 
 date: "2021-12-01T00:00:00Z"
 profile: false
 show_date: false
@@ -14,7 +14,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
- caption: "Image created with [DALL·E by OpenAI](https://openai.com/dall-e-2/) (prompt: a scary photo of HAL 9000)"
+ caption: "Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](https://unsplash.com/photos/a-group-of-construction-tools-ZJKE4XVlKIA)"
  placement: 1
  focal_point: Smart
  preview_only: false
@@ -43,16 +43,22 @@ Digital technologies permeate our lives, leverage large amounts of data and comp
 
 ECPAI researchers investigate whether and how digital technologies influence human behaviour, interact with human values, and how we ought to shape the development, deployment, and governance of these technologies in order to harness their potentials while simultaneously ensuring that they remain under human control. 
 
-
+## Funded Projects
+- [ESDIT Research project "Will Democracy survive Social Media?"](https://www.esdit.nl/line-or-track/future-fair-free-society/) (2020--2024)
+- [ESDIT Research project "Social and ethical dimensions of content generation technologies"](https://www.esdit.nl/line-or-track/future-fair-free-society/) (01/09/2023--01/09/2027)
 
 ## Associated Researchers
 
 - Andreas Spahn
 - Andreij Dameski 
 - Diego Morales Pérez
-- Gunter Bombaerts 
+- Emily Sullivan
+- Gunter Bombaerts
+- Kaush Kalidindi
+- Lambèr Royakkers
 - Lily Frank
 - Matthew J. Dennis
-- Patrik Hummel (Area)
+- Patrik Hummel
 - Philip J. Nickel
 - Roxanne van der Puil
+- Uwe Matzat

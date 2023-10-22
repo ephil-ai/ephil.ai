@@ -45,9 +45,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: http://explanations.ai
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/carloszednik
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/carloszednik
 - icon: philpapers
   icon_pack: ai
   link: https://philpeople.org/profiles/carlos-zednik
@@ -72,5 +72,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Management Team
+- Members
 ---

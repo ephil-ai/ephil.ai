@@ -38,6 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fas
+  link: https://research.tue.nl/en/persons/diego-morales-p%C3%A9rez
 - icon: envelope
   icon_pack: fas
   link: 'mailto:d.h.morales.perez@tue.nl'

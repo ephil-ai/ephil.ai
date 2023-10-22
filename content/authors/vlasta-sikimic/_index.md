@@ -41,9 +41,12 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://vlastasikimic.com
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:v.sikimic@tue.nl'
+- icon: philpapers
+  icon_pack: ai
+  link: https://philpeople.org/profiles/vlasta-sikimic
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:v.sikimic@tue.nl'
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/carloszednik
@@ -68,5 +71,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- <p style="color:white"></p>
 ---
