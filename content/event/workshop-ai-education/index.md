@@ -25,8 +25,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-10-21T00:00:00Z"
 
-authors: [Aleksandra Vučković, vlasta-sikimic]
-tags: [education, workshop]
+authors: [Aleksandra Vučković, Gavrilo Marčetić, Marina Budić, vlasta-sikimic]
+tags: [education, workshop, solutions, recommendations]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -63,20 +63,15 @@ projects: [ai-education]
 
 ## Call for Abstracts
 
-
 - **Submission Deadline:** 15th December 2023
 - **Notification of Acceptance:** 15th January 2024
-- **Submission Guidelines:** Send an abstract to aiineducationworkshop@gmail.com. The abstract should not exceed 500 words. All submissions should be original and not previously published.
+- **Submission Guidelines:** The abstract should not exceed 500 words. All submissions should be original and not previously published.
 
-
-**Selected abstracts will receive an invitation for a presentation during the workshop and will have the opportunity to submit the full paper for the Special Issue.**
+**Selected abstracts will receive an invitation for a presentation during the workshop and will have the opportunity to submit the full paper to potential conference proceedings.**
 
 The workshop aims to provide space for discussion on the exciting topic of AI in Education. New technologies, such as Large Language Models (LLMs), can transform the educational sector for the better through the implementation of personalized learning programs and other solutions that can significantly improve students’ progress and grading systems. The possibility of AI inclusion in education, on the other hand, has raised serious concerns regarding privacy, data protection, authorship and plagiarism issues, responsible use, and the possibility of unforeseeable long-term consequences of reliance on advanced digital solutions in education.
 
-The workshop *AI in Education: Ethical and Epistemic Perspectives* is just the first step in
-creating an interdisciplinary platform where experts and scholars from various fields come
-together to discuss, debate, and delineate future implications, potentialities, and challenges of
-AI in education.
+The workshop *AI in Education: Ethical and Epistemic Perspectives* is just the first step in creating an interdisciplinary platform where experts and scholars from various fields come together to discuss, debate, and delineate future implications, potentialities, and challenges of AI in education.
 
 **The topics of presentation include, but are not limited to:**
 
@@ -85,6 +80,5 @@ AI in education.
 3. **Law and Politics:** legal matters, copyright issues, the democratization of AI, financing dilemmas, global justice, societal impacts, cultural influence, etc.
 4. **General Discussions on AI in Education:** pedagogical shifts, philosophical discourses, case studies, technological innovations, future outlooks, etc.
  
-**We are looking forward to your submissions and if you have further questions, you can
-contact us at: aiineducationworkshop@gmail.com.**
+**We are looking forward to your submissions and if you have further questions, you can contact us at: aiineducationworkshop@gmail.com.**
 
