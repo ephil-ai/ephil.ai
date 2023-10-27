@@ -34,7 +34,7 @@ abstract: The “attention economy” refers to the tech industry’s business m
 # Summary. An optional shortened abstract.
 summary:
 
-tags: ["attention", "practice", "attention economy", "persuasive technology", "Buddhism", "attention econoly"]
+tags: ["attention", "practice", "attention economy", "persuasive technology", "Buddhism"]
 featured: false
 
 # links:
