@@ -5,6 +5,9 @@ date: "2021-12-01T00:00:00Z"
 profile: false
 show_date: false
 
+# For order in list
+weight: 30
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -47,15 +50,16 @@ ECPAI researchers are involved in many different ways to better understand the i
 - [BOOST!](https://boost.tue.nl) / [4TUCEE](https://www.4tu.nl/cee/) project on generative AI for writing education.
 
 ## Structural Contributions
-- Membership in IE&IS task force on AI in education.
+- Carlos Zednik is part of the IE&IS task force on AI in education.
 - Carlos Zednik and Gunter Bombaerts are part of the core team of the Eindhoven University of Technology Learning Community.  
-
+- Gunter Bombaerts, Philip Nickel, and Carlos Zednik are members of the [TU/e Academy for Learning and Teaching (ALT)](https://www.linkedin.com/company/tue-alt/) Learning Community for AI in Education.
 
 ## Activities
 
-- Matthew Dennis contributed to a [Panel for the Future of Science and Technology at the European Parliament](https://www.europarl.europa.eu/stoa/en/events/details/human-computer-confluence-in-education/20230901WKS05501) ([video recording](https://multimedia.europarl.europa.eu/en/webstreaming/panel-for-future-of-science-and-technology_20230927-1500-SPECIAL-STOA)).
-- Vlasta Sikimić co-organizes an online workshop on the responsible use of AI in education (scheduled for 2024).
-- [Fall 2023 edition of the SEFI Ethics Special Interest Group Newsletter](https://stats.sender.net/browser_preview/KPpBJ7P8ot_dPBdB)
+- Carlos Zednik and Gunter Bombaerts will lead a [roundtable on 'Constructive Alignment in the Age of Generative AI'](https://ephil.ai/event/lunch-roundtable-chatgpt-ai/).
+- Matthew Dennis participated in the ['Human-computer confluence in education'](https://www.europarl.europa.eu/stoa/en/events/details/human-computer-confluence-in-education/20230901WKS05501) workshop within the [Panel for the Future of Science and Technology at the European Parliament](https://www.europarl.europa.eu/stoa/en/home/highlights) ([video recording](https://multimedia.europarl.europa.eu/en/webstreaming/panel-for-future-of-science-and-technology_20230927-1500-SPECIAL-STOA)).
+- Vlasta Sikimić co-organizes an [hybrid workshop on the responsible use of AI in education](https://ephil.ai/event/workshop-ai-education/).
+- Vlasta Sikimić was featured in the [Fall 2023 edition of the SEFI Ethics Special Interest Group Newsletter](https://stats.sender.net/browser_preview/KPpBJ7P8ot_dPBdB).
 
 ## Associated Researchers
 

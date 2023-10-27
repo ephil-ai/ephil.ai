@@ -6,7 +6,7 @@ title: Elizabeth O'Neill
 superuser: false
 
 # Role/position
-role: ''
+role: 'Assistant Professor'
 
 # Organizations/Affiliations
 organizations:

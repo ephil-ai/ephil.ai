@@ -6,7 +6,7 @@ title: Andreas Spahn
 superuser: false
 
 # Role/position
-role: ''
+role: 'Associate Professor'
 
 # Organizations/Affiliations
 organizations:

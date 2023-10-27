@@ -6,7 +6,7 @@ title: Lily Frank
 superuser: false
 
 # Role/position
-role: ''
+role: 'Assistant Professor'
 
 # Organizations/Affiliations
 organizations:

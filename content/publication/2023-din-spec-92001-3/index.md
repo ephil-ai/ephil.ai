@@ -1,13 +1,13 @@
 ---
-title: "DIN SPEC 92001-3"
+title: "Artificial Intelligence - Life Cycle Processes and Quality Requirements - Part 3: Explainability"
 authors:
-- carlos-zednik
-- yeji-streppel
+- DIN SPEC 92001-3
+
 author_notes:
 - ''
 - ''
 date: "2023-08-01T00:00:00Z"
-doi: ""
+doi: "10.31030/3446955"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-22T00:00:00Z"

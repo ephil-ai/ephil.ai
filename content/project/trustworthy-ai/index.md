@@ -5,6 +5,9 @@ date: "2021-12-01T00:00:00Z"
 profile: false
 show_date: false
 
+# For order in list 
+weight: 10
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -55,8 +58,8 @@ Trustworthiness is a quality requirement for increasingly powerful and prominent
 
 ## Activities
 
-- Contribution to technical standard [DIN SPEC 92001-3 - Explainability](https://www.beuth.de/en/technical-rule/din-spec-92001-3/369799101)
-- YouTube video on [*How to Evaluate the Reliability of a Source?*](https://www.youtube.com/watch?v=Ts8F4V0yI-M)
+- Carlos Zednik and Yeji Streppel contributed to technical standard [DIN SPEC 92001-3 - Explainability](https://www.beuth.de/en/technical-rule/din-spec-92001-3/369799101)
+- Elizabeth O'Neill developed a YouTube video on [*How to Evaluate the Reliability of a Source?*](https://www.youtube.com/watch?v=Ts8F4V0yI-M)
 - Vlasta Sikimić participated in the [governmental advisory board creating the Ethical Guidelines for Safe and Reliable Use of AI in the Republic of Serbia](https://www.ai.gov.rs/vest/en/423/adopted-ethical-guidelines-for-safe-and-reliable-use-of-ai.php). 
 
 

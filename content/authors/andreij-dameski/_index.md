@@ -6,7 +6,7 @@ title: Andrej Dameski
 superuser: false
 
 # Role/position
-role: ''
+role: 'Postdoc'
 
 # Organizations/Affiliations
 organizations:

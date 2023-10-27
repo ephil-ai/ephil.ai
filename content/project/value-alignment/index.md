@@ -5,6 +5,8 @@ date: "2021-12-01T00:00:00Z"
 profile: false
 show_date: false
 
+weight: 20
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
