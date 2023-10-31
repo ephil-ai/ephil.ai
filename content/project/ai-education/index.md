@@ -51,7 +51,7 @@ ECPAI researchers are involved in many different ways to better understand the i
 
 ## Structural Contributions
 - Carlos Zednik is part of the IE&IS task force on AI in education.
-- Gunter Bombaerts, Philip Nickel, and Carlos Zednik are members of the [TU/e Academy for Learning and Teaching (ALT)](https://www.linkedin.com/company/tue-alt/) Learning Community for AI in Education.
+- Carlos Zednik, Gunter Bombaerts, and Philip Nickel are members of the [TU/e Academy for Learning and Teaching (ALT)](https://www.linkedin.com/company/tue-alt/) Learning Community for AI in Education.
 
 ## Activities
 
@@ -65,4 +65,5 @@ ECPAI researchers are involved in many different ways to better understand the i
 - Carlos Zednik
 - Gunter Bombaerts
 - Matthew Dennis
+- Philip Nickel
 - Vlasta Sikimić
