@@ -28,7 +28,7 @@ sections:
           position: center
           color: '#666'
       - title: '[Value Alignment](/project/value-alignment/)'
-        content: '⚖️ Ethical AI'
+        content: 'Ethical AI'
         align: center
         background:
           image:
@@ -39,7 +39,7 @@ sections:
           position: center
           color: '#666'
       - title: '[AI in Education](project/ai-education/)'
-        content: '🎓Teaching with AI'
+        content: ''
         align: left
         background:
           image:
