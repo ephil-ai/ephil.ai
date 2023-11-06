@@ -28,7 +28,7 @@ sections:
           position: center
           color: '#666'
       - title: '[Value Alignment](/project/value-alignment/)'
-        content: 'Ethical AI'
+        content: '⚖️ Ethical AI'
         align: center
         background:
           image:
@@ -39,7 +39,7 @@ sections:
           position: center
           color: '#666'
       - title: '[AI in Education](project/ai-education/)'
-        content: ''
+        content: '🎓Teaching with AI'
         align: left
         background:
           image:
@@ -92,49 +92,49 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-  - block: collection
-    id: posts
-    content:
-      title: Latest News
-      subtitle: ''
-      text: ''
-     # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view (list, compact, card, citation, showcase, masonry)
-      view: card
-      columns: '2'
+#  - block: collection
+#    id: posts
+#    content:
+#      title: Latest News
+#      subtitle: ''
+#      text: ''
+#     # Choose how many pages you would like to display (0 = all pages)
+#      count: 5
+#      # Filter on criteria
+#      filters:
+#        folders:
+#          - post
+#        author: ""
+#        category: ""
+#        tag: ""
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#        publication_type: ""
+#      # Choose how many pages you would like to offset by
+#      offset: 0
+#      # Page order: descending (desc) or ascending (asc) date.
+#      order: desc
+#    design:
+#      # Choose a layout view (list, compact, card, citation, showcase, masonry)
+#      view: compact
+#      columns: '2'
 
-  - block: collection
-    content:
-      title: Upcoming and Recent Events
-     # text: |-
-      #  {{% callout note %}}
-      #  Quickly discover relevant content by [filtering publications](./publication/).
-      #  {{% /callout %}}
-      count: 3
-      filters:
-        folders:
-          - event
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: compact
+#  - block: collection
+#    content:
+#      title: Upcoming and Recent Events
+#     # text: |-
+#      #  {{% callout note %}}
+#      #  Quickly discover relevant content by [filtering publications](./publication/).
+#      #  {{% /callout %}}
+#      count: 3
+#      filters:
+#        folders:
+#          - event
+#        exclude_featured: false
+#    design:
+#      columns: '2'
+#      view: compact
 
   - block: collection
     content:
