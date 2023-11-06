@@ -153,6 +153,36 @@ sections:
       # Choose a layout view (list, compact, card, citation, showcase, masonry)
       view: citation
 
+  - block: markdown
+    content:
+      title: Partners
+      subtitle: ''
+      text: |
+        <div class="container">
+          <div class="row align-items-start">
+            <div class="col">
+              <!-- Intentionally left blank? If not, add content here -->
+            </div>
+            <div class="col text-center">
+              <a href="https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/" target="_blank">
+                <img alt="EAISI logo" src="https://raw.githubusercontent.com/ephil-ai/ephil.ai/main/assets/media/EAISI-logo.jpg" height="200">
+              </a>
+            </div>
+            <div class="col text-center">
+              <a href="https://www.tue.nl/en/research/research-areas/humans-and-technology/" target="_blank">
+                <img alt="CHT logo" src="https://raw.githubusercontent.com/ephil-ai/ephil.ai/main/assets/media/CHT-logo.jpg" height="200">
+              </a>
+            </div>
+            <div class="col">
+              <!-- Intentionally left blank? If not, add content here -->
+            </div>
+          </div>
+        </div>
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
   - block: contact
     id: contact
     content:
