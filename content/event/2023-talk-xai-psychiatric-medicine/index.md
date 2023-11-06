@@ -26,7 +26,7 @@ all_day: false
 publishDate: "2023-10-30T00:00:00Z"
 
 authors: [lily-frank]
-tags: [XAI, psychiatry, medicine, duty, trustworthiness, justice]
+tags: [XAI, psychiatry, medicine, duty, trustworthiness, justice, event]
 
 # Is this a featured talk? (true/false)
 featured: false

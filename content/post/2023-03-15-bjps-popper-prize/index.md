@@ -2,6 +2,7 @@
 title: "BJPS Popper Prize 2022: 'Understanding from Machine Learning Models' receives an honorable mention"
 author: admin
 date: 2023-03-15
+tags: [news]
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.

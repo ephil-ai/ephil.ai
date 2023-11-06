@@ -26,7 +26,7 @@ all_day: false
 publishDate: "2023-10-21T00:00:00Z"
 
 authors: [admin]
-tags: [ChatGPT, generative AI, alignment]
+tags: [ChatGPT, generative AI, alignment, event]
 
 # Is this a featured talk? (true/false)
 featured: false

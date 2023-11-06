@@ -4,6 +4,8 @@ author: admin
 date: 2023-04-11
 summary: "TU/e is seeking applications for two PhD positions that will be affiliated with the Eindhoven Center for the Philosophy of AI. One position is in Philosophy and Computer Science and the other is in philosophy and ethics of technology."
 
+tags: [news]
+
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
 # Otherwise, specify the `filename` option to load an image from your `assets/media/` folder.

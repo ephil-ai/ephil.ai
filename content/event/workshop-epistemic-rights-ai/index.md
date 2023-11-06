@@ -26,7 +26,7 @@ all_day: true
 publishDate: "2023-10-21T00:00:00Z"
 
 authors: [emily-sullivan, yeji-streppel, philippe-verreault-julien]
-tags: [epistemic rights, AI policy, XAI, workshop]
+tags: [epistemic rights, AI policy, XAI, workshop, event]
 
 # Is this a featured talk? (true/false)
 featured: false

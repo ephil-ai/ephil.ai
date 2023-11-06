@@ -2,6 +2,7 @@
 title: "Online seminar series on 'Attending as practice in the attention economy'"
 author: admin
 date: 2022-09-09
+tags: [news]
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.

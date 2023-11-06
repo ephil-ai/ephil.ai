@@ -26,7 +26,7 @@ all_day: true
 publishDate: "2022-10-11T00:00:00Z"
 
 authors: [guido-lohr, celine-budding]
-tags: [language models, communication, XAI, workshop]
+tags: [language models, communication, XAI, workshop, event]
 
 # Is this a featured talk? (true/false)
 featured: false

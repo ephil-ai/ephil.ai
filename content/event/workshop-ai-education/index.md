@@ -26,7 +26,7 @@ all_day: true
 publishDate: "2023-10-21T00:00:00Z"
 
 authors: [Aleksandra Vučković, Gavrilo Marčetić, Marina Budić, vlasta-sikimic]
-tags: [education, workshop, solutions, recommendations]
+tags: [education, workshop, solutions, recommendations, event]
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -2,7 +2,7 @@
 title: AI and Deception Reading Group
 summary: 'As social robots become more prevalent, some worry about the nature of the relationship between humans and social robots.'
 authors: [guido-lohr, michael-dale]
-tags: [deception, robots, emotions]
+tags: [deception, robots, emotions, event]
 categories: []
 date: 2022-10-11T11:53:39+02:00
 show_date: false

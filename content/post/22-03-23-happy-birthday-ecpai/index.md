@@ -2,6 +2,7 @@
 title: Happy Birthday, ECPAI!
 author: admin
 date: 2022-03-23
+tags: [news]
 #image:
  # focal_point: "top"
 ---

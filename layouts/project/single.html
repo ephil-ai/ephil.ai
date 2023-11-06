@@ -25,21 +25,21 @@
         {{end}}
       {{ end }}
 
-      {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
-      {{ $pubs_len := len $items }}
-      {{ if ge $pubs_len 1 }}
-        <h2>{{ (i18n "publications") }}</h2>
-        {{ range $index, $item := $items }}
-          {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.publication_view | default "citation") "index" $index) }}
-        {{end}}
-      {{ end }}
-
       {{ $items := where (where site.RegularPages "Type" "event") ".Params.projects" "intersect" (slice $project) }}
       {{ $talks_len := len $items }}
       {{ if ge $talks_len 1 }}
         <h2>{{ (i18n "talks") }}</h2>
         {{ range $index, $item := $items }}
           {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.talk_view | default "compact") "index" $index) }}
+        {{end}}
+      {{ end }}
+
+      {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
+      {{ $pubs_len := len $items }}
+      {{ if ge $pubs_len 1 }}
+        <h2>{{ (i18n "publications") }}</h2>
+        {{ range $index, $item := $items }}
+          {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.publication_view | default "citation") "index" $index) }}
         {{end}}
       {{ end }}
 
