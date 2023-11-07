@@ -71,7 +71,6 @@ This workshop aims to bring together esteemed researchers and experts in the fie
 
 If you have any questions, please email [Yeji Streppel](mailto:y.j.m.b.k.streppel@tue.nl) and we will send you additional information.
 
-
 ## Schedule
 
 Time is in Central European Time (CET).
@@ -83,9 +82,10 @@ Time is in Central European Time (CET).
 - 13:00--14:00: Welcome lunch
 - 14:00--14:15: Introduction (Sullivan, Verreault-Julien, Streppel)
 - 14:15--15:00: Keynote on *Epistemic Rights* by [Lani Watson](https://www.philosophyofquestions.com/who-is-lani-watson)
-- 15:00--15:15: Coffee break
-- 15:15--16:00: Keynote on *XAI from the Computer Science Perspective* by [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy)
-- 16:00--17:30: Work-groups
+- 15:00--15:30: Coffee break
+- 15:30--16:15: Keynote on *XAI from the Computer Science Perspective* by [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy)
+- 16:15--16:30: Instructions work groups
+- 16:30–17:30: Work groups
 - 17:30--18:00: Free time
 - 18:00--20:00: Dinner
 - 20:00--22:00: Pub quiz
@@ -95,13 +95,13 @@ Time is in Central European Time (CET).
 **Room: TBA**
 
 - 09:00--09:45: Keynote on *Legal Aspects of Epistemic Rights* by [Aviva de Groot](https://www.tilburguniversity.edu/nl/medewerkers/aviva-degroot)
-- 09:45--10:00: Coffee break
-- 10:00--12:00: Work-groups
+- 09:45--10:15: Coffee break
+- 10:15--12:00: Work-groups
 - 12:00--13:45: Lunch
 - 13:45--13:50: Stand-up
 - 13:50--15:00: Work-groups
-- 15:00--15:15: Coffee
-- 15:15--16:30: Work-groups
+- 15:00--15:30: Coffee
+- 15:30--16:30: Work-groups
 - 16:30--18:00: Group presentations
 - 18:00--19:00: Free time
 - 19:00: Dinner
@@ -111,10 +111,11 @@ Time is in Central European Time (CET).
 **Room: TBA**
 
 - 09:00--10:30: Work-groups
-- 10:30--10:45: Coffee break
-- 10:45--11:30: Work-groups
-- 11:30--12:30: Group presentations
-- 12:30: Closing lunch
+- 10:30--11:00: Coffee break
+- 11:00--11:30: Work-groups
+- 11:30--12:50: Group presentations
+- 12:50: Closing lunch
+
 
 ## Practical Information
 
