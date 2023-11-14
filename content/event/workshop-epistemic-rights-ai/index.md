@@ -77,8 +77,6 @@ Time is in Central European Time (CET).
 
 ### Day 1: 8th November 2023 
 
-**Room: TBA**
-
 - 13:00--14:00: Welcome lunch
 - 14:00--14:15: Introduction (Sullivan, Verreault-Julien, Streppel)
 - 14:15--15:00: Keynote on *Epistemic Rights* by [Lani Watson](https://www.philosophyofquestions.com/who-is-lani-watson)
@@ -92,27 +90,23 @@ Time is in Central European Time (CET).
 
 ### Day 2: 9th November 2023
 
-**Room: TBA**
-
 - 09:00--09:45: Keynote on *Legal Aspects of Epistemic Rights* by [Aviva de Groot](https://www.tilburguniversity.edu/nl/medewerkers/aviva-degroot)
 - 09:45--10:15: Coffee break
-- 10:15--12:00: Work-groups
+- 10:15--12:00: Work groups
 - 12:00--13:45: Lunch
 - 13:45--13:50: Stand-up
-- 13:50--15:00: Work-groups
+- 13:50--15:00: Work groups
 - 15:00--15:30: Coffee
-- 15:30--16:30: Work-groups
+- 15:30--16:30: Work groups
 - 16:30--18:00: Group presentations
 - 18:00--19:00: Free time
 - 19:00: Dinner
 
 ### Day 3: 10th November 2023
 
-**Room: TBA**
-
-- 09:00--10:30: Work-groups
+- 09:00--10:30: Work groups
 - 10:30--11:00: Coffee break
-- 11:00--11:30: Work-groups
+- 11:00--11:30: Work groups
 - 11:30--12:50: Group presentations
 - 12:50: Closing lunch
 

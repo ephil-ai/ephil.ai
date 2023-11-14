@@ -65,7 +65,7 @@ projects: [ai-education]
 
 - **Submission Deadline:** 15th December 2023
 - **Notification of Acceptance:** 15th January 2024
-- **Submission Guidelines:** The abstract should not exceed 500 words. All submissions should be original and not previously published.
+- **Submission Guidelines:** The abstract should not exceed 500 words. All submissions should be original and not previously published. You can apply for the workshop at the following link: [https://aiedu24.sciencesconf.org/user/createaccount](https://aiedu24.sciencesconf.org/user/createaccount).
 
 **Selected abstracts will receive an invitation for a presentation during the workshop and will have the opportunity to submit the full paper to potential conference proceedings.**
 
@@ -75,10 +75,35 @@ The workshop *AI in Education: Ethical and Epistemic Perspectives* is just the f
 
 **The topics of presentation include, but are not limited to:**
 
-1. **Direct Outcomes of AI Implementation in Educational Settings:** AI-driven feedback, risks of overreliance, algorithmic grading, attention checkers, AI and creativity, writing and chatbots, anthropomorphization of AI, etc.
-2. **Ethical Dilemmas and Challenges:** data management, privacy, responsible research practice, the risk of bias, inclusion, consent, etc.
-3. **Law and Politics:** legal matters, copyright issues, the democratization of AI, financing dilemmas, global justice, societal impacts, cultural influence, etc.
+1. **Implementation of AI in Educational Settings:** AI-driven feedback, risks of overreliance, algorithmic grading, attention checkers, AI and creativity, writing and chatbots, anthropomorphization of AI, etc.
+2. **Ethical Dilemmas and Challenges of the Use of AI in Education:** data management, privacy, responsible research practice, the risk of bias, inclusion, consent, etc.
+3. **Law and Politics of the Use of AI in Education:** legal matters, copyright issues, the democratization of AI, financing dilemmas, global justice, societal impacts, cultural influence, etc.
 4. **General Discussions on AI in Education:** pedagogical shifts, philosophical discourses, case studies, technological innovations, future outlooks, etc.
  
 **We are looking forward to your submissions and if you have further questions, you can contact us at: aiineducationworkshop@gmail.com.**
 
+
+## Confirmed Speakers
+
+- Gunter Bombaerts, Eindhoven University of Technology
+- Karolina Doulougeri, Eindhoven University of Technology
+- Marko Galjak, Institute of Social Sciences, Belgrade
+- Sandro Radovanović, University of Belgrade
+- Carlos Zednik, Eindhoven University of Technology
+
+## Program Committee
+
+ - Myrthe Blösser, University of Amsterdam
+- Tim Fütterer, University of Tübingen
+- Mihály Héder, Budapest University of Technology and Economics
+- Theodore Lechterman, IE University
+- Diana Martin, University College London
+- Federica Russo, Utrecht University
+- Constantin Vică, University of Bucharest
+
+## Organizing Committee
+
+- Marina Budić, Institute of Social Sciences, Belgrade
+- Gavrilo Marčetić, Eindhoven University of Technology
+- Vlasta Sikimić (Chair), Eindhoven University of Technology
+- Aleksandra Vučković, University of Belgrade
