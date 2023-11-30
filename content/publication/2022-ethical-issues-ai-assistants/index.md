@@ -15,10 +15,10 @@ doi: "10.1093/oxfordhb/9780198857815.013.17
 publishDate: "2023-09-28T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*The Oxford Handbook of Digital Ethics*"

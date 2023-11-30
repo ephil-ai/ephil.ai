@@ -1,5 +1,5 @@
 ---
-title: "TU/e is hiring: Postdoc Generative AI and Education"
+title: "TU/e is hiring: Postdoc generative AI and education"
 author: admin
 date: 2023-11-28
 summary: "The Department of Industrial Engineering and Innovation Sciences at TU/e is hiring a Postdoctoral Researcher to work on the use of generative AI in higher education."

@@ -17,14 +17,18 @@ main:
     url: projects
     identifier: projects
     weight: 40
- # - name: AI in Education
- #   parent: projects
- #   url: project/ai-education
- #   weight: 10
- # - name: Trustworthy AI
- #   parent: projects
- #   url: project/trustworthy-ai
- #   weight: 20
+  - name: Trustworthy AI
+    parent: projects
+    url: project/trustworthy-ai
+    weight: 10
+  - name: Value Alignment
+    parent: projects
+    url: project/value-alignment
+    weight: 20
+  - name: AI in Education
+    parent: projects
+    url: project/ai-education
+    weight: 30
   - name: Events
     url: event
     weight: 50

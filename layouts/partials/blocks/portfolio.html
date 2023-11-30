@@ -1,6 +1,6 @@
-{{/* Wowchemy Blocks: Portfolio */}}
-{{/* Documentation: https://wowchemy.com/blocks/ */}}
-{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+{{/* Hugo Blox: Portfolio */}}
+{{/* Documentation: https://hugoblox.com/blocks/ */}}
+{{/* License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */}}
 
 {{/* Initialise */}}
 {{ $page := .wcPage }}
@@ -87,7 +87,7 @@
 
     {{/* Sort */}}
     {{ $sort_by := $block.content.sort_by | default "Date" }}
-    {{ $sort_by = partial "functions/get_sort_by_parameter" $sort_by }}
+    {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
     {{ $sort_ascending := $block.content.sort_ascending | default (eq $block.content.order "asc") | default false }}
     {{ $sort_order := cond $sort_ascending "asc" "desc" }}
     {{ $query = sort $query $sort_by $sort_order }}
@@ -113,4 +113,6 @@
 <div class="text-center mt-4">
   SEE ALL <a href="/post/">NEWS</a> or  <a href="/event/">EVENTS <i class="fas fa-angle-right"></i></a>
 </div>
+
+  </div>
 </div>
