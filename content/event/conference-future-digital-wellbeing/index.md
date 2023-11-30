@@ -106,7 +106,7 @@ Funded by KNAW and organised by Quiet Social Club. 
 
 ## Registration
 
-We have limited capacity, so registration is essential.
+We have limited capacity, so **registration is essential**.
 
 To register, please send Kate Raaijmakers (Secretariat.P&E@tue.nl) the following information:
 
@@ -114,5 +114,17 @@ To register, please send Kate Raaijmakers (Secretariat.P&E@tue.nl) the following
 2. Whether you'll attend the networking drinks on Friday 2nd Feb 2024.
 3. Whether you need online access to the industry panel & online keynote sessions, which will be livestreamed on Friday 2nd Feb 2024.
 
+## Organization
+
+### Organizers
+
+- [Matthew Dennis](https://www.matthewjamesdennis.com) (Eindhoven University of Technology)
+- [Lyanne Uhlhorn](https://research.tue.nl/en/persons/lyanne-uhlhorn) (Eindhoven University of Technology)
+
+### Sponsors
+
+- [Koninklijke Nederlandse Akademie van Wetenschappen](https://www.knaw.nl/en)
+- [ESDiT](https://www.esdit.nl)
+- [Eindhoven University of Technology](https://www.tue.nl/en/)
 
 {{< gallery album="future-digital-wellbeing" >}}
