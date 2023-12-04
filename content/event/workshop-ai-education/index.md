@@ -88,6 +88,7 @@ The workshop *AI in Education: Ethical and Epistemic Perspectives* is just the f
 - Gunter Bombaerts, Eindhoven University of Technology
 - Karolina Doulougeri, Eindhoven University of Technology
 - Marko Galjak, Institute of Social Sciences, Belgrade
+- Silvia Milano, University of Exeter
 - Sandro Radovanović, University of Belgrade
 - Carlos Zednik, Eindhoven University of Technology
 
