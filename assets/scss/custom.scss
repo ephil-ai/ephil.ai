@@ -7,18 +7,29 @@
 /* Media Queries for Tablets */
 @media only screen and (max-width: 768px) {
     .wg-hero .hero-title {
-        font-size: 24px; /* Slightly smaller for tablets */
+        font-size: 28px; /* Slightly smaller for tablets */
     }
 
     .wg-hero .hero-lead {
-        font-size: 18px; /* Proportionally smaller for tablets */
+        font-size: 22px; /* Proportionally smaller for tablets */
     }
 }
 
 /* Media Queries for Mobile Phones */
 @media only screen and (max-width: 480px) {
     .wg-hero .hero-title {
-        font-size: 20px; /* Even smaller for mobile phones */
+        font-size: 22px; /* Even smaller for mobile phones */
+    }
+
+    .wg-hero .hero-lead {
+        font-size: 18px; /* Proportionally smaller for mobile phones */
+    }
+}
+
+/* Media Queries for Smaller Mobile Phones */
+@media only screen and (max-width: 380px) {
+    .wg-hero .hero-title {
+        font-size: 18px; /* Even smaller for mobile phones */
     }
 
     .wg-hero .hero-lead {
@@ -26,7 +37,7 @@
     }
 }
 
-/* Media Queries for Mobile Phones */
+/* Media Queries for Even Smaller Mobile Phones */
 @media only screen and (max-width: 280px) {
     .wg-hero .hero-title {
         font-size: 10px; /* Even smaller for mobile phones */
