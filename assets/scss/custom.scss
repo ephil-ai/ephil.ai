@@ -1,0 +1,44 @@
+@media screen and (max-width: 900px) {
+    #content_desktop {display: none;}
+    #content_mobile {display: block;}
+}
+
+
+/* Media Queries for Tablets */
+@media only screen and (max-width: 768px) {
+    .wg-hero .hero-title {
+        font-size: 24px; /* Slightly smaller for tablets */
+    }
+
+    .wg-hero .hero-lead {
+        font-size: 18px; /* Proportionally smaller for tablets */
+    }
+}
+
+/* Media Queries for Mobile Phones */
+@media only screen and (max-width: 480px) {
+    .wg-hero .hero-title {
+        font-size: 20px; /* Even smaller for mobile phones */
+    }
+
+    .wg-hero .hero-lead {
+        font-size: 16px; /* Proportionally smaller for mobile phones */
+    }
+}
+
+/* Media Queries for Mobile Phones */
+@media only screen and (max-width: 280px) {
+    .wg-hero .hero-title {
+        font-size: 10px; /* Even smaller for mobile phones */
+    }
+
+    .wg-hero .hero-lead {
+        font-size: 9px; /* Proportionally smaller for mobile phones */
+    }
+}
+
+.article-container {
+    max-width: 850px;
+    padding: 0 20px;
+    margin: 0 auto;
+  }
