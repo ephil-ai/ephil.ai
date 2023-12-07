@@ -25,7 +25,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-10-21T00:00:00Z"
 
-authors: [Aleksandra Vučković, Gavrilo Marčetić, Marina Budić, vlasta-sikimic]
+authors: [Aleksandra Vučković, gavrilo-marcetic, Marina Budić, vlasta-sikimic]
 tags: [education, workshop, solutions, recommendations, event]
 
 # Is this a featured talk? (true/false)
