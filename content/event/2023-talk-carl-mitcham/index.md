@@ -14,7 +14,7 @@ location: Eindhoven University of Technology (hybrid)
 
 summary: ""
 
-abstract: ""
+abstract: "Work in the ethics of engineering and technology needs to be complemented with political philosophy of engineering and technology. Artificial intelligence, along with compounding other challenges to political order, is an increasingly powerful demonstration of this need."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
