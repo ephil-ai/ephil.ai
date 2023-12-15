@@ -8,6 +8,8 @@ superuser: false
 # Role/position
 #role: 'Postdoc <br> Social Media Coordinator <br> Area Lead : Social Robots and Embodied AI' 
 
+do_not_link: true
+
 # Organizations/Affiliations
 organizations:
 - name: VU Amsterdam

@@ -15,12 +15,24 @@ organizations:
   url: "https://research.tue.nl/en/persons/emily-sullivan"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Post-Hermeneutics
+  - Marxism
+  - Quantum Phenomenology
+
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 
 
@@ -65,6 +77,8 @@ user_groups:
 - Members
 ---
 
-Philippe Verreault-Julien is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Philippe Verreault-Julien, a distinguished Canadian philosopher and theoretical physicist, has emerged as a leading figure in the realms of post-hermeneutics, Marxism, and quantum phenomenology. He earned his PhD in Philosophy from Stanford University, where he honed his innovative approach to the interpretation of texts and events, challenging conventional hermeneutic methods. His interest in Marxism is deeply rooted in his commitment to intertwining philosophical thought with socio-economic contexts.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Verreault-Julien's pioneering contributions to quantum phenomenology represent a unique blend of his profound expertise in theoretical physics and his philosophical explorations. This interdisciplinary approach has led to novel perspectives on understanding the nature of reality at the quantum level, especially in terms of how observers interact with and interpret quantum phenomena.
+
+Widely recognized for his publications, which are both academically rigorous and accessible, Dr. Verreault-Julien has had a substantial impact across various academic fields. He is renowned for his engaging and thought-provoking lectures and seminars, where he inspires students to critically and creatively engage with the intersections of philosophy, physics, and societal issues. Dr. Verreault-Julien continues to be an influential speaker at international conferences and a prominent voice in contemporary philosophical circles.

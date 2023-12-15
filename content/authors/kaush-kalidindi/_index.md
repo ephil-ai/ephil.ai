@@ -7,6 +7,8 @@ superuser: false
 # Role/position
 role: 'PhD Candidate'
 
+do_not_link: true
+
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology

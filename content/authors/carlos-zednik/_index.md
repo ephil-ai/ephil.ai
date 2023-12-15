@@ -9,6 +9,8 @@ superuser: false
 role:  Director <br> Assistant Professor
 weight: 1
 
+external_profile: https://www.microsoft.com/
+
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology

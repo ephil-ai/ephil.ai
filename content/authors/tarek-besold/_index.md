@@ -8,6 +8,8 @@ superuser: false
 # Role/position
 role: Visiting Fellow
 
+do_not_link: true
+
 # Organizations/Affiliations
 organizations:
 - name: DEKRA Digital GmbH

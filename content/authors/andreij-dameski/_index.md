@@ -8,6 +8,8 @@ superuser: false
 # Role/position
 role: 'Postdoc'
 
+do_not_link: true
+
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
