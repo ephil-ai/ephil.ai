@@ -32,10 +32,10 @@ education:
   courses:
   - course: PhD in Philosophy
     institution: The Graduate Center, The City University of New York
-    year: 2012
-  - course: MPhil
+    year: 
+  - course: MPhil in Philosophy
     institution: The Graduate Center, The City University of New York course
-    year: 2009
+    year: 
   - course: BA in Philosophy and Economics
     institution: Smith College
     year: 2004
