@@ -2,13 +2,17 @@
 # Display name
 title: Lily Frank
 
+# Full name (for SEO)
+first_name: Lily
+last_name: Frank
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: 'Assistant Professor'
 
-do_not_link: true
+#do_not_link: true
 
 # Organizations/Affiliations
 organizations:
@@ -19,21 +23,23 @@ organizations:
 bio: ''
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ethics of social robotics
+- Ethics of AI
+- Metaethics and moral psychology
+- Feminist ethics of technology
 
-#education:
-#  courses:
- # - course: PhD in Artificial Intelligence
- #   institution: Stanford University
-  #  year: 2012
-  #- course: MEng in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  year: 2009
-  #- course: BSc in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-   # year: 2008
+education:
+  courses:
+  - course: PhD in Philosophy
+    institution: The Graduate Center, The City University of New York
+    year: 2012
+  - course: MPhil
+    institution: The Graduate Center, The City University of New York course
+    year: 2009
+  - course: BA in Philosophy and Economics
+    institution: Smith College
+    year: 2004
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +48,19 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.tue.nl/en/research/researchers/lily-frank/
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:p.a.hummel@tue.nl'
-#- icon: twitter
- # icon_pack: fab
- # link: https://twitter.com/carloszednik
+  link: https://sites.google.com/view/lilyevafrank/home
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:l.e.frank@tue.nl'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Lilyfrank16
 - icon: philpapers
   icon_pack: ai
   link: https://philpeople.org/profiles/lily-frank
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.nl/citations?user=kQHcZAwAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=kQHcZAwAAAAJ&hl=en
 #- icon: github
 # icon_pack: fab
  # link: https://github.com/gcushen
@@ -75,3 +81,5 @@ highlight_name: false
 user_groups:
 - <p style="color:white"></p>
 ---
+
+Dr. Lily Eva Frank is a Philosopher and an Assistant Professor of Philosophy and Ethics at Eindhoven University of Technology, in the Netherlands. Her research interests are broad and include the ethics of social robotics (including chat-bots, sex robots, and care robots); the ethics of AI in medicine, especially issues regarding the disruption of the physician-patient relationship, AI in psychiatry and psychology, and impacts on vulnerable groups; and the ethical issues and disruptions that arise when AI meets behaviour change and persuasive technology. 
