@@ -38,7 +38,7 @@ education:
     year: 
   - course: BA in Philosophy and Economics
     institution: Smith College
-    year: 2004
+    year: 
 
 
 # Social/Academic Networking
