@@ -2,6 +2,10 @@
 # Display name
 title: Carlos Zednik
 
+# Full name (for SEO)
+first_name: Carlos
+last_name: Zednik
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -9,7 +13,7 @@ superuser: false
 role:  Director <br> Assistant Professor
 weight: 1
 
-external_profile: https://www.microsoft.com/
+external_profile: https://explanations.ai
 
 # Organizations/Affiliations
 organizations:
@@ -44,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:c.a.zednik@tue.nl'
-- icon: globe
-  icon_pack: fas
-  link: http://explanations.ai
+#- icon: globe
+#  icon_pack: fas
+#  link: http://explanations.ai
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/carloszednik

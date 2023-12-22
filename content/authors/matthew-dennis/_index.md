@@ -2,6 +2,10 @@
 # Display name
 title: Matthew J. Dennis
 
+# Full name (for SEO)
+first_name: Matthew
+last_name: Dennis
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -18,22 +22,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
 
-#education:
+# education:
 #  courses:
- # - course: PhD in Artificial Intelligence
- #   institution: Stanford University
-  #  year: 2012
-  #- course: MEng in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  year: 2009
-  #- course: BSc in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-   # year: 2008
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

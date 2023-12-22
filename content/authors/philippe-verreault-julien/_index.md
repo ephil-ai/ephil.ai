@@ -2,12 +2,18 @@
 # Display name
 title: Philippe Verreault-Julien
 
+# Full name (for SEO)
+first_name: Philippe
+last_name: Verreault-Julien
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role:  Managing Director <br> Postdoc
 weight: 2
+
+external_profile: https://pvjulien.net
 
 # Organizations/Affiliations
 organizations:
@@ -17,22 +23,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - Post-Hermeneutics
-  - Marxism
-  - Quantum Phenomenology
+# interests:
+# - Artificial Intelligence
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 
 
@@ -47,9 +51,9 @@ social:
 #- icon: twitter
  # icon_pack: fab
   #link: https://twitter.com/pvjulien
-- icon: globe
-  icon_pack: fas
-  link: https://pvjulien.net
+# - icon: globe
+# icon_pack: fas
+#  link: https://pvjulien.net
 - icon: philpapers
   icon_pack: ai
   link: https://philpeople.org/profiles/philippe-verreault-julien
@@ -77,8 +81,3 @@ user_groups:
 - Members
 ---
 
-Dr. Philippe Verreault-Julien, a distinguished Canadian philosopher and theoretical physicist, has emerged as a leading figure in the realms of post-hermeneutics, Marxism, and quantum phenomenology. He earned his PhD in Philosophy from Stanford University, where he honed his innovative approach to the interpretation of texts and events, challenging conventional hermeneutic methods. His interest in Marxism is deeply rooted in his commitment to intertwining philosophical thought with socio-economic contexts.
-
-Dr. Verreault-Julien's pioneering contributions to quantum phenomenology represent a unique blend of his profound expertise in theoretical physics and his philosophical explorations. This interdisciplinary approach has led to novel perspectives on understanding the nature of reality at the quantum level, especially in terms of how observers interact with and interpret quantum phenomena.
-
-Widely recognized for his publications, which are both academically rigorous and accessible, Dr. Verreault-Julien has had a substantial impact across various academic fields. He is renowned for his engaging and thought-provoking lectures and seminars, where he inspires students to critically and creatively engage with the intersections of philosophy, physics, and societal issues. Dr. Verreault-Julien continues to be an influential speaker at international conferences and a prominent voice in contemporary philosophical circles.

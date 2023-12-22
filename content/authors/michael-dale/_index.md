@@ -2,6 +2,10 @@
 # Display name
 title: Michael Dale
 
+# Full name (for SEO)
+first_name: Michael
+last_name: Dale
+
 # Is this the primary user of the site?
 superuser: false
 
