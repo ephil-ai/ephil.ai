@@ -78,24 +78,24 @@ For questions please contact [Gunter Bombaerts](mailto:g.bombaerts@tue.nl).
 
 ## Program
 
-### Monday 15:30 - 17:00: Presentation and Q&A
+### Monday 12:30–13:30: Presentation and Q&A
 
 [Peter Hershock](https://www.eastwestcenter.org/about/staff/peter.hershock) “Machine consciousness an evolutionary frontier.“
 
 ### Workshop: Tuesday 6th and Wednesday 7th of February
 
-*Preliminary program. Speakers have confirmed but time slots might still change.*
+*Finalised Program (January 17th 2024). If unforeseen changes occur, they will be indicated below on this website.*
 
 | CET         | **Tuesday Feb. 6**          | **Wednesday Feb. 7**         |
 |-------------|-------------------------|-------------------------|
 | 9:00–9:30   | Welcome                 | Welcome                 |
-| 9:30–11:00  | **Setting the scene** <br> [Gunter Bombaerts](https://www.tue.nl/en/research/researchers/gunter-bombaerts/) (intro) <br> [Peter Hershock](https://www.eastwestcenter.org/about/staff/peter.hershock) <br> Mod: Gunter   | **Ethics & attention** <br> [Ven Juewei Shi](https://www.nantien.edu.au/about-us/faculty-and-staff/venerable-dr-juewei/) <br> [Soraj Hongladarom](https://www.research.chula.ac.th/researcher-/soraj-hongladarom/) <br> Mod: [Joel Anderson](https://www.uu.nl/staff/JHAnderson)      |
+| 9:30–11:00  | **Setting the scene** <br> [Gunter Bombaerts *(in-person)*](https://www.tue.nl/en/research/researchers/gunter-bombaerts/) <br> [Alex Agius Saliba MEP *(online)*](https://www.europarl.europa.eu/meps/en/197403/ALEX_AGIUS+SALIBA/home) <br> [Peter Hershock *(in-person)*](https://www.eastwestcenter.org/about/staff/peter.hershock)   | **Ethics & attention** <br> [Ven Juewei Shi *(online)*](https://www.nantien.edu.au/about-us/faculty-and-staff/venerable-dr-juewei/) <br> [Soraj Hongladarom *(online)*](https://www.research.chula.ac.th/researcher-/soraj-hongladarom/) <br> Mod: [Joel Anderson *(in-person)*](https://www.uu.nl/staff/JHAnderson)      |
 | 11:00–11:30       | Break                   | Break                   |
-| 11:30–13:00 | **AI technology & attention** <br> [Jeanne Lim](https://beingai.com/about/) <br> Second TBC <br> Mod: [Patricia Jaspers](https://www.linkedin.com/in/patriciajaspers/) | **Law & attention** <br> [Lex Zard](https://bravenewworld.nl/Speakers/lexo-zardiashvili/) <br> [Iris Eisenberger](https://id.univie.ac.at/team/univ-prof-dr-iris-eisenberger-msc-lse/) <br> Mod: [Lambèr Royakkers](https://www.tue.nl/en/research/researchers/lamber-royakkers/)        |
+| 11:30–13:00 | **AI technology & attention** <br> [James William *(in-person)*](https://www.oii.ox.ac.uk/people/profiles/james-williams/) <br> [Jeanne Lim *(online)*](https://beingai.com/about/) <br> Mod: [Patricia Jaspers *(in-person)*](https://www.linkedin.com/in/patriciajaspers/) | **Law & attention** <br> [Lex Zard *(in-person)*](https://bravenewworld.nl/Speakers/lexo-zardiashvili/) <br> [Iris Eisenberger *(in-person)*](https://id.univie.ac.at/team/univ-prof-dr-iris-eisenberger-msc-lse/) <br> Mod: [Philippe Verreault-Julien *(in-person)*](https://pvjulien.net)        |
 | 13:00–14:00 | Lunch                   | Lunch                   |
-| 14:00–15:30 | **Economy, business & attention** <br> [Laszlo Zsolnai](https://scholar.google.com/citations?user=XbG8K_4AAAAJ&hl=en&oi=ao) <br> Second TBC <br> Mod: [Matthew Dennis](https://www.tue.nl/en/research/researchers/matthew-dennis/)  | **Politics, society & attention** <br> [David McMahan](https://www.david-mcmahan.net/about)  <br> Second TBC <br> Mod: [Rinie van Est](https://www.rathenau.nl/en/about-us/who-we-are/our-staff/dr-ir-rinie-van-est) |
+| 14:00–15:30 | **Economy, business & attention** <br> [Laszlo Zsolnai *(online)*](https://scholar.google.com/citations?user=XbG8K_4AAAAJ&hl=en&oi=ao) <br> [Apiradee Wongkitrungrueng *(online)*](https://scholar.google.com/citations?user=8U6zCugAAAAJ&hl=en&oi=ao) <br> Mod: [Matthew Dennis *(in-person)*](https://www.tue.nl/en/research/researchers/matthew-dennis/)  | **(Post)modernity & attention** <br> [David McMahan *(in-person)*](https://www.david-mcmahan.net/about)  <br> [Jin Y. Park *(online)*](https://scholar.google.com/citations?user=kxf_HEIAAAAJ&hl=en&oi=sra) <br> Mod: [Tom Hannes *(in-person)*](https://research.tue.nl/en/persons/tom-hannes) |
 | 15:30–16:00 | Break                   | Break                   |
-| 16:00–17:30 | **Philosophy & attention** <br> [Jin Y. Park](https://scholar.google.com/citations?user=kxf_HEIAAAAJ&hl=en&oi=sra) <br> [Elizaveta Slmononava](https://scholar.google.com/citations?hl=en&user=BMZfAPgAAAAJ&view_op=list_works&sortby=pubdate) <br> Mod: [Chiara Mascarello](https://www.unive.it/data/people/24615711) | **Conclusion** <br> Panel TBC             |
+| 16:00–17:30 | **Post-phenomenology & attention** <br> [Diego D’Angelo *(in-person)*](https://philpeople.org/profiles/diego-d-angelo) <br> [Elizaveta Slmononava *(online)*](https://scholar.google.com/citations?hl=en&user=BMZfAPgAAAAJ&view_op=list_works&sortby=pubdate) <br> Mod: [Andreas Spahn *(in-person)*](https://scholar.google.com/citations?user=ECPIXT0AAAAJ&hl=en&oi=ao)  | **Panel: What's next? *(all in-person)*** <br> [Chiara Mascarello](https://www.unive.it/data/people/24615711) <br> [Rinie van Est](https://www.rathenau.nl/en/about-us/who-we-are/our-staff/dr-ir-rinie-van-est) <br> [Evelien Nieuwenbug](https://www.linkedin.com/in/evelien-nieuwenburg-19210510a/) <br> [Patricia Jaspers ](https://www.linkedin.com/in/patriciajaspers/)             |
 
 
 
