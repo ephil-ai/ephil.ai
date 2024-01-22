@@ -1,29 +1,26 @@
 ---
 # Display name
-title: Philippe Verreault-Julien
-
-weight: 30
+title: Diana Adela Martin
 
 # Full name (for SEO)
-#first_name: Philippe
-#last_name: Verreault-Julien
+first_name: Diana Adela
+last_name: Martin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:  Managing Director <br> Postdoc
+role: ''
 
-
-external_profile: https://pvjulien.net
+do_not_link: true
 
 # Organizations/Affiliations
 organizations:
-- name: Eindhoven University of Technology
-  url: "https://pvjulien.net"
+- name: University College London
+  url: "https://profiles.ucl.ac.uk/97954-diana-adela-martin"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: ''
 
 # interests:
 # - Artificial Intelligence
@@ -40,28 +37,26 @@ bio:
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
 
-
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fas
+  link: https://profiles.ucl.ac.uk/97954-diana-adela-martin
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.verreault-julien@tue.nl'
+  link: 'mailto:diana.martin@ucl.ac.uk'
 #- icon: twitter
  # icon_pack: fab
-  #link: https://twitter.com/pvjulien
-# - icon: globe
-# icon_pack: fas
-#  link: https://pvjulien.net
+  #link: https://twitter.com/carloszednik
 - icon: philpapers
   icon_pack: ai
-  link: https://philpeople.org/profiles/philippe-verreault-julien
+  link: https://philpeople.org/profiles/diana-martin-1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=RI7Q9PIAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=oLSWuyAAAAAJ&hl=en
 #- icon: github
 # icon_pack: fab
  # link: https://github.com/gcushen
@@ -80,6 +75,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Affiliated Researchers
 ---
 

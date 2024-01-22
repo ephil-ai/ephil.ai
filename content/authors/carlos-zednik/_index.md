@@ -2,16 +2,18 @@
 # Display name
 title: Carlos Zednik
 
+weight: 20
+
 # Full name (for SEO)
-first_name: Carlos
-last_name: Zednik
+#first_name: Carlos
+#last_name: Zednik
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role:  Co-Director <br> Assistant Professor
-weight: 1
+
 
 external_profile: https://explanations.ai
 

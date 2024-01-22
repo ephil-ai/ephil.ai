@@ -2,16 +2,17 @@
 # Display name
 title: Matthew J. Dennis
 
+weight: 10
+
 # Full name (for SEO)
-first_name: Matthew
-last_name: Dennis
+#first_name: Matthew
+#last_name: Dennis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role:  Co-Director <br> Assistant Professor
-weight: 2
 
 do_not_link: true
 
