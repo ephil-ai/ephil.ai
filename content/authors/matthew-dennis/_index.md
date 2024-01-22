@@ -10,7 +10,8 @@ last_name: Dennis
 superuser: false
 
 # Role/position
-role: 'Assistant Professor'
+role:  Co-Director <br> Assistant Professor
+weight: 2
 
 do_not_link: true
 
@@ -75,5 +76,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- <p style="color:white"></p>
+- Members
 ---

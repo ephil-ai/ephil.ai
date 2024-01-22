@@ -11,14 +11,14 @@ superuser: false
 
 # Role/position
 role:  Managing Director <br> Postdoc
-weight: 2
+weight: 3
 
 external_profile: https://pvjulien.net
 
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/emily-sullivan"
+  url: "https://pvjulien.net"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

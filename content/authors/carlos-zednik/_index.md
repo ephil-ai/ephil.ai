@@ -10,7 +10,7 @@ last_name: Zednik
 superuser: false
 
 # Role/position
-role:  Director <br> Assistant Professor
+role:  Co-Director <br> Assistant Professor
 weight: 1
 
 external_profile: https://explanations.ai
