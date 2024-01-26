@@ -34,6 +34,9 @@ tags: [LLMs, emergent abilities, AI Act, trustworthiness, standardization, event
 # Is this a featured talk? (true/false)
 featured: false
 
+# Recommend similar content to your readers at the end of pages
+show_related: true
+
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width

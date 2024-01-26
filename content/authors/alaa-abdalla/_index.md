@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: Engineering Education 
+  - course: PhD in Engineering Education 
     institution: Virginia Tech
 #    year: 2012
-  - course: BSc Mechanical Engineering
+  - course: BSc in Mechanical Engineering
     institution: Texas A&M University at Qatar
 #    year: 2009
 #  - course: BSc in Artificial Intelligence
