@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: 'Postdoc'
 
-do_not_link: true
+do_not_link: false
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-# interests:
-# - Artificial Intelligence
+interests:
+- Educational Research
+- Design thinking
+- Engineering Education
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
+education:
+  courses:
+  - course: Engineering Education 
+    institution: Virginia Tech
 #    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
+  - course: BSc Mechanical Engineering
+    institution: Texas A&M University at Qatar
 #    year: 2009
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
@@ -74,3 +76,7 @@ highlight_name: false
 user_groups:
 - <p style="color:white"></p>
 ---
+
+Dr. Alaa Abdalla is a postdoctoral researcher in the [Philosophy & Ethics group](https://www.tue.nl/en/research/research-groups/innovation-sciences/philosophy-ethics) at Eindhoven University of Technology, in the Netherlands. She works at the intersection of philosophy and educational research. Her research interests include how STEM graduates see their role in society, intercultural competence, systemic epistemology, and designing effective formal and informal learning environments.
+
+She has conducted and evaluated projects in various areas, including: usability testing for [RedShift](https://www.redshift-education.com/index.php), a video game-based language learning start-up, and participatory action research for [Blacksburg Refugee Partnership](https://www.blacksburgrefugeepartnership.org/), a refugee resettlement NGO. 
