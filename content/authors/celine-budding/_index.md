@@ -12,7 +12,8 @@ superuser: false
 # Role/position
 role: PhD Candidate
 
-do_not_link: true
+#do_not_link: true
+external_profile: https://cebudding.netlify.app/ 
 
 # Organizations/Affiliations
 organizations:
