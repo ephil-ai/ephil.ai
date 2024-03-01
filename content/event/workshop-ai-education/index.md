@@ -61,13 +61,8 @@ slides:
 projects: [ai-education]
 ---
 
-## Call for Abstracts
+{{< cta cta_text="Click here to register for online attendance" cta_link="mailto:aiineducationworkshop@gmail.com" cta_new_tab="true" >}}
 
-- **Submission Deadline:** 15th December 2023
-- **Notification of Acceptance:** 15th January 2024
-- **Submission Guidelines:** The abstract should not exceed 500 words. All submissions should be original and not previously published. You can apply for the workshop at the following link: [https://aiedu24.sciencesconf.org/user/createaccount](https://aiedu24.sciencesconf.org/user/createaccount).
-
-**Selected abstracts will receive an invitation for a presentation during the workshop and will have the opportunity to submit the full paper to potential conference proceedings.**
 
 The workshop aims to provide space for discussion on the exciting topic of AI in Education. New technologies, such as Large Language Models (LLMs), can transform the educational sector for the better through the implementation of personalized learning programs and other solutions that can significantly improve students’ progress and grading systems. The possibility of AI inclusion in education, on the other hand, has raised serious concerns regarding privacy, data protection, authorship and plagiarism issues, responsible use, and the possibility of unforeseeable long-term consequences of reliance on advanced digital solutions in education.
 
@@ -79,11 +74,35 @@ The workshop *AI in Education: Ethical and Epistemic Perspectives* is just the f
 2. **Ethical Dilemmas and Challenges of the Use of AI in Education:** data management, privacy, responsible research practice, the risk of bias, inclusion, consent, etc.
 3. **Law and Politics of the Use of AI in Education:** legal matters, copyright issues, the democratization of AI, financing dilemmas, global justice, societal impacts, cultural influence, etc.
 4. **General Discussions on AI in Education:** pedagogical shifts, philosophical discourses, case studies, technological innovations, future outlooks, etc.
- 
-**We are looking forward to your submissions and if you have further questions, you can contact us at: aiineducationworkshop@gmail.com.**
+
+{{< cta cta_text="Click here to register for online attendance" cta_link="mailto:aiineducationworkshop@gmail.com" cta_new_tab="true" >}}
 
 
-## Confirmed Speakers
+## Program
+
+You can download PDF versions of the [program](Program-AI-Education.pdf) and [book of abstracts](AI-Education-book-abstracts.pdf).
+
+| Time       | **Wednesday 6 March 2024** <br> Metaforum 11/12 | **Thursday 7 March 2024** <br> Metaforum 11/12 |
+|------------|-------------------------------|-----------------------|
+| 09:00—09:30      | **Registration**           | **Registration**          |
+| 09:30–10:15| **Carlos Zednik & Gunter Bombaerts** - Re-Aligning Higher Education in the Age of Generative AI  | **Karolina Doulougeri** - The Role of AI in Self-Regulated Learning in Engineering Students   |
+| 10:15–10:45| **Hadeel Naeem** - Plagiarism or Extended Belief   | **Daniel L. Golden** - What Does Generative AI Actually Know? (online) |
+| 10:45–11:15| **Break**                  | **Break**                 |
+| 11:15–11:45| **Thomas Corbin & Gene Flenady** - When Machines Judge: Exploring the Real Costs of AI Grading (online)  | **William Gopal & Michael Quinn** - "Must be tough living your life according to a couple of scraps of paper": Using Memento to Teach Extended Epistemology to 15-18-year-olds and Cultivate Epistemic Virtues Required for the Responsible Use of Large Language Models  |
+| 11:45–12:15| **Guido Cassinadri** - ChatGPT in Education: Extended Cognition, Cognitive Artifacts and Cognitive Abilities   (online)  | **José Antonio Pérez-Escobar & Deniz Sarikaya** - Chatbots, AI, and the Perils of the Homogenization of Education (online) |
+| 12:15–12:45| **Joshua Mugg** -  Dual-Process Theory and Artificial Intelligence: LLMs as Type-1 Processors (online)  | **Sahaj Vaidya & Stefan Bauschard** - EquiLearn: A Pioneering Framework for Ethical AI in Education  (online) |
+| 12:45–13:45| **Lunch**                  | **Lunch**                 |
+| 13:45–14:15| **Charlie Kurth** - What is the Place of Emotion AI in Moral Education?   | **Marije Goudriaan, Anouschka Van Leeuwen, Ünal Aksu & Momena Yousufzai** - A Top-Down-Bottom-Up Approach to Implement AI in Education  |
+| 14:15–14:45| **Giovanni Russo** - Against Impersonal Evaluation. A Philosophical Discourse on AI for Student’s Evaluation  | **Chitaranjan Mahapatra & Ashish kumar Pradhan** - Leveraging Artificial Intelligence for Assessing Mental Health in Education: An Innovative Approach (online) |
+| 14:45–15:15| **Dina Babushkina** - Cognition Tech and Cognitive skills: Rights, Obligations, and Human Dignity  | **Michał Wieczorek, Mohammad Hosseini & Bert Gordijn** - Ethical Implications of AI in K-12 Education: A Systematic Literature Review (online) |
+| 15:15–15:45| **Break**                  | **Break**                 |
+| 15:45–16:30| **Marko Galjak** - AI in Education: Visions Challenges and Strategies for Tomorrow (online) | **Silvia Milano** - TBA (online) |
+| 17:30—19:30      | **Dinner** at [De Zwarte Doos](https://maps.app.goo.gl/yVFLxK2m8VcF9R2m9) | —                   |
+
+
+
+
+## Invited Speakers
 
 - Imre Bárd, Radboud University Nijmegen 
 - Gunter Bombaerts, Eindhoven University of Technology
