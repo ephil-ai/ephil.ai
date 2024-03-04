@@ -109,7 +109,6 @@ You can download PDF versions of the [program](Program-AI-Education.pdf) and [bo
 - Karolina Doulougeri, Eindhoven University of Technology
 - Marko Galjak, Institute of Social Sciences, Belgrade
 - Silvia Milano, University of Exeter
-- Sandro Radovanović, University of Belgrade
 - Carlos Zednik, Eindhoven University of Technology
 
 
