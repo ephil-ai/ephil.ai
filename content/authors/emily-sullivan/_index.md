@@ -16,8 +16,8 @@ do_not_link: true
 
 # Organizations/Affiliations
 organizations:
-- name: Eindhoven University of Technology
-  url: "https://research.tue.nl/en/persons/emily-sullivan"
+- name: Utrecht University
+  url: "https://www.uu.nl/staff/EESullivan"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
