@@ -86,15 +86,15 @@ projects: [trustworthy-ai]
 
 **Timo Freiesleben (University of Tübingen), Sebastian Zezulka (University of Tübingen)** --- Science as a Kaggle Challenge: How Benchmarking Impacts Scientific Methodology
 
-**Tom Sterkenburg (LMU Munich)** --- The epistemic core of machine learning
+**Tom Sterkenburg (LMU Munich)** --- The Epistemic Core of Machine Learning
 
-**André Curtis-Trudel (Lingnan University), Darrell Rowbottom (Lingnan University), Tjonnie Li (KU Leuven)** --- On Finding What You’re Not Looking For: Prospects and Challenges for DL-Driven Discovery
+**André Curtis-Trudel (Lingnan University), Darrell Rowbottom (Lingnan University), Tjonnie Li (KU Leuven)** --- On Finding What You're Not Looking For: Prospects and Challenges for DL-Driven Discovery
 
 **Dana Matthiessen (University of Minnesota)** --- "Understanding Through Coordinated Practices: Uses of Deep Learning Algorithms in Structural Biology"
 
-**Alex Mussgnug (The University of Edinburgh)** --- Convenience ML: When science becomes a playground
+**Alex Mussgnug (The University of Edinburgh)** --- Convenience ML: When Science Becomes a Playground
 
-**Adam Mehdi Arafan, Eindhoven University of Technology** --- Human-centered Value Alignment with Counterfactuals: A New Metric for Trading-off Decision Paralysis with Explainable Counterfactual Reasoning
+**Adam Mehdi Arafan (Eindhoven University of Technology)** --- Human-centered Value Alignment with Counterfactuals: A New Metric for Trading-off Decision Paralysis with Explainable Counterfactual Reasoning
 
 **Mariana Vitti Rodrigues (São Paulo State University,  University of Exeter)** --- Explanatory Inference, Understanding, and Protein Language Models
 
@@ -108,7 +108,7 @@ projects: [trustworthy-ai]
 
 **Paula Muhr (University of Zurich)** --- Automating Image-Based Diagnosis of Functional Neurological Disorder: Challenges and Implication
 
-**Benjamin Smarr (Halicioglu Data Science Institute), Shu Chien (University of California, San Diego)** ---- Learning from the Machine’s Mistakes: A Numerical Landscape Approach to Addressing Biomedical ML Bias
+**Benjamin Smarr (Halicioglu Data Science Institute), Shu Chien (University of California, San Diego)** ---- Learning from the Machine's Mistakes: A Numerical Landscape Approach to Addressing Biomedical ML Bias
 
 **Yeji Streppel (Eindhoven University of Technology)** – The Value Demarcation Problem in Machine Learning
 
