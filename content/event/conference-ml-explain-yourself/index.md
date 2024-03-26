@@ -65,53 +65,68 @@ projects: [trustworthy-ai]
 
 ## Program
 
-### Schedule (more detailed information to follow)
-
-* 10th April: 14:00–17:30, [Drift 21, (room 0.32) 3512 BR Utrecht](https://maps.app.goo.gl/taWieFA8iFtytMEa7)
-* 11th April:  9:00–17:30, [Boothstraat 7, 3512 BT Utrecht](https://maps.app.goo.gl/u2Lzt62RNXsHex4Y7)        
-* 12th April:  9:30–18:00,  [Boothstraat 7, 3512 BT Utrecht](https://maps.app.goo.gl/u2Lzt62RNXsHex4Y7)  
-
 **Registration is free but required.** Registration includes a wine and beer reception on April 12.
 
 {{< cta cta_text="Click here to register" cta_link="https://forms.gle/ow2cdrwUTKE4on2K7" cta_new_tab="true" >}}
+
+### Schedule (subject to change)
+
+#### Day 1
+
+|  10th April     | [Drift 21 (room 0.32), 3512 BR Utrecht](https://maps.app.goo.gl/taWieFA8iFtytMEa7) |
+|-----------------------------|-------------------------------|
+| 14:00—14:10      | **Welcome and coffee**           | 
+| 14:10---15:10      | **Keynote** [Nava Tintarev](http://navatintarev.com)          | 
+| 15:10—15:30      | **Break**           |
+| 15:30—16:10      | **Alex Mussgnug** <br>  Convenience ML: When Science Becomes a Playground         |
+| 16:10—16:50      | **Sara Pernille Jensen** <br> ML Models as Phenomenological Models - Traditional Problems Call for Traditional Solutions   |
+| 16:50—17:30      |  **Tom Sterkenburg** <br> The Epistemic Core of Machine Learning           |
+| 17:30 | End Day 1 |
+
+#### Day 2
+
+|  11th April    | [Boothstraat 7, 3512 BT Utrecht](https://maps.app.goo.gl/u2Lzt62RNXsHex4Y7) |
+|-----------------------------|-------------------------------|
+| 09:00—09:20      | **Welcome and coffee**           | 
+| 09:20---10:00      |  **Dana Matthiessen** <br> Understanding Through Coordinated Practices: Uses of Deep Learning Algorithms in Structural Biology        | 
+| 10:00—10:40      | **Mariana Vitti Rodrigues** <br> Explanatory Inference, Understanding, and Protein Language Models         |  
+| 10:40---11:00    | **Break**   |
+| 11:00--11:40 | **Benjamin Smarr & Shu Chien** <br>  Learning from the Machine's Mistakes: A Numerical Landscape Approach to Addressing Biomedical ML Bias | 
+| 11:40—12:20      | **Timo Freiesleben & Sebastian Zezulka** <br> Science as a Kaggle Challenge: How Benchmarking Impacts Scientific Methodology   |
+| 12:20—13:45      |  **Lunch**  |
+| 13:45--14:25 | **Cordelia Berz** <br> The Logic of Counterfactuals: Desiderata for Explanations of Algorithmic Decisions |
+| 14:25--15:05 | **Adam Mehdi Arafan** <br> Human-Centered Value Alignment with Counterfactuals: A New Metric for Trading-off Decision Paralysis with Explainable Counterfactual Reasoning |
+| 15:05--15:45 | **Break** |
+| 15:45--16:30 | **Caroline von Klemperer** <br> Machine Learning and The Ethics of our Cognitive Lives |
+| 16:30--17:30 | **[Lauren Ross](https://sites.socsci.uci.edu/~rossl/)** <br> Keynote |
+| 17:00 | End Day 2 |
+
+#### Day 3
+
+|  12th April     | [Boothstraat 7, 3512 BT Utrecht](https://maps.app.goo.gl/u2Lzt62RNXsHex4Y7) |
+|-----------------------------|-------------------------------|
+| 09:15—09:30      | **Welcome and coffee**           | 
+| 09:30---10:10      | **Jens Ulrik Hansen & Paula Quinon** <br> The Importance of Expert Knowledge in Large Language Models | 
+| 10:10—10:50      |  **Paula Muhr** <br> Automating Image-Based Diagnosis of Functional Neurological Disorder: Challenges and Implication  |
+| 10:50--11:10 | **Break** |
+| 11:10—11:50      | **Aleks Knoks & Thomas Raleigh** <br> Opacity, Explainability and Simplifying Models  |
+| 11:50—12:30      | **Yeji Streppel** <br> The Value Demarcation Problem in Machine Learning   |
+| 12:30—14:00      |  **Lunch**  |
+| 14:00--15:00 | **[Zack Lipton](https://www.zacharylipton.com)** <br> Keynote |
+| 15:00--15:30 | **Break** |
+| 15:30--16:10 | **Oliver Buchholz** <br> Against Objectivism about Explanation - In Machine Learning and Beyond |
+| 16:10--17:00 | **André Curtis-Trudel, Darrell Rowbottom, and Tjonnie Li** <br> On Finding What You're Not Looking For: Prospects and Challenges for DL-Driven Discovery |
+| 17:00--18:00 | **Reception** | 
+| 18:00 | End Day 3 |
+
+{{< cta cta_text="Click here to register" cta_link="https://forms.gle/ow2cdrwUTKE4on2K7" cta_new_tab="true" >}}
+
 
 ### Keynotes
 
 * [Lauren Ross](https://sites.socsci.uci.edu/~rossl/), Philosophy, UC Irvine
 * [Zack Lipton](https://www.zacharylipton.com), Computer Science, Carnegie Mellon University
 * [Nava Tintarev](http://navatintarev.com), Computer Science and HCI, Maastricht University
-
-
-### List of Contributed Talks
-
-**Timo Freiesleben (University of Tübingen), Sebastian Zezulka (University of Tübingen)** --- Science as a Kaggle Challenge: How Benchmarking Impacts Scientific Methodology
-
-**Tom Sterkenburg (LMU Munich)** --- The Epistemic Core of Machine Learning
-
-**André Curtis-Trudel (Lingnan University), Darrell Rowbottom (Lingnan University), Tjonnie Li (KU Leuven)** --- On Finding What You're Not Looking For: Prospects and Challenges for DL-Driven Discovery
-
-**Dana Matthiessen (University of Minnesota)** --- "Understanding Through Coordinated Practices: Uses of Deep Learning Algorithms in Structural Biology"
-
-**Alex Mussgnug (The University of Edinburgh)** --- Convenience ML: When Science Becomes a Playground
-
-**Adam Mehdi Arafan (Eindhoven University of Technology)** --- Human-centered Value Alignment with Counterfactuals: A New Metric for Trading-off Decision Paralysis with Explainable Counterfactual Reasoning
-
-**Mariana Vitti Rodrigues (São Paulo State University,  University of Exeter)** --- Explanatory Inference, Understanding, and Protein Language Models
-
-**Oliver Buchholz (ETH Zurich)** --- Against Objectivism about Explanation - In Machine Learning and Beyond
-
-**Cordelia Berz  (LMU Munich)** --- The Logic of Counterfactuals: Desiderata for Explanations of Algorithmic Decisions
-
-**Sara Pernille Jensen (University of Oslo)** --- Understanding from Machine Learning Models as Computer Simulations of Phenomenological Models
-
-**Caroline von Klemperer (Rutgers University)** -- Machine Learning and The Ethics of our Cognitive Lives
-
-**Paula Muhr (University of Zurich)** --- Automating Image-Based Diagnosis of Functional Neurological Disorder: Challenges and Implication
-
-**Benjamin Smarr (Halicioglu Data Science Institute), Shu Chien (University of California, San Diego)** ---- Learning from the Machine's Mistakes: A Numerical Landscape Approach to Addressing Biomedical ML Bias
-
-**Yeji Streppel (Eindhoven University of Technology)** – The Value Demarcation Problem in Machine Learning
-
 
 
 ### Program Committee
