@@ -91,7 +91,7 @@ projects: [trustworthy-ai]
 | 09:20---10:00      |  **Dana Matthiessen** <br> Understanding Through Coordinated Practices: Uses of Deep Learning Algorithms in Structural Biology        | 
 | 10:00—10:40      | **Mariana Vitti Rodrigues** <br> Explanatory Inference, Understanding, and Protein Language Models         |  
 | 10:40---11:00    | **Break**   |
-| 11:00--11:40 | **Benjamin Smarr & Shu Chien** <br>  Learning from the Machine's Mistakes: A Numerical Landscape Approach to Addressing Biomedical ML Bias | 
+| 11:00--11:40 | **Benjamin Smarr** <br>  Learning from the Machine's Mistakes: A Numerical Landscape Approach to Addressing Biomedical ML Bias | 
 | 11:40—12:20      | **Timo Freiesleben & Sebastian Zezulka** <br> Science as a Kaggle Challenge: How Benchmarking Impacts Scientific Methodology   |
 | 12:20—13:45      |  **Lunch**  |
 | 13:45--14:25 | **Cordelia Berz** <br> The Logic of Counterfactuals: Desiderata for Explanations of Algorithmic Decisions |
