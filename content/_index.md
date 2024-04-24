@@ -220,8 +220,8 @@ sections:
           link: 'info@ephil.ai'
         - icon: twitter
           icon_pack: fas
-          name: Follow us on Twitter/X
-          link: 'https://twitter.com/ephil_ai'
+          name: Follow us on LinkedIn
+          link: 'https://www.linkedin.com/company/ecpai'
        # - icon: video
        #   icon_pack: fas
        #   name: Zoom Me
