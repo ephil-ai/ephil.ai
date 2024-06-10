@@ -1,7 +1,7 @@
 ---
 title: "Welcome Cameron Buckner!"
 author: admin
-date: 2024-05-31
+date: 2024-06-10
 summary: ""
 
 
