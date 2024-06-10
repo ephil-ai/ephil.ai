@@ -29,6 +29,10 @@ Buckner is one of the leading philosophical voices on theoretical issues in arti
 
 Buckner will deliver a research talk at the Philosophy & Ethics and Eindhoven Center for Philosophy of AI seminar on several chapters of his [book](https://global.oup.com/academic/product/from-deep-learning-to-rational-machines-9780197653302), each of which focuses on empiricist theorizing about a particular mental faculty and how modeling them using deep neural network modules can help bootstrap models to greater degrees of rational flexibility.
 
-Moreover, he will lead a masterclass for graduate students and postdocs on philosophical issues at the cutting edge of deep learning research.
+Moreover, on 26th and 27th June he will lead a [Eindhoven Artificial Intelligence Systems Institute](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute) (EAISI) [masterclass for researchers, PhD candidates, postdocs, and (advanced) MSc students on whether large language models are just next-word prediction machines or they also represent the world](https://www.tue.nl/en/our-university/calendar-and-events/26-06-2024-eaisi-masterclass-on-llms).
 
-Finally, Buckner will give a lecture at the [Eindhoven Artificial Intelligence Systems Institute](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute).
+Finally, Buckner will give a EAISI lecture on 1st July on the topic of [interventional methods for relating representations in DNNs to representations in the brain](https://www.tue.nl/en/our-university/calendar-and-events/01-07-2024-eaisi-lecture-by-visiting-professor-cameron-buckner).
+
+{{% callout note %}}
+Follow the links above for more information about the events and to register.
+{{% /callout %}}
