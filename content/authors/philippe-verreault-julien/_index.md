@@ -12,7 +12,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role:  Managing Director <br> Postdoc
+# role:  Managing Director <br> Postdoc
 
 
 external_profile: https://pvjulien.net
@@ -80,6 +80,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Affiliated Researchers
 ---
 
