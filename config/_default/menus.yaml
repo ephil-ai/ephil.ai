@@ -29,10 +29,6 @@ main:
     parent: projects
     url: project/ai-education
     weight: 30
-  - name: Testcluster
-    parent: projects
-    url: project/testcluster2/
-    weight: 30
   - name: Events
     url: event
     weight: 50
