@@ -47,7 +47,7 @@ ECPAI researchers are involved in many different ways to better understand the i
 
 ## Funded Projects
 
-- [BOOST!](https://boost.tue.nl) / [4TUCEE](https://www.4tu.nl/cee/) project on generative AI for writing education.
+- [Using Generative AI to Teach Academic Writing](https://www.4tu.nl/cee/innovation/project/4368/using-generative-ai-to-teach-academic-writing), funded by [BOOST!](https://boost.tue.nl) and [4TUCEE](https://www.4tu.nl/cee/).
 
 ## Structural Contributions
 - Carlos Zednik is part of the IE&IS task force on AI in education.
