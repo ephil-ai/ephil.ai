@@ -67,3 +67,4 @@ ECPAI researchers are involved in many different ways to better understand the i
 - Matthew Dennis
 - Philip Nickel
 - Vlasta Sikimić
+- Laila Wegner
