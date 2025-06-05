@@ -1,6 +1,6 @@
 ---
 title: AI & Responsibility
-summary: 'Responsibility, meaningful human control and justice in AI' [(read more)](/project/responsibility)'
+summary: 'Responsibility, meaningful human control and justice in AI [(read more)](/project/responsibility)'
 date: "2021-12-01T00:00:00Z"
 profile: false
 show_date: false
