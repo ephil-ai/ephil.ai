@@ -1,5 +1,5 @@
 ---
-title: Creativity
+title: AI & Creativity
 summary: 'Creativity, Artificial Intelligence & Human Well-Being [(read more)](/project/creativity)'
 date: "2025-06-01T00:00:00Z"
 profile: false
@@ -17,7 +17,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
- caption: "Image created with [Adobe Firefly](https://firefly.adobe.com) (prompt: artificial intelligence programme assisting students in writing essays)"
+ caption: "Photo by <a href="https://unsplash.com/@simplicity?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marija Zaric</a> on <a href="https://unsplash.com/photos/a-sign-that-is-on-the-side-of-a-building-2I8TLcw2GT4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>"
  placement: 1
  focal_point: Smart
  preview_only: false
@@ -50,13 +50,10 @@ Creativity has been viewed as a distinctive feature of human beings, as well asc
 
 ## Activities
 
-- 
+- Designing a ‘Digital Wellness’ space with Next Nature and What Design Can Do (Lyanne Uhlhorn, Matthew Dennis). (More Infromation)[https://nextnature.org/en/museum/digital-wellness-center]
 
 ## Associated Researchers
 
-- Carlos Zednik
-- Gunter Bombaerts
 - Matthew Dennis
-- Philip Nickel
-- Vlasta Sikimić
-- Laila Wegner
+- Filippo Santoni de Sio
+- Max Birk
