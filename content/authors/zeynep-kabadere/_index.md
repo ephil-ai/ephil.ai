@@ -36,9 +36,9 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fas
-  link: https://research.tue.nl/nl/persons/laila-wegner
+# - icon: globe
+  # icon_pack: fas
+  # link: https://research.tue.nl/nl/persons/laila-wegner
 - icon: envelope
   icon_pack: fas
   link: 'mailto:z.kabadere@tue.nl'
