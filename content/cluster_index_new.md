@@ -12,8 +12,8 @@ sections:
       text:         <p style="font-size:1.25em">The Eindhoven Center for the Philosophy of Artificial Intelligence (ECPAI) advances the understanding of philosophical issues in AI and investigates the ethical and social implications of AI technology through philosophical reflection. Its members, mostly comprised of researchers in the  <a href="https://www.tue.nl/en/research/research-groups/innovation-sciences/philosophy-ethics/" target="_blank">Philosophy & Ethics Group</a> at <a href="https://www.tue.nl/en/" target="_blank">Eindhoven University of Technology</a>, contribute to interdisciplinary AI research and engage with industry, policy, and civil society actors to ensure the responsible development and use of AI.</p>
     design: 
       columns: '2'
-
-
+    
+# test cluster pic
 Highcharts.chart('container', {
   chart: {
     type: 'networkgraph',
@@ -46,6 +46,17 @@ Highcharts.chart('container', {
   }]
 });
 
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/networkgraph.js"></script>
+
+<div id="container"></div>
+
+#container {
+  min-width: 320px;
+  max-width: 500px;
+  margin: 0 auto;
+  height: 500px;
+}
 
 # - block: slider
   #  content:
