@@ -13,15 +13,15 @@ sections:
     design: 
       columns: '2'
 
-# test cluster 
-# - block: collection    
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+
+
+- block: mermaid
+    graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+
 
 
 # - block: slider
