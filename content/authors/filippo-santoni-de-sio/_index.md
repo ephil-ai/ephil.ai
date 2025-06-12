@@ -12,7 +12,8 @@ superuser: false
 # Role/position
 role: 'Full Professor'
 
-do_not_link: true
+# do_not_link: true
+external_profile: https://filipposantoni.net/
 
 # Organizations/Affiliations
 organizations:
