@@ -17,7 +17,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
- caption: "Image created with [DALL·E by OpenAI](https://openai.com/dall-e-3)"
+ caption: "Photo by <a href="https://unsplash.com/@noahbuscher?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Noah Buscher</a> on <a href="https://unsplash.com/photos/green-plant-x8ZStukS2PM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>"
  placement: 1
  focal_point: Smart
  preview_only: false
@@ -48,9 +48,6 @@ The development of AI has raised new attention to the question of responsibility
 - How can social justice support control and responsibility over AI, and how can AI systems be more just, also in the light of the climate crisis (climate justice)?
 - What is design justice, and how can the AI design process be more democratic?  
 
-
-## Activities
--
 
 ## Associated Researchers
 
