@@ -14,7 +14,6 @@ sections:
       columns: '2'
 
 
-
 Highcharts.chart('container', {
   chart: {
     type: 'networkgraph',
