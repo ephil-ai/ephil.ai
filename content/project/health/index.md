@@ -18,7 +18,7 @@ external_link: ""
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
  caption: Photo by <a href="https://unsplash.com/@julientromeur?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">julien Tromeur</a> on <a href="https://unsplash.com/photos/a-3d-image-of-a-human-with-a-red-circle-in-his-stomach-XChsbHDigQM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  placement: 1
+placement: 1
  focal_point: Smart
  preview_only: false
 
