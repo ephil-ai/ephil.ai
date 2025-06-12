@@ -13,8 +13,8 @@ sections:
     design: 
       columns: '2'
 
-# test cluster pic
- - block: clusuter    
+# test cluster 
+ - block: collection    
 
 
 
