@@ -45,11 +45,6 @@ When AI systems are opaque, explanations can be used to help render them transpa
 
 The cluster aims to not just publish philosophical research, but to also directly advance empiricalresearch, technological development, and AI governance efforts. While empirical research onhuman cognition is a source of inspiration, the research being conducted in this cluster also feedsback to inform theory and methodology in psychology, neuroscience, and cognitive science moregenerally. Through active collaborations with researchers at e.g. TU/e's Mobile Perceptual Systemslab, researchers in this cluster also contribute to the transparency and performance of state-of-the-artAI systems. Finally, through active participation in national and international standardization,members of this cluster ensure that their research has a direct real-world impact.
 
-#**Development:** Interesting development stuff.
-
-#**Regulation:** Cool regulatory stuff.
-
-
 ## Funded Projects
 
 - [NWO LTP ROBUST project](https://www.tue.nl/en/storage/biomedische-technologie/de-faculteit/news-and-events/news-overview/05-01-2023-robust-ai-program-receives-additional-eur25-million-in-funding-from-dutch-research-council) on explainability of machine vision for self-driving cars
