@@ -1,5 +1,5 @@
 ---
-title: Explainability Lab
+title: Cognitive Explainability
 summary: 'Explainability is a critical quality requirement for AI systems. It is threatened when systems are too complex and dynamic, and it may be ensured through interpretable design or through post-hoc explanation. Philosophical work is required, however, to understand what this actually means. [(read more)](/project/explainability)'
 date: "2021-12-01T00:00:00Z"
 profile: false
@@ -41,11 +41,13 @@ url_video: ""
 slides: ''
 ---
 
-Explainability is Bla Bla Bla.
+When AI systems are opaque, explanations can be used to help render them transparent. But whatform should such explanations take? Researchers in this cluster explore links between artificialintelligence and human cognition to transfer methodological and theoretical insights frompsychology and neuroscience to advance the development and use of explainable AI. Methods fromphilosophy of science are used to evaluate the explanatory credentials of different XAI tools;insights from philosophy of mind and theoretical psychology are used to gauge the applicability ofmental constructs to symbolic and data-driven AI systems; considerations from ethics and policy areconsidered to ensure that the tools being developed align with societal norms and values. Currentapplication areas include (but are not limited to) automotive vision, natural language processing,and educational support services.
 
-**Development:** Interesting development stuff.
+The cluster aims to not just publish philosophical research, but to also directly advance empiricalresearch, technological development, and AI governance efforts. While empirical research onhuman cognition is a source of inspiration, the research being conducted in this cluster also feedsback to inform theory and methodology in psychology, neuroscience, and cognitive science moregenerally. Through active collaborations with researchers at e.g. TU/e's Mobile Perceptual Systemslab, researchers in this cluster also contribute to the transparency and performance of state-of-the-artAI systems. Finally, through active participation in national and international standardization,members of this cluster ensure that their research has a direct real-world impact.
 
-**Regulation:** Cool regulatory stuff.
+# **Development:** Interesting development stuff.
+
+# **Regulation:** Cool regulatory stuff.
 
 
 ## Funded Projects
@@ -54,11 +56,15 @@ Explainability is Bla Bla Bla.
 - [MSCA AlignAI project](https://alignai.eu/) on explainability and fairness in large language models.
 
 
-## Activities
+## PhD Projects
 
-- Bla Bla
+- Tacit knowledge in large language models (C. Budding)
+- Schema-based representations for automotive vision (M. Ghezzi)
+- Reasoning processes in LLMs and AI agents (Z. Kabadere)
 
 ## Associated Researchers
 
+- Carlos Zednik
 - Céline Budding
 - Michela Ghezzi
+- Zeynep Kabadere
