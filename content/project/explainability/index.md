@@ -17,7 +17,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
- caption: "Image created with [DALL·E by OpenAI](https://openai.com/dall-e-3)"
+ caption: "Photo by <a href="https://unsplash.com/@lukejonesdesign?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Luke Jones</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-computer-circuit-board-tBvF46kmwBw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>"
  placement: 1
  focal_point: Smart
  preview_only: false
