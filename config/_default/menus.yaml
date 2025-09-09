@@ -18,7 +18,7 @@ main:
     identifier: cluster
     weight: 40
   - name: AI, animals, and other non-human intelligences
-    parent: projects
+    parent: cluster
     url: project/animals
     weight: 10
   - name: Value Alignment
