@@ -15,7 +15,7 @@ main:
     weight: 30
   - name: Cluster
     url: cluster
-    identifier: project
+    identifier: projects
     weight: 40
 #  - name: AI, animals, and other non-human intelligences
 #    parent: cluster
