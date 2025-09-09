@@ -13,13 +13,13 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Projects
-    url: projects
-    identifier: projects
+  - name: Cluster
+    url: cluster
+    identifier: cluster
     weight: 40
-  - name: Trustworthy AI
+  - name: AI, animals, and other non-human intelligences
     parent: projects
-    url: project/trustworthy-ai
+    url: project/animals
     weight: 10
   - name: Value Alignment
     parent: projects
