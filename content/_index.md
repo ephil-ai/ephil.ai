@@ -34,6 +34,15 @@ sections:
       background:
         color: "gray-50"
 
+
+```markmap {height="200px"}
+- Hugo Modules
+  - Test Mindmap wowchemy
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal
+```
+
     
 #  - block: slider
 #    content:
