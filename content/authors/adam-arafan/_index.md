@@ -10,7 +10,7 @@ last_name: Arafan
 superuser: false
 
 # Role/position
-role: 'PhD Candidate'
+role: 'Alumni'
 
 do_not_link: true
 
