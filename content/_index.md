@@ -22,26 +22,24 @@ sections:
       items:
         - name: "[AI, animals, and other non-human intelligences](/project/animals/)"
           description: "Investigating Minds: From Animals to AI"
-          icon: "fish"
-        - name: "Easy to Use"
-          description: "Intuitive interface that anyone can master"
-          icon: "heart"
-        - name: "Secure"
-          description: "Enterprise-grade security built-in"
-          icon: "shield-check"
+          icon: "brain"
+        - name: "[AI and Creativity](/project/creativity/)"
+          description: "Exploring the relation of AI, Creativity, and Human Well-Being"
+          icon: "palette"
+        - name: "[AI and Exlainability](/project/explainability/]"
+          description: "Understanding AI through  insights from human cognition, psychology and neuroscience"
+          icon: "lightbulb"
+        - name: "[AI and Health](/project/health/]"
+          description: "Philosophical and Ethical Perspectives on AI and Health"
+          icon: "heart-pulse"
+        - name: "[AI and Responsibility](/project/responsibility/]"
+          description: "Investigating the relation of Responsibility, Meaningful Human Control and Justice in the context of AI"
+          icon: "hands-holding-circle"
     design:
       columns: "3"
       background:
         color: "gray-50"
 
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Test Mindmap wowchemy
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
 
     
 #  - block: slider
