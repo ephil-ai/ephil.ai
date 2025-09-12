@@ -23,6 +23,7 @@ sections:
         - name: "[AI, animals, and other non-human intelligences](/project/animals/)"
           description: "Investigating Minds: From Animals to AI"
           icon: "brain"
+          color: "red"
         - name: "[AI and Creativity](/project/creativity/)"
           description: "Exploring the relation of AI, Creativity, and Human Well-Being"
           icon: "palette"
