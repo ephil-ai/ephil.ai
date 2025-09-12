@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- <p style="color:white"></p>
+- Alumni
 ---
 
 Dr. Alaa Abdalla is a postdoctoral researcher in the [Philosophy & Ethics group](https://www.tue.nl/en/research/research-groups/innovation-sciences/philosophy-ethics) at Eindhoven University of Technology, in the Netherlands. She works at the intersection of philosophy and educational research. Her research interests include how STEM graduates see their role in society, intercultural competence, systemic epistemology, and designing effective formal and informal learning environments.
