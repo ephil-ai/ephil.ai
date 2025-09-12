@@ -23,7 +23,7 @@ sections:
         - name: "[AI, animals, and other non-human intelligences](/project/animals/)"
           description: "Investigating Minds: From Animals to AI"
           icon: "brain"
-          color: "red"
+          color: red
         - name: "[AI and Creativity](/project/creativity/)"
           description: "Exploring the relation of AI, Creativity, and Human Well-Being"
           icon: "palette"
@@ -249,7 +249,7 @@ sections:
        #   name: Email us
        #   link: 'info@ephil.ai'
         - icon: linkedin
-          icon_pack: fas
+         # icon_pack: fas
           name: Follow us on LinkedIn
           link: 'https://www.linkedin.com/company/ecpai'
        # - icon: video
