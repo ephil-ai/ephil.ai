@@ -17,18 +17,25 @@ main:
     url: projects
     identifier: projects
     weight: 40
-  - name: AI, animals, and other non-human intelligences
+  - name: AI & Animals
     parent: projects
     url: project/animals
     weight: 10
-  - name: Value Alignment
+  - name: AI & Creativity
     parent: projects
-    url: project/value-alignment
+    url: project/creativity
     weight: 20
-  - name: AI in Education
+  - name: AI & Explainability
     parent: projects
-    url: project/ai-education
+    url: project/explainability
     weight: 30
+  - name: AI & Health
+    parent: projects
+    url: project/health
+    weight: 30 
+  - name: AI & Responsibility
+    parent: projects
+    url: project/responsibility
   - name: Events
     url: event
     weight: 50
