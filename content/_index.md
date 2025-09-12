@@ -22,7 +22,7 @@ sections:
       items:
         - name: "[AI, animals, and other non-human intelligences](/project/animals/)"
           description: "Investigating Minds: From Animals to AI"
-          icon: "bolt"
+          icon: "fish"
         - name: "Easy to Use"
           description: "Intuitive interface that anyone can master"
           icon: "heart"
