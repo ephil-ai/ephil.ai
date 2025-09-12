@@ -26,13 +26,13 @@ sections:
         - name: "[AI and Creativity](/project/creativity/)"
           description: "Exploring the relation of AI, Creativity, and Human Well-Being"
           icon: "palette"
-        - name: "[AI and Exlainability](/project/explainability/]"
+        - name: "[AI and Exlainability](/project/explainability/)"
           description: "Understanding AI through  insights from human cognition, psychology and neuroscience"
           icon: "lightbulb"
-        - name: "[AI and Health](/project/health/]"
+        - name: "[AI and Health](/project/health/)"
           description: "Philosophical and Ethical Perspectives on AI and Health"
           icon: "heart-pulse"
-        - name: "[AI and Responsibility](/project/responsibility/]"
+        - name: "[AI and Responsibility](/project/responsibility/)"
           description: "Investigating the relation of Responsibility, Meaningful Human Control and Justice in the context of AI"
           icon: "hands-holding-circle"
     design:
@@ -220,7 +220,7 @@ sections:
       text: |-
         
       # Contact (add or remove contact options as necessary)
-      #email: test@example.org
+      # email: test@example.org
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:
@@ -243,11 +243,11 @@ sections:
       #  latitude: '37.4275'
       #  longitude: '-122.1697'  
       contact_links:
-        - icon: envelope
-          icon_pack: fas
-          name: Email us
-          link: 'info@ephil.ai'
-        - icon: twitter
+       # - icon: envelope
+       #   icon_pack: fas
+       #   name: Email us
+       #   link: 'info@ephil.ai'
+        - icon: linkedin
           icon_pack: fas
           name: Follow us on LinkedIn
           link: 'https://www.linkedin.com/company/ecpai'
