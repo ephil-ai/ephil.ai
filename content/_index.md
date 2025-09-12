@@ -17,11 +17,11 @@ sections:
   
   - block: features
     content:
-      title: "Amazing Features"
-      text: "Discover what makes our platform special"
+      title: "Our AI Clusters"
+      text: "Explore our Key Research Themes"
       items:
-        - name: "Fast Performance"
-          description: "Lightning-fast load times for better user experience"
+        - name: "[AI, animals, and other non-human intelligences](/project/animals/)"
+          description: "Investigating Minds: From Animals to AI"
           icon: "bolt"
         - name: "Easy to Use"
           description: "Intuitive interface that anyone can master"
@@ -35,56 +35,55 @@ sections:
         color: "gray-50"
 
     
-
-  - block: slider
-    content:
-      slides:
-      - title: '[Trustworthy AI](/project/trustworthy-ai/)'
-        content: '🤝 AI we can trust'
-        align: right
-        background:
-          image:
-            filename: project-trustworthy-ai.png
-            size: cover
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#666'
-      - title: '[Value Alignment](/project/value-alignment/)'
-        content: '⚖️ Ethical AI'
-        align: center
-        background:
-          image:
-            filename: project-value-alignment.jpg
-            size: cover
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#666'
-      - title: '[AI in Education](project/ai-education/)'
-        content: '🎓Teaching with AI'
-        align: left
-        background:
-          image:
-            filename: project-ai-education-wide.jpg
-            size: cover
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-       # link:
-        #  icon: envelope
-        #  icon_pack: fas
-        #  text: Contact Us
-        #  url: /#contact
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '512px'
-      is_fullscreen: false
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 3000
+#  - block: slider
+#    content:
+#      slides:
+#      - title: '[Trustworthy AI](/project/trustworthy-ai/)'
+#        content: '🤝 AI we can trust'
+#        align: right
+#        background:
+#          image:
+#            filename: project-trustworthy-ai.png
+#            size: cover
+#            filters:
+#              brightness: 0.5
+#          position: center
+#          color: '#666'
+#      - title: '[Value Alignment](/project/value-alignment/)'
+#        content: '⚖️ Ethical AI'
+#        align: center
+#        background:
+#          image:
+#            filename: project-value-alignment.jpg
+#            size: cover
+#            filters:
+#              brightness: 0.5
+#          position: center
+#          color: '#666'
+#      - title: '[AI in Education](project/ai-education/)'
+#        content: '🎓Teaching with AI'
+#        align: left
+#        background:
+#          image:
+#            filename: project-ai-education-wide.jpg
+#            size: cover
+#            filters:
+#              brightness: 0.7
+#          position: center
+#          color: '#666'
+#       # link:
+#        #  icon: envelope
+#        #  icon_pack: fas
+#        #  text: Contact Us
+#        #  url: /#contact
+#    design:
+#      # Slide height is automatic unless you force a specific height (e.g. '400px')
+#      slide_height: '512px'
+#      is_fullscreen: false
+#      # Automatically transition through slides?
+#      loop: true
+#      # Duration of transition between slides (in ms)
+#      interval: 3000
 
   - block: portfolio
     id: events
