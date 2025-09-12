@@ -248,7 +248,7 @@ sections:
        #   icon_pack: fas
        #   name: Email us
        #   link: 'info@ephil.ai'
-        - icon: linkedin
+        - icon: brands/linkedin
          # icon_pack: fas
           name: Follow us on LinkedIn
           link: 'https://www.linkedin.com/company/ecpai'
