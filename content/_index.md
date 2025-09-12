@@ -10,6 +10,7 @@ sections:
       title: |
         Eindhoven Center for the Philosophy of Artificial Intelligence
       text:         <p style="font-size:1.00em">The Eindhoven Center for the Philosophy of Artificial Intelligence (ECPAI) advances the understanding of philosophical issues in AI and investigates the ethical and social implications of AI technology through philosophical reflection. Its members, mostly comprised of researchers in the  <a href="https://www.tue.nl/en/research/research-groups/innovation-sciences/philosophy-ethics/" target="_blank">Philosophy & Ethics Group</a> at <a href="https://www.tue.nl/en/" target="_blank">Eindhoven University of Technology</a>, contribute to interdisciplinary AI research and engage with industry, policy, and civil society actors to ensure the responsible development and use of AI.</p>
+# [LW] reduced front-size text from 1.25 em to 1.00 em
     design: 
       columns: '2'
 
