@@ -44,7 +44,7 @@ social:
   icon_pack: fas
   link: 'mailto:m.ghezzi@tue.nl'
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: brands
   link: www.linkedin.com/in/michela-ghezzi
 #- icon: twitter
  # icon_pack: fab
