@@ -50,7 +50,7 @@ Creativity has been viewed as a distinctive feature of human beings, as well as 
 
 ## Activities
 
-- Designing a ‘Digital Wellness’ space with Next Nature and What Design Can Do (Lyanne Uhlhorn, Matthew Dennis). (More Infromation)[https://nextnature.org/en/museum/digital-wellness-center]
+- Designing a ‘Digital Wellness’ space with Next Nature and What Design Can Do (Lyanne Uhlhorn, Matthew Dennis). [More Infromation](https://nextnature.org/en/museum/digital-wellness-center)
 
 ## Associated Researchers
 
