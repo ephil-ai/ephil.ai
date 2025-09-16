@@ -43,7 +43,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:m.ghezzi@tue.nl'
-- icon: linkedin
+- icon: square-linkedin
   icon_pack: fas
   link: www.linkedin.com/in/michela-ghezzi
 #- icon: twitter
