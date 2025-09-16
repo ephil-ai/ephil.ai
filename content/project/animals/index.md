@@ -53,9 +53,9 @@ Another important group of ethical issues concerns the relationships and interac
 - What is the future of AI-animal interaction, and what philosophical and ethical issues does it raise?
 
 ## Activities
-Co-sponsor and contribute to activities in the Europe Horizon project NAP4DIVE, investigating AI- and organ-on-a-chip non-animal models for medical research (e.g. workshops, tracks at conferences).
+Co-sponsor and contribute to activities in the Europe Horizon project [NAP4DIVE](https://nap4dive.eu/), investigating AI- and organ-on-a-chip non-animal models for medical research (e.g. workshops, tracks at conferences).
 
 ## Members
-- Patrik Hummel, Assistant Professor, P&E
 - Philip J. Nickel, Associate Professor, P&E
 - Diego Morales Pérez, PhD candidate, P&E
+- Vivian Brunsberg, PhD candidate, P&E
