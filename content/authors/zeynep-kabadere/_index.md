@@ -36,12 +36,18 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: globe
-  # icon_pack: fas
-  # link: https://research.tue.nl/nl/persons/laila-wegner
+- icon: globe
+  icon_pack: fas
+  link: https://research.tue.nl/nl/persons/zeynep-kabadere
 - icon: envelope
   icon_pack: fas
   link: 'mailto:z.kabadere@tue.nl'
+- icon: circle-user
+  icon_pack: fas
+  link: www.linkedin.com/in/zeynep-kabadere
+- icon: researchgate
+  icon_pack: fas
+  link: https://www.researchgate.net/profile/Zeynep-Kabadere?ev=hdr_xprf
 # - icon: google-scholar
   # icon_pack: ai
   # link: https://scholar.google.com/citations?user=_ZT7_dYAAAAJ&hl=en
