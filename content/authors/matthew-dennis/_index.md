@@ -15,8 +15,9 @@ superuser: false
 role:  Co-Director <br> Assistant Professor
 
 # For own homepages, linked by name. If used, delete the row 'do_not_link: true'
-external_profile: https://www.matthewjamesdennis.com
 # do_not_link: true
+
+external_profile: https://www.matthewjamesdennis.com
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +52,7 @@ social:
   icon: globe
   icon_pack: fas
   link: https://www.tue.nl/en/research/researchers/matthew-dennis
-- # to be used for email
+# - # to be used for email
   # icon: envelope
   # icon_pack: fas
   # link: 'mailto: xxx'
