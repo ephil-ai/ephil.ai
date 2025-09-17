@@ -63,3 +63,4 @@ One prominent ethical concern is the issue of bias and fairness. AI systems, suc
 - Philip Nickel
 - Matthew Dennis
 - Filippo Santoni de Sio
+- Flor Pasturino
