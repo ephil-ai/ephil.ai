@@ -23,7 +23,6 @@ sections:
         - name: "[AI, animals, and other non-human intelligences](/project/animals/)"
           description: "Investigating Minds: From Animals to AI"
           icon: "brain"
-          color: red
         - name: "[AI and Creativity](/project/creativity/)"
           description: "Exploring the relation of AI, Creativity, and Human Well-Being"
           icon: "palette"
@@ -36,12 +35,7 @@ sections:
         - name: "[AI and Responsibility](/project/responsibility/)"
           description: "Investigating the relation of Responsibility, Meaningful Human Control and Justice in the context of AI"
           icon: "hands-holding-circle"
-        - name: "Test"
-          description: "icon test"
-          icon: "square-linkedin"
-        - name: "Test 2"
-          description: "icon test"
-          icon: "circle-user"   
+ 
     design:
       columns: "3"
       background:
