@@ -38,7 +38,10 @@ sections:
           icon: "hands-holding-circle"
         - name: "Test"
           description: "icon test"
-          icon: "linkedin"
+          icon: "square-linkedin"
+        - name: "Test 2"
+          description: "icon test"
+          icon: "circle-user"   
     design:
       columns: "3"
       background:
