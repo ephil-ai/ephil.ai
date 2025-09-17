@@ -42,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:f.h.v.d.weij@tue.nl'
+- icon: circle-user
+  icon_pack: fas
+  link: https://www.linkedin.com/in/freekvdweij/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=nl&user=hJ_j7BIAAAAJ
