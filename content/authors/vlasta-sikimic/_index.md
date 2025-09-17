@@ -12,7 +12,9 @@ superuser: false
 # Role/position
 role: 'Assistant Professor'
 
-do_not_link: true
+# For own homepages, linked by name. If used, delete the row 'do_not_link: true'
+external_profile: https://vlastasikimic.com/
+# do_not_link: true
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +46,7 @@ bio: ''
 social:
 - icon: globe
   icon_pack: fas
-  link: https://vlastasikimic.com
+  link: https://www.tue.nl/en/research/researchers/vlasta-sikimic
 - icon: philpapers
   icon_pack: ai
   link: https://philpeople.org/profiles/vlasta-sikimic
