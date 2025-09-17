@@ -46,7 +46,7 @@ social:
   icon_pack: fas
   link: www.linkedin.com/in/zeynep-kabadere
 - icon: researchgate
-  icon_pack: fas
+  icon_pack: academicons
   link: https://www.researchgate.net/profile/Zeynep-Kabadere?ev=hdr_xprf
 # - icon: google-scholar
   # icon_pack: ai
