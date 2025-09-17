@@ -36,7 +36,7 @@ sections:
         - name: "[AI and Responsibility](/project/responsibility/)"
           description: "Investigating the relation of Responsibility, Meaningful Human Control and Justice in the context of AI"
           icon: "hands-holding-circle"
-         - name: "Test"
+        - name: "Test"
           description: "icon test"
           icon: "linkedin"
     design:
