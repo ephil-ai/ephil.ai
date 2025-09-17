@@ -12,6 +12,9 @@ superuser: false
 # Role/position
 role: PhD Candidate
 
+
+# For own hompages, linked with the name
+# external_profile: https://example.nl
 do_not_link: true
 
 # Organizations/Affiliations
