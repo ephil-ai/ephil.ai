@@ -59,7 +59,7 @@ social:
   icon_pack: fas
   link: https://www.linkedin.com/in/laila-wegner-b5510a1b4/
 - # to be used for philpapers
-- icon: philpapers
+  icon: philpapers
   icon_pack: ai
   link: https://philpeople.org/profiles/matthew-dennis-4
 - # to be used for google scholar
