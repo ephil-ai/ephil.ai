@@ -14,7 +14,9 @@ superuser: false
 # Role/position
 role:  Co-Director <br> Assistant Professor
 
-do_not_link: true
+# For own homepages, linked by name. If used, delete the row 'do_not_link: true'
+external_profile: https://www.matthewjamesdennis.com
+# do_not_link: true
 
 # Organizations/Affiliations
 organizations:
@@ -44,29 +46,27 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
+- # to be used for tue profile
+  icon: globe
   icon_pack: fas
-  link: https://www.matthewjamesdennis.com
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:p.a.hummel@tue.nl'
+  link: https://www.tue.nl/en/research/researchers/matthew-dennis
+- # to be used for email
+  # icon: envelope
+  # icon_pack: fas
+  # link: 'mailto: xxx'
+- # to be used for LinkedIn
+  icon: circle-user
+  icon_pack: fas
+  link: https://www.linkedin.com/in/laila-wegner-b5510a1b4/
+- # to be used for philpapers
 - icon: philpapers
   icon_pack: ai
   link: https://philpeople.org/profiles/matthew-dennis-4
-#- icon: twitter
- # icon_pack: fab
- # link: https://twitter.com/carloszednik
-- icon: google-scholar
+- # to be used for google scholar
+  icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=rYRz-NoAAAAJ&hl=en&oi=ao
-#- icon: github
-# icon_pack: fab
- # link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
