@@ -13,7 +13,9 @@ superuser: false
 # Role/position
 role: 'Assistant Professor'
 
-do_not_link: true
+# For own homepages, linked by name. If used, delete the row 'do_not_link: true'
+external_profile: https://www.erhoneill.com/
+# do_not_link: true
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +47,7 @@ bio: ''
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.erhoneill.com
+  link: https://www.tue.nl/en/research/researchers/elizabeth-oneill
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:p.a.hummel@tue.nl'
