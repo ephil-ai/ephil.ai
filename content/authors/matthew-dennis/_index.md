@@ -46,6 +46,7 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+
 - # to be used for tue profile
   icon: globe
   icon_pack: fas
