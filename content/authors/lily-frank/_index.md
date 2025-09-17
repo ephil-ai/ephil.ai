@@ -12,7 +12,9 @@ superuser: false
 # Role/position
 role: 'Assistant Professor'
 
-#do_not_link: true
+# For own homepages, linked by name. If used, delete the row 'do_not_link: true'
+external_profile: https://sites.google.com/view/lilyevafrank/home
+# do_not_link: true
 
 # Organizations/Affiliations
 organizations:
@@ -48,13 +50,10 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://sites.google.com/view/lilyevafrank/home
+  link: https://www.tue.nl/en/research/researchers/lily-frank
 - icon: envelope
   icon_pack: fas
   link: 'mailto:l.e.frank@tue.nl'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Lilyfrank16
 - icon: philpapers
   icon_pack: ai
   link: https://philpeople.org/profiles/lily-frank
