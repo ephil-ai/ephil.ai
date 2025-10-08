@@ -1,7 +1,7 @@
 ---
-# Alaa whished to be removed from the website (also not alumni), so everything is commented - to delte this file?
 
-# 
+# Alaa whished to be removed from the website (also not alumni), so everything is commented - to delte this file?
+ 
 # # Display name
 # title: Alaa Abdalla
 # 
