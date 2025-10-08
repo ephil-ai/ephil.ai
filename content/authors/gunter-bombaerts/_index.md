@@ -10,7 +10,7 @@ last_name: Bombaerts
 superuser: false
 
 # Role/position
-role: 'Assistant Professor'
+role: 'Associate Professor'
 
 do_not_link: true
 
