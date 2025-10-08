@@ -51,6 +51,7 @@ The development of AI has raised new attention to the question of responsibility
 
 ## Associated Researchers
 
-- Filippo Santoni de Sio 
+- Filippo Santoni de Sio
+- Gunter Bombaerts
 - Michela Ghezzi
 - Laila Wegner
