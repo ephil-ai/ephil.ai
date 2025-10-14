@@ -25,7 +25,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-07-20T00:00:00Z"
 
-authors: [laila-wegner]
+# authors: [laila-wegner]
 tags: [creativity, generative AI, conference, event]
 
 # Is this a featured talk? (true/false)
