@@ -1,10 +1,10 @@
 ---
 type: event
-title: Conference Interdisciplinary Perspectives on Human and Machine Creativity 
+title: Conference - Interdisciplinary Perspectives on Human and Machine Creativity 
 
 event: ''
 event_url: ''
-location: Berlin, Germany
+location:  Max Planck Institute for Human Development, Berlin, Germany
 # address:
 #  street: Utrechtseweg 261
 #  city: Oosterbeek
