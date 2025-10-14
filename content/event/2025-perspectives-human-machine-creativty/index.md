@@ -1,6 +1,6 @@
 ---
 type: event
-title: Conference: Interdisciplinary Perspectives on Human and Machine Creativity 
+title: Conference Interdisciplinary Perspectives on Human and Machine Creativity 
 
 event: ''
 event_url: ''
