@@ -61,7 +61,7 @@ slides:
 projects: [creativity]
 # ---
 
-#What does it mean to be creative in the age of generative AI? 
+# What does it mean to be creative in the age of generative AI? 
 
 In collaboration with Iyad Rahawan and Yvonne Bialek, ECPAI Co-Director Matthew Dennis co-organized the conference ‘Interdisciplinary Perspectives on Human and Machine Creativity’ at the Max-Planck-Institut für Bildungsforschung in Berlin. Over the course of three days, this event brought together researchers from behavioural and computer science, philosophy and ethics, arts, communication, and media studies. The event created space to exchange ideas, challenge assumptions, and envision new directions for understanding how both humans and machines shape creative expression 
  
