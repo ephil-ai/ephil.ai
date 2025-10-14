@@ -58,10 +58,10 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [creativity]
-# ---
+# projects: [creativity]
+---
 
-# What does it mean to be creative in the age of generative AI? 
+## What does it mean to be creative in the age of generative AI? 
 
 In collaboration with Iyad Rahawan and Yvonne Bialek, ECPAI Co-Director Matthew Dennis co-organized the conference ‘Interdisciplinary Perspectives on Human and Machine Creativity’ at the Max-Planck-Institut für Bildungsforschung in Berlin. Over the course of three days, this event brought together researchers from behavioural and computer science, philosophy and ethics, arts, communication, and media studies. The event created space to exchange ideas, challenge assumptions, and envision new directions for understanding how both humans and machines shape creative expression 
  
@@ -71,4 +71,3 @@ This included, among others, a keynote by Iyad Rahwan, exploring how artificial 
 
 These are just some highlights of the diverse and thought-provoking program. To see the full agenda, visit the [event page ](https://www.mpib-berlin.mpg.de/research/research-centers/chm/conferences/summerschool)
 
----
