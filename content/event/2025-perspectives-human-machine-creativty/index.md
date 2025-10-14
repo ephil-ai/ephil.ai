@@ -23,10 +23,10 @@ date_end: "2025-07-04T18:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-10-14T00:00:00Z"
+publishDate: "2025-07-14T00:00:00Z"
 
-# authors: [laila-wegner]
-# tags: [creativity, generative AI, conference, event]
+authors: [laila-wegner]
+tags: [creativity, generative AI, conference, event]
 
 # Is this a featured talk? (true/false)
 featured: false
