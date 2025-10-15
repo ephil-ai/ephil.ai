@@ -17,7 +17,7 @@ tags: [news]
 image:
   #filename: test.png  # Uncomment to load an image from `assets/media/` instead.
   placement: 1
-  caption: "Photo by <a href="https://unsplash.com/@brettgarwood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Garwood</a> on <a href="https://unsplash.com/photos/gold-dragon-statue-during-daytime-uvvvKneSp_U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
+  caption: "Photo by [Brett Garwood](https://unsplash.com/@brettgarwood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/gold-dragon-statue-during-daytime-uvvvKneSp_U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   focal_point: "Smart"
   preview_only: false
 #  alt_text: An AI-generated futuristic painting of a person practicing mindfulness in the chaos of modern life.
