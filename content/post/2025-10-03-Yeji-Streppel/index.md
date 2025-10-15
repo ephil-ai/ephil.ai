@@ -22,13 +22,8 @@ image:
   preview_only: false
 #  alt_text: An AI-generated futuristic painting of a person practicing mindfulness in the chaos of modern life.
 ---
+We are delighted to congratulate **Yeji Streppel** on successfully defending her PhD thesis, [“Beyond the Black Box”](https://research.tue.nl/en/publications/beyond-the-black-box?_gl=1*19h7j6z*_gcl_au*MjA2NzM1NjQ3My4xNzU0OTAwNzE0*_ga*NDcyMTIwMzAzLjE3MzkyNjQ5OTk.*_ga_JN37M497TT*czE3NjA1MjA1MDEkbzEyMCRnMSR0MTc2MDUyMTk0NyRqNjAkbDAkaDA.), on **October 03, 2025**. 
 
-## Ethical Challenges in Healthcare 
+Yeji’s research explores how **machine learning reshapes understanding, explanation, and values in society**, examining the ways in which AI systems challenge our traditional ideas of knowledge, rights, and responsibility. Her work shows that while machine learning models—from tools like ChatGPT to systems used in hospitals or policy institutions—can enhance decision-making, they also raise crucial philosophical and ethical questions about transparency, fairness, and embedded values. 
 
-Healthcare faces enormous challenges, including long waiting lists, rising costs due to an aging population, and increasing operational and staffing costs. LLMs have been proposed as a promising solution by generating apparently human answers to important questions, which may lead to more efficient and effective care. Nevertheless, many of these models do not currently comply with European legislation, such as the GDPR and the AI Act, which are designed to safeguard users. And there are other open ethical issues such as who is responsible for the actions of the AI and how this impacts on social justice. The MedGPT project aims to close this gap by integrating ethical AI and European regulations into the platform from the beginning 
-
-## Project MedGPT 
-
-Researcher Matthew J. Dennis of the Philosophy & Ethics group leads the MedGPT project. Together with Mykola Pechenizkiy of the Mathematics and Computer Sciences group, they will develop ethical AI solutions for healthcare. This project, funded by ITEA4, focuses on integrating LLMs that comply with European legislation, with the aim of making healthcare more efficient and effective. To support this project, PhD student Flor Pasturino joined the Philosophy and Ethics groups and will work under the supervision of ECPAI members Matthew Dennis, Vlasta Sikimić, and Filippo Santoni de Sio on developing AI models for healthcare applications that are safe and ethical. 
-
-More Information can be [found here](https://www.tue.nl/en/news-and-events/news-overview/25-03-2025-medgpt-ethical-ai-for-better-healthcare  ). 
+Supervised by **Philip Nickel** and **Emily Sullivan**, Yeji’s dissertation offers a nuanced perspective on how we interpret, explain, and regulate AI-driven decisions in science, policy, and everyday life. 
