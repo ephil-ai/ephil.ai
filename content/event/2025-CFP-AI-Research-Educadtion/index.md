@@ -23,7 +23,7 @@ date: "2025-11-15T14:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-14-10T00:00:00Z"
+publishDate: "2025-10-15T00:00:00Z"
 
 authors: [zeynep-kabadere]
 tags: [call for papers, AI in research, AI in education]
