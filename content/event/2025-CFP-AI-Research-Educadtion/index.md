@@ -25,7 +25,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-15-10T00:00:00Z"
 
-authors: []
+authors: [zeynep-kabadere]
 tags: [call for papers, AI in research, AI in education]
 
 # Is this a featured talk? (true/false)
