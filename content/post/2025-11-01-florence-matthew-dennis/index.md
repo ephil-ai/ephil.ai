@@ -1,7 +1,7 @@
 ---
 title: "Matthew Dennis will be a visiting professor at the University of Florence"
 author: admin
-date: 2025-11-01
+date: 2025-10-15
 summary: ""
 
 
