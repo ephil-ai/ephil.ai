@@ -17,7 +17,7 @@ tags: [news]
 image:
   #filename: test.png  # Uncomment to load an image from `assets/media/` instead.
   placement: 1
-  # caption: "title"
+  caption: "jittawit.21 on iStock"
   focal_point: "Smart"
   preview_only: false
 #  alt_text: An AI-generated futuristic painting of a person practicing mindfulness in the chaos of modern life.
