@@ -5,7 +5,7 @@ date: 2025-10-03
 summary: ""
 
 
-projects: [health]
+projects: [explainability]
 tags: [news]
 
 # Cover image
