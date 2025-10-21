@@ -74,7 +74,7 @@ Philosophy can help redesign technologies and reframe innovation practices throu
 The public lecture will be delivered in the **Blauwe Zaal of the Auditorium**. You do not need to register. In case you can’t attend, the inaugural lecture will also be streamed live at this [link](https://vimeo.com/event/5406220) or can be viewed afterwards
 
 
-## Symposium - AI and creative work: ethical and design challenges
+## Symposium - AI and creative work ethical and design challenges
 
 Prior to the lecture you might also attend the symposium on “AI and Creative Work: Ethical and Design Challenges”
 
