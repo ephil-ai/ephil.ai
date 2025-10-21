@@ -84,14 +84,13 @@ Prior to the lecture you might also attend the symposium on “AI and Creative W
 
 ### Program
 
-|  10th April     | [Drift 21 (room 0.32), 3512 BR Utrecht](https://maps.app.goo.gl/taWieFA8iFtytMEa7) |
-|-----------------------------|-------------------------------|
+# |  10th April     | [Drift 21 (room 0.32), 3512 BR Utrecht](https://maps.app.goo.gl/taWieFA8iFtytMEa7) |
+# |-----------------------------|-------------------------------|
 | 12:30      | **Walk-in**           | 
 | 12:45     | **Welcome and introduction ** Filippo Santoni de Sio, Professor of Ethics of Technology, TU Eindhoven        | 
 | 13:00     | **Invited presentations** |
 |  |  **Responsible AI in Creative Practices** - Caterina Moruzzi, Chancellor’s Fellow in Design Informatics, University of Edinburgh |
 |  |  **Generative AI, Authorship, and the Future of Writing** - Sven Nyholm, Professor of Ethics of Artificial Intelligence, LMU Munich |
-### bis hier, nächster programm punkt 13:50 
 | 15:30—16:10      | **Alex Mussgnug** <br>  Convenience ML: When Science Becomes a Playground         |
 | 16:10—16:50      | **Sara Pernille Jensen** <br> ML Models as Phenomenological Models - Traditional Problems Call for Traditional Solutions   |
 | 16:50—17:30      |  **Tom Sterkenburg** <br> The Epistemic Core of Machine Learning           |
