@@ -84,8 +84,8 @@ Prior to the lecture you might also attend the symposium on “AI and Creative W
 
 ### Program
 
-# |  10th April     | [Drift 21 (room 0.32), 3512 BR Utrecht](https://maps.app.goo.gl/taWieFA8iFtytMEa7) |
-# |-----------------------------|-------------------------------|
+|  10th April     | [Drift 21 (room 0.32), 3512 BR Utrecht](https://maps.app.goo.gl/taWieFA8iFtytMEa7) |
+|-----------------------------|-------------------------------|
 | 12:30      | **Walk-in**           | 
 | 12:45     | **Welcome and introduction ** Filippo Santoni de Sio, Professor of Ethics of Technology, TU Eindhoven        | 
 | 13:00     | **Invited presentations** |
