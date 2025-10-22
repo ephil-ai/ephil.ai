@@ -1,6 +1,6 @@
 ---
 type: event
-title: Inauguration Prof.dr. Filippo Santoni de Sio - AI Ethics from Responsibility to Democracy
+title: Inauguration Prof. Dr. Filippo Santoni de Sio - **AI Ethics from Responsibility to Democracy**
 
 
 event: ''
@@ -65,12 +65,15 @@ slides:
 ## Inaugural Lecture
 ECPAI Member Prof.dr. Filippo Santoni de Sio was appointed as a full-time professor of Ethics of Technology at the Department of Industrial Engineering and Innovation Sciences at Eindhoven University of Technology (TU/e) on September 1, 2024. He will deliver his inaugural lecture on Thursday, November 13, 2025.
 
+
+### About the Lecture
 In his lecture, Professor Santoni de Sio will focus on his work on the ethics of artificial intelligence (AI). AI systems must be developed in line with principles of responsibility, justice, and democracy. AI’s complexity and opacity may create responsibility gaps: circumstances in which no human agent can be held responsible for a system’s (undesirable) behavior. 
 
 Yet in domains such as transportation, warfare, healthcare, AI must be designed to ensure meaningful human control, thereby preserving human agency and moral responsibility. Control also has a social dimension, as AI systems may unjustly marginalize the voices of patients in healthcare or affect the autonomy of the workforce in organizations. The innovation process must therefore be democratized, allowing people to actively contribute to the technological transformation that will affect them. 
 
 Philosophy can help redesign technologies and reframe innovation practices through the lens of responsibility, justice, and democracy. However, such a structural change requires the creation of spaces where researchers and interested parties can develop the concepts and practices needed to realize these ideals.
 
+### Details
 The public lecture will be delivered in the **Blauwe Zaal of the Auditorium**. You do not need to register. In case you can’t attend, the inaugural lecture will also be streamed live at this [link](https://vimeo.com/event/5406220) or can be viewed afterwards
 
 
@@ -93,13 +96,6 @@ Prior to the lecture you might also attend the symposium on “AI and Creative W
 |  |  **Generative AI, Authorship, and the Future of Writing** - Sven Nyholm, Professor of Ethics of Artificial Intelligence, LMU Munich |
 | 13:50 | Break |
 | 14:05 | **Panel Discussion**|  
-|  | **What is creative work, why is it valuable and how can AI support it? **
-David Abbink, Professor in Haptic Human-Robot Interaction, TU Delft
-Cristina Zaga, Assistant Professor at the Human-Centred Design Group 
-and The DesignLab, University of Twente
-Caterina Moruzzi, Chancellor’s Fellow in Design Informatics, 
-University of Edinburgh
-Sven Nyholm, Professor of Ethics of Artificial Intelligence, LMU Munich
-Filippo Santoni de Sio, Professor of Ethics of Technology, TU Eindhoven |
+|  | **What is creative work, why is it valuable and how can AI support it?** With David Abbink, Professor in Haptic Human-Robot Interaction, TU Delft; Cristina Zaga, Assistant Professor at the Human-Centred Design Group and The DesignLab, University of Twente; Caterina Moruzzi, Chancellor’s Fellow in Design Informatics, University of Edinburgh; Sven Nyholm, Professor of Ethics of Artificial Intelligence, LMU Munich; Filippo Santoni de Sio, Professor of Ethics of Technology, TU Eindhoven |
 | 14:50    | Closing remark   |
 | 15:00    | End of event and drink   |
