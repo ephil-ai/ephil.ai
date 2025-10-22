@@ -78,7 +78,7 @@ The public lecture will be delivered in the **Blauwe Zaal of the Auditorium**. Y
 
 Prior to the lecture you might also attend the symposium on “AI and Creative Work: Ethical and Design Challenges”
 
-**Registration is free but due to a limted number of available spots requiered.**
+**Registration is requiered.**
 
 {{< cta cta_text="Click here to register" cta_link="tinyurl.com/4835bbzn" cta_new_tab="true" >}}
 
@@ -91,60 +91,16 @@ Prior to the lecture you might also attend the symposium on “AI and Creative W
 | 13:00     | **Invited presentations** |
 |  |  **Responsible AI in Creative Practices** - Caterina Moruzzi, Chancellor’s Fellow in Design Informatics, University of Edinburgh |
 |  |  **Generative AI, Authorship, and the Future of Writing** - Sven Nyholm, Professor of Ethics of Artificial Intelligence, LMU Munich |
-### bis hier, nächster programm punkt 13:50 
-| 15:30—16:10      | **Alex Mussgnug** <br>  Convenience ML: When Science Becomes a Playground         |
-| 16:10—16:50      | **Sara Pernille Jensen** <br> ML Models as Phenomenological Models - Traditional Problems Call for Traditional Solutions   |
-| 16:50—17:30      |  **Tom Sterkenburg** <br> The Epistemic Core of Machine Learning           |
-| 17:30 | End Day 1 |
+| 13:50 | Break |
+| 14:05 | **Panel Discussion**|  
+|  | **What is creative work, why is it valuable and how can AI support it? **
+David Abbink, Professor in Haptic Human-Robot Interaction, TU Delft
+Cristina Zaga, Assistant Professor at the Human-Centred Design Group 
+and The DesignLab, University of Twente
+Caterina Moruzzi, Chancellor’s Fellow in Design Informatics, 
+University of Edinburgh
+Sven Nyholm, Professor of Ethics of Artificial Intelligence, LMU Munich
+Filippo Santoni de Sio, Professor of Ethics of Technology, TU Eindhoven |
+| 14:50    | Closing remark   |
+| 15:00    | End of event and drink   |
 
-#### Day 2
-
-|  11th April    | [Boothstraat 7, 3512 BT Utrecht](https://maps.app.goo.gl/u2Lzt62RNXsHex4Y7) |
-|-----------------------------|-------------------------------|
-| 09:00—09:20      | **Welcome and coffee**           | 
-| 09:20---10:00      |  **Dana Matthiessen** <br> Understanding Through Coordinated Practices: Uses of Deep Learning Algorithms in Structural Biology        | 
-| 10:00—10:40      | **Mariana Vitti Rodrigues** <br> Explanatory Inference, Understanding, and Protein Language Models         |  
-| 10:40---11:00    | **Break**   |
-| 11:00--11:40 | **Benjamin Smarr** <br>  Learning from the Machine's Mistakes: A Numerical Landscape Approach to Addressing Biomedical ML Bias | 
-| 11:40—12:20      | **Timo Freiesleben & Sebastian Zezulka** <br> Science as a Kaggle Challenge: How Benchmarking Impacts Scientific Methodology   |
-| 12:20—13:45      |  **Lunch**  |
-| 13:45--14:25 | **Cordelia Berz** <br> The Logic of Counterfactuals: Desiderata for Explanations of Algorithmic Decisions |
-| 14:25--15:05 | **Adam Mehdi Arafan** <br> Human-Centered Value Alignment with Counterfactuals: A New Metric for Trading-off Decision Paralysis with Explainable Counterfactual Reasoning |
-| 15:05--15:45 | **Break** |
-| 15:45--16:30 | **Caroline von Klemperer** <br> Machine Learning and The Ethics of our Cognitive Lives |
-| 16:30--17:30 | **[Lauren Ross](https://sites.socsci.uci.edu/~rossl/)** <br> Keynote |
-| 17:00 | End Day 2 |
-
-#### Day 3
-
-|  12th April     | [Boothstraat 7, 3512 BT Utrecht](https://maps.app.goo.gl/u2Lzt62RNXsHex4Y7) |
-|-----------------------------|-------------------------------|
-| 09:15—09:30      | **Welcome and coffee**           | 
-| 09:30---10:10      | **Jens Ulrik Hansen & Paula Quinon** <br> The Importance of Expert Knowledge in Large Language Models | 
-| 10:10—10:50      |  **Paula Muhr** <br> Automating Image-Based Diagnosis of Functional Neurological Disorder: Challenges and Implication  |
-| 10:50--11:10 | **Break** |
-| 11:10—11:50      | **Aleks Knoks & Thomas Raleigh** <br> Opacity, Explainability and Simplifying Models  |
-| 11:50—12:30      | **Yeji Streppel** <br> The Value Demarcation Problem in Machine Learning   |
-| 12:30—14:00      |  **Lunch**  |
-| 14:00--15:00 | **[Zack Lipton](https://www.zacharylipton.com)** <br> Keynote |
-| 15:00--15:30 | **Break** |
-| 15:30--16:10 | **Oliver Buchholz** <br> Against Objectivism about Explanation - In Machine Learning and Beyond |
-| 16:10--17:00 | **André Curtis-Trudel, Darrell Rowbottom, and Tjonnie Li** <br> On Finding What You're Not Looking For: Prospects and Challenges for DL-Driven Discovery |
-| 17:00--18:00 | **Reception** | 
-| 18:00 | End Day 3 |
-
-{{< cta cta_text="Click here to register" cta_link="https://forms.gle/ow2cdrwUTKE4on2K7" cta_new_tab="true" >}}
-
-
-### Keynotes
-
-* [Lauren Ross](https://sites.socsci.uci.edu/~rossl/), Philosophy, UC Irvine
-* [Zack Lipton](https://www.zacharylipton.com), Computer Science, Carnegie Mellon University
-* [Nava Tintarev](http://navatintarev.com), Computer Science and HCI, Maastricht University
-
-
-### Program Committee
-
-- Emily Sullivan, Utrecht University
-- Yeji Streppel, Eindhoven University of Technology
-- Kaush Kalidindi, Eindhoven University of Technology
