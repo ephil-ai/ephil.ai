@@ -62,9 +62,7 @@ slides:
 # projects: []
 ---
 
-## Inaugural Lecture
-ECPAI Member Prof.dr. Filippo Santoni de Sio was appointed as a full-time professor of Ethics of Technology at the Department of Industrial Engineering and Innovation Sciences at Eindhoven University of Technology (TU/e) on September 1, 2024. He will deliver his inaugural lecture on Thursday, November 13, 2025.
-
+ECPAI Member Prof.dr. Filippo Santoni de Sio was appointed as a full-time professor of Ethics of Technology at the Department of Industrial Engineering and Innovation Sciences at Eindhoven University of Technology (TU/e) on September 1, 2024. He will deliver his **inaugural lecture** on Thursday, November 13, 2025. Beforehand, there will also be a **symposium** on AI and Creative Work, featuring the invited guests Prof. David Abbink, Prof. Cristina Zaga, Caterina Moruzzi, and Prof. Sven Nyholm. For more details see below. 
 
 ### About the Lecture
 In his lecture, Professor Santoni de Sio will focus on his work on the ethics of artificial intelligence (AI). AI systems must be developed in line with principles of responsibility, justice, and democracy. AI’s complexity and opacity may create responsibility gaps: circumstances in which no human agent can be held responsible for a system’s (undesirable) behavior. 
@@ -77,11 +75,9 @@ Philosophy can help redesign technologies and reframe innovation practices throu
 The public lecture will be delivered in the **Blauwe Zaal of the Auditorium**. You do not need to register. In case you can’t attend, the inaugural lecture will also be streamed live at this [link](https://vimeo.com/event/5406220) or can be viewed afterwards
 
 
-## Symposium - AI and creative work ethical and design challenges
+### Symposium - AI and creative work ethical and design challenges
 
-Prior to the lecture you might also attend the symposium on “AI and Creative Work: Ethical and Design Challenges”
-
-**Registration is requiered.**
+Prior to the lecture you might also attend the symposium on “AI and Creative Work: Ethical and Design Challenges”. **Registration is free but requiered.**
 
 {{< cta cta_text="Click here to register" cta_link="tinyurl.com/4835bbzn" cta_new_tab="true" >}}
 
