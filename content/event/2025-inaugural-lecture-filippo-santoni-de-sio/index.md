@@ -1,6 +1,6 @@
 ---
 type: event
-title: Inauguration Prof. Dr. Filippo Santoni de Sio - **AI Ethics from Responsibility to Democracy**
+title: AI Ethics - from Responsibility to Democracy, Inauguration Lecutre Prof. Dr. Filippo Santoni de Sio
 
 
 event: ''
