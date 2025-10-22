@@ -1,6 +1,6 @@
 ---
 type: event
-title: AI Ethics - from Responsibility to Democracy, Inauguration Lecutre Prof. Dr. Filippo Santoni de Sio
+title: AI Ethics - from Responsibility to Democracy, Inaugural Lecture Prof. Dr. Filippo Santoni de Sio
 
 
 event: ''
@@ -62,7 +62,7 @@ slides:
 # projects: []
 ---
 
-ECPAI Member Prof.dr. Filippo Santoni de Sio was appointed as a full-time professor of Ethics of Technology at the Department of Industrial Engineering and Innovation Sciences at Eindhoven University of Technology (TU/e) on September 1, 2024. He will deliver his **inaugural lecture** on Thursday, November 13, 2025. Beforehand, there will also be a **symposium** on AI and Creative Work, featuring the invited guests Prof. David Abbink, Prof. Cristina Zaga, Caterina Moruzzi, and Prof. Sven Nyholm. For more details see below. 
+ECPAI Member Prof.dr. Filippo Santoni de Sio was appointed as a full-time professor of Ethics of Technology at the Department of Industrial Engineering and Innovation Sciences at Eindhoven University of Technology (TU/e) on September 1, 2024. He will deliver his inaugural lecture on Thursday, November 13, 2025. Beforehand, there will also be a symposium on AI and Creative Work, featuring the invited guests Prof. David Abbink, Prof. Cristina Zaga, Caterina Moruzzi, and Prof. Sven Nyholm. For more details see below. 
 
 ### About the Lecture
 In his lecture, Professor Santoni de Sio will focus on his work on the ethics of artificial intelligence (AI). AI systems must be developed in line with principles of responsibility, justice, and democracy. AI’s complexity and opacity may create responsibility gaps: circumstances in which no human agent can be held responsible for a system’s (undesirable) behavior. 
