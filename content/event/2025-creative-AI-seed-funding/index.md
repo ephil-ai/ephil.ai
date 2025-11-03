@@ -69,4 +69,5 @@ The event will focus on seed-funding opportunities for researchers who are inter
 
 Registration is possible before **3rd of November**. Your registration requires a 200 word abstract and 200 word biography, which will be reviewed. If accepted, you will receive a confirmation of attendance by the 7th of November.  
 
+{{< cta cta_text="Register here" cta_link="https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05UZnXtlPdBdIsT2eM0dOTVRUMUlWNDRXMjNLQlZFV1Q3S0hLTzJJVzhRTCQlQCNjPTEkJUAjdD1n" cta_new_tab="true" >}}
 
