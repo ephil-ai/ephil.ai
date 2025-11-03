@@ -37,7 +37,7 @@ featured: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  # caption: "Image created with [DALL·E by OpenAI](https://openai.com/dall-e-3)"
+  caption: "Photo by[Marija Zaric](https://unsplash.com/@simplicity?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-sign-that-is-on-the-side-of-a-building-2I8TLcw2GT4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   focal_point: Smart
   placement: 1
 
