@@ -3,8 +3,8 @@ type: event
 title: "Philosophy & Ethics of Creative AI: Seed Funding Event"
 
 event: 'Philosophy & Ethics of Creative AI: Seed Funding Event'
-event_url: 'https://www.ozsw.nl/activity/creativity-generative-ai-philosophical-perspectives-on-creative-uses-of-artificial-intelligence-2/'
-location: TU Eindhoven Campus
+event_url: 'https://ias.uva.nl/content/events/2025/12/the-philosophy--ethics-of-creative-ai-seed-funding-event-for-early-career-researchers.html?origin=PRy12xnsQemXLkKbh0An2g'
+location: University of Amsterdam
 # address:
 #  street: Utrechtseweg 261
 #  city: Oosterbeek
@@ -18,15 +18,15 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-01-22T09:00:00Z"
-date_end: "2025-01-28T18:00:00Z"
-all_day: true
+date: "2025-12-19T09:00:00Z"
+date_end: "2025-12-19T12:30:00Z"
+# all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-02-03T00:00:00Z"
+publishDate: "2025-11-03T00:00:00Z"
 
-authors: [zeynep-kabadere, laila-wegner]
-tags: [creativity, generative AI, education, course, ozsw, event]
+authors: []
+tags: [creativity, event]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -61,10 +61,12 @@ slides:
 projects: [creativity]
 ---
 
-## Creativity & Generative AI: Philosophical Perspectives on Creative Uses of Artificial Intelligence
+## The Philosophy & Ethics of Creative AI: Seed Funding Event for Early Career Researchers 
 
-“I want AI to do my laundry and dishes so that I can do art and writing. Not for AI to do my art and writing, so that I can do my laundry and dishes.” Joanna Maciejewska’s widely shared quote captures a growing unease about AI’s impact on human creativity. As generative AI systems increasingly produce images, music, and texts with remarkable fluency, they raise profound philosophical and ethical questions: What makes creativity uniquely human? Should AI’s creative outputs be taken seriously? And what might these systems reveal about the nature of our own creative processes? 
+ECPAI member Matthew Dennis co-orgnises together with James Pearson, postdoctoral researcher in Political Science at the University of Amsterdam and in Philosophy at the University of Lisbon, an event to introduce researchers to funding schemes that can support cutting-edge research on how artificial intelligence is changing how we understand creativity. 
 
-This five-day OZSW course, organized by Dr. Matthew Dennis at Eindhoven University of Technology, explores how generative AI is reshaping our concept of creativity and its role in society. Through lectures, discussions, and encounters with AI practitioners such as Iyad Rahwan and Helena Nikonole, participants will examine how philosophy can illuminate the promises and challenges of AI in the arts, education, and research. The course will take place on January 22, 2025, at TU Eindhoven Campus, offering 5 ECTS for active participation and a short written assignment. More information can be [found here](https://www.ozsw.nl/activity/creativity-generative-ai-philosophical-perspectives-on-creative-uses-of-artificial-intelligence-2/  ).
+The event will focus on seed-funding opportunities for researchers who are interested in the ethical challenges of using creative machines for tasks that have previously been done by humans. We will discuss the diverse and shifting funding landscape, including unconventional sources of funding from arts institutions. For further details, see [here](https://ias.uva.nl/content/events/2025/12/the-philosophy--ethics-of-creative-ai-seed-funding-event-for-early-career-researchers.html?origin=PRy12xnsQemXLkKbh0An2g).
 
-ECPAI members Carlos Zednik, lecturer Philip Nickel and Filippo Santoni de Sio will be among the team of lecturers.
+Registration is possible before **3rd of November**. Your registration requires a 200 word abstract and 200 word biography, which will be reviewed. If accepted, you will receive a confirmation of attendance by the 7th of November.  
+
+
