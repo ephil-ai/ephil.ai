@@ -25,7 +25,7 @@ date_end: "2025-12-19T12:30:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-11-03T00:00:00Z"
 
-authors: []
+authors: [laila-wegner]
 tags: [creativity, event]
 
 # Is this a featured talk? (true/false)
