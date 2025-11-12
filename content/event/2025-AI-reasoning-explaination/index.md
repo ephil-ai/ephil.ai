@@ -1,10 +1,10 @@
 ---
 type: event
-title: Workshop: AI, reasoning, and explanation
+title: Workshop - AI, reasoning, and explanation
 
-event: 'Call for Papers - Artificial Intelligence in Research & Education'
-event_url: 'https://philevents.org/event/show/140246  '
-location:  
+event: 'Workshop - AI, reasoning, and explanation'
+event_url: ' '
+location:  TU Eindhoven, Atlas 8.310
 # address:
 #  street: Utrechtseweg 261
 #  city: Oosterbeek
@@ -18,15 +18,15 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-11-15T14:00:00Z"
-# date_end: "2025-07-04T18:00:00Z"
-all_day: true
+date: "2025-11-19T09:30:00Z"
+date_end: "2025-11-19T16:30:00Z"
+# all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-10-15T00:00:00Z"
+publishDate: "2025-11-12T00:00:00Z"
 
-authors: [zeynep-kabadere]
-tags: [call for papers, AI in research, AI in education]
+authors: []
+tags: [event, explainations, reasoning]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -58,10 +58,8 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [explainability]
 ---
-We are pleased to announce the Call for Papers for the AI in Research & Education unit, part of the Oxford Intersections: AI & Society series published by Oxford University Press. The section is co-edited by Dr. Vlasta Sikimić and Dr. Matthew J. Dennis (Eindhoven University of Technology), under the general editorship of Prof. Philipp Hacker. This unit invites contributions examining how AI-enabled research and education are transforming our understandings of creativity, trustworthiness, transparency, and accountability. 
+AI, including AI agents and LLMs, purports to reason and offers reasoning to explain and justify judgment and decision. In assessing this reasoning, what are the most useful or essential frames and frameworks to develop and apply? In this workshop, we provide a forum for presentation of ongoing technical, philosophical, and ethical research on this topic. The workshop will examine issues such as how to verify that representations are appropriately related to system behavior, bias and transparency in reasoning, how to express uncertainty in reasoning, and how to assess what looks like ethical reasoning (or reasoning that must take ethical constraints into account). Reflection on frameworks for assessing automated explanations in real-world, socio-technical contexts (e.g., administrative or health contexts) is welcome.
 
-Artificial intelligence is rapidly reshaping the ways we learn, teach, and produce knowledge. We welcome philosophical and interdisciplinary papers that address the ethical and epistemic dimensions of these transformations, including questions of fairness, authorship, bias, and epistemic trust in AI-supported environments. 
- Abstracts (up to 400 words) are due November 15, 2025, and full papers (6,000–8,000 words) by May 31, 2026. 
- More information and submission details [can be found here! ](https://philevents.org/event/show/140246 )
+Contact persons: Carlos Zednik, Philip J. Nickel
