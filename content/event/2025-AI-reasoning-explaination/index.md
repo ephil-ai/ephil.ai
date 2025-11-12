@@ -23,7 +23,7 @@ date_end: "2025-11-19T16:30:00Z"
 # all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-11-12T00:00:00Z"
+publishDate: "2025-10-12T00:00:00Z"
 
 authors: []
 tags: [event, explainations, reasoning]
