@@ -25,7 +25,7 @@ date_end: "2025-11-19T16:30:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-10-12T00:00:00Z"
 
-authors: [laila-wegner]
+authors: [philip-nickel, carlos-zednik]
 tags: [event, explainations, reasoning]
 
 # Is this a featured talk? (true/false)
