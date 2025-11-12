@@ -63,3 +63,22 @@ projects: [explainability]
 AI, including AI agents and LLMs, purports to reason and offers reasoning to explain and justify judgment and decision. In assessing this reasoning, what are the most useful or essential frames and frameworks to develop and apply? In this workshop, we provide a forum for presentation of ongoing technical, philosophical, and ethical research on this topic. The workshop will examine issues such as how to verify that representations are appropriately related to system behavior, bias and transparency in reasoning, how to express uncertainty in reasoning, and how to assess what looks like ethical reasoning (or reasoning that must take ethical constraints into account). Reflection on frameworks for assessing automated explanations in real-world, socio-technical contexts (e.g., administrative or health contexts) is welcome.
 
 Contact persons: Carlos Zednik, Philip J. Nickel
+
+## Programm
+
+| Part I   | Reasoning in AI    |
+|-----------------------------|-------------------------------|
+| 09:45      | Gregor Betz (Karlsruhe)         | 
+| 10:45     | Zeynep Kabadere (Eindhoven)          | 
+| 11:15     | Berker Baheci (Eindhoven)       |
+| 11:45     | Discussion: Can AI Systems Reason?        |
+| 12:30     | Lunch   |
+
+
+| Part II    | Reasons-Explanations and AI regulation |
+|-----------------------------|-------------------------------|
+| 13:30      | Carlos Zednik (Eindhoven): Reasons-Explanations: Behavioral and Cognitive Approaches       | 
+| 14:30      | Kristof Meding (Tübingen): Reasoning, Explainability, and the AI Act        | 
+| 15:30     | Coffee       |  
+| 15:40 | Discussion: Can and should AI system behavior be explained by appeal to reasons?  |
+| 16:30 | End of the Workshop | 
