@@ -26,7 +26,7 @@ date_end: "2025-11-19T16:30:00Z"
 publishDate: "2025-10-12T00:00:00Z"
 
 authors: [philip-nickel, carlos-zednik]
-tags: [event, explainations, reasoning]
+tags: [event, explanations, reasoning]
 
 # Is this a featured talk? (true/false)
 featured: false
