@@ -66,6 +66,9 @@ Contact persons: Carlos Zednik, Philip J. Nickel
 
 ## Programm
 
+| 09:30  | Arrival and Coffee    |
+| 09:40   | Welcome and Topic Introduction    |
+
 | Part I   | Reasoning in AI    |
 |-----------------------------|-------------------------------|
 | 09:45      | Gregor Betz (Karlsruhe)         | 
