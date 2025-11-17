@@ -65,23 +65,24 @@ AI, including AI agents and LLMs, purports to reason and offers reasoning to exp
 Contact persons: Carlos Zednik, Philip J. Nickel
 
 ## Programm
+**_updated_**
 
+|                             |                               |
+|-----------------------------|-------------------------------|
 | 09:30  | Arrival and Coffee    |
 | 09:40   | Welcome and Topic Introduction    |
-
-| Part I   | Reasoning in AI    |
-|-----------------------------|-------------------------------|
-| 09:45      | Gregor Betz (Karlsruhe)         | 
-| 10:45     | Zeynep Kabadere (Eindhoven)          | 
-| 11:15     | Berker Baheci (Eindhoven)       |
-| 11:45     | Discussion: Can AI Systems Reason?        |
-| 12:30     | Lunch   |
-
-
-| Part II    | Reasons-Explanations and AI regulation |
-|-----------------------------|-------------------------------|
-| 13:30      | Carlos Zednik (Eindhoven): Reasons-Explanations: Behavioral and Cognitive Approaches       | 
-| 14:30      | Kristof Meding (Tübingen): Reasoning, Explainability, and the AI Act        | 
-| 15:30     | Coffee       |  
-| 15:40 | Discussion: Can and should AI system behavior be explained by appeal to reasons?  |
-| 16:30 | End of the Workshop | 
+|                             |                               |
+| **Part I** | **Reasons-Explanations and AI regulation**   |
+| 09:45      | Kristof Meding (Tübingen): Explainability and the AI Act         | 
+| 10:30      | Carlos Zednik (Eindhoven): Reasons in AI: Behavioral and Cognitive Approaches |
+| 11:30      | Coffee   |
+| 11:40      | Discussion: Can and should AI system behavior be explained by appeal to reasons?        |
+| 12:30      | Lunch   |
+|                             |                               |
+| **Part II**    | **Reasoning in AI** |
+| 13:30      | Berker Bahceci (TU/e PhD): AI Ethical Reasoning      | 
+| 14:00      |  Zeynep Kabadere (TU/e PhD): Common-Sense Reasoning       | 
+| 14:30      | Coffee       |  
+| 14:45      | Gregor Betz (Karlsruhe): Ways of LLM Reasoning (hybrid/ remote presentation) |
+| 15:45      | Discussion: Can AI systems reason? |
+| 16:30      | End of the Workshop | 
