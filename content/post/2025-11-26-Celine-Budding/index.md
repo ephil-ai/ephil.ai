@@ -22,13 +22,11 @@ image:
   preview_only: false
 #  alt_text: An AI-generated futuristic painting of a person practicing mindfulness in the chaos of modern life.
 ---
-We are pleased to congratulate our colleague **Céline Budding** for successfully completing her PhD thesis, “What do language models know when they know language? A theoretical framework for explaining the linguistic behavior of LLMs”. 
+We are pleased to congratulate our colleague **Céline Budding** for successfully completing her PhD thesis, _“What do language models know when they know language? A theoretical framework for explaining the linguistic behavior of LLMs”_. 
 
-Céline’s research investigates what kind of knowledge large language models may possess and lays out a theoretical framework for examining what large language models really learn from the enormous amounts of data they’re trained on.
-
-Specifically, she motivates in her dissertation  a cognitivist approach towards explaining the behavior of LLMs and provides a framework for explaining the linguistic behavior of LLMs through the identification of tacit knowledge in these systems. 
+Céline’s research investigates **what kind of knowledge large language models may possess** and lays out a theoretical framework for examining what large language models really learn from the enormous amounts of data they’re trained on. Specifically, she motivates in her dissertation  a cognitivist approach towards explaining the behavior of LLMs and provides a framework for explaining the linguistic behavior of LLMs through the identification of tacit knowledge in these systems. 
 
 Supervised within the Eindhoven University of Technology by **Carlos Zednik** and **Vincent Müller**, Céline’s dissertation offers an important contribution to the philosophy of AI and provides a rigorous foundation for future research into how language models possess knowledge.
 
-You can read the full dissteration [here](https://research.tue.nl/en/publications/what-do-language-models-know-when-they-know-language-a-theoretica/) or check ot the [interview with Céline](https://www.tue.nl/en/news-and-events/news-overview/26-11-2025-homestretch-chatgpt-knows-a-lot-but-does-it-have-real-knowledge) on her PhD jounrey and results
+You can read the full dissteration [here](https://research.tue.nl/en/publications/what-do-language-models-know-when-they-know-language-a-theoretica/) or look into the [interview with Céline](https://www.tue.nl/en/news-and-events/news-overview/26-11-2025-homestretch-chatgpt-knows-a-lot-but-does-it-have-real-knowledge) on her PhD jounrey and results.
 
