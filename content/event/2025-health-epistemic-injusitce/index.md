@@ -2,7 +2,7 @@
 type: event
 title: Justice, Power, and Control in Medical AI Symposium
 
-event: 'Justice, Power, and Control in Medical AI Symposium'
+event: '3rd International Conference on Decision Making in Medicine and Law: Opportunities and pitfalls of information technologies'
 event_url: 'https://eascitech.eu.org/dmm%26l/2025/programme.php'
 location:  Sapienza University of Rome, Italy
 # address:
@@ -18,7 +18,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-12-12T09:30:00Z"
+date: "2025-12-12T11:20:00Z"
 # date_end: "2025-11-19T16:30:00Z"
 # all_day: true
 
@@ -58,11 +58,11 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [explainability]
+projects: [health]
 ---
 ## Symposium Announcement: Justice, Power, and Control in Medical AI
 
-As part of the [3rd International Conference on Decision Making in Medicine and Law: Opportunities and pitfalls of information technologies(DMM&L 2025)](https://eascitech.eu.org/dmm%26l/2025/) conference, we are happy to announce the symposium 'Justice, Power, and Control in Medical AI', which will take place on Friday,12.12, from 11:20.
+As part of the 3rd International Conference on Decision Making in Medicine and Law: Opportunities and pitfalls of information technologies[(DMM&L 2025)](https://eascitech.eu.org/dmm%26l/2025/) conference, we are happy to announce the symposium 'Justice, Power, and Control in Medical AI', which will take place on Friday,12.12, from 11:20.
 
 DMM&L 2025 aims at bringing together forensic psychiatrists and psychologists, legal experts, researchers and research scholars to exchange and share their experiences and research results on all aspects of decision making in medicine and law, with a special emphasis on the implications of the use of information technologies.
 
@@ -76,4 +76,4 @@ The symposium, chaired by Giorgia Pozzi (TU Delft), will open with an introducti
 
 The session will conclude with a plenary discussion at 12:20.
 
-For the full conference programme and further details, [please visit the official DMM&L Website](https://eascitech.eu.org/dmm&l/2025/programme.php)
+For the full conference programme and further details, [please visit here](https://eascitech.eu.org/dmm&l/2025/programme.php)
