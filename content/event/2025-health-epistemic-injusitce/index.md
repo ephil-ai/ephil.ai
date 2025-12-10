@@ -64,11 +64,9 @@ projects: [explainability]
 
 As part of the [3rd International Conference on Decision Making in Medicine and Law: Opportunities and pitfalls of information technologies(DMM&L 2025)](https://eascitech.eu.org/dmm%26l/2025/) conference, we are happy to announce the symposium 'Justice, Power, and Control in Medical AI', which will take place on Friday,12.12, from 11:20.
 
-DMM&L 2025 brings together researchers, clinicians, legal scholars, and technologists to explore how modern information technologies shape decision-making across medicine, law, and forensic practice. The symposium fits squarely into this mission by examining how AI systems influence authority, fairness, and human autonomy in clinical and medico-legal contexts.
+DMM&L 2025 aims at bringing together forensic psychiatrists and psychologists, legal experts, researchers and research scholars to exchange and share their experiences and research results on all aspects of decision making in medicine and law, with a special emphasis on the implications of the use of information technologies.
 
 The symposium, chaired by Giorgia Pozzi (TU Delft), will open with an introduction by Giorgia Pozzi and Sanaa Abrahams, followed by a series of focused talks:
-
-will open with an introduction by Giorgia Pozzi and Sanaa Abrahams, setting the stage for a series of targeted contributions:
 
 -  MHC over AI for health: patient testimony and epistemic privilege – Patrik Hummel (University of Lucerne)
 -  Epistemic justice as an enabler of meaningful human control over medical AI – Giorgia Pozzi (TU Delft) & Filippo Santoni de Sio (TU Eindhoven, ECPAI Member)
