@@ -37,7 +37,7 @@ featured: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  caption: ""
+  caption: "Photo by [Stephen Dawson](https://unsplash.com/@dawson2406?utm_source=unsplash&utm_medium=referral&utm_content)</a> on [Unsplash](https://unsplash.com/photos/turned-on-monitoring-screen-qwtCeJ5cLYs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   focal_point: Smart
   placement: 1
 
