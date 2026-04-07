@@ -37,7 +37,7 @@ featured: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  caption: ""
+  caption: "Photo by Jakub Żerdzicki [https://unsplash.com/@jakubzerdzicki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText] on Unsplash[https://unsplash.com/photos/a-wall-with-a-bunch-of-sticky-notes-on-it-fQOyF0D0cDU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText]      "
   focal_point: Smart
   placement: 1
 
@@ -58,7 +58,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [creativity]
+projects: []
 ---
 
 ## Eindhoven Center for the Philosophy of AI Research Day 2026
