@@ -1,0 +1,29 @@
+---
+title: "Course on Creative work and Artificial Intelligence"
+author: admin
+date: 2025-11-26
+summary: ""
+
+
+projects: [explainability]
+tags: [news]
+
+# Cover image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Otherwise, specify the `filename` option to load an image from your `assets/media/` folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  #filename: test.png  # Uncomment to load an image from `assets/media/` instead.
+  placement: 1
+  #caption: "Céline Budding. Photo: Leoni Andriessen"
+  focal_point: "Smart"
+  preview_only: false
+#  alt_text: An AI-generated futuristic painting of a person practicing mindfulness in the chaos of modern life.
+---
+Our ECPAI colleagues Filippo Santoni de Sio and Matthew Dennis recently delivered 
+
+Lecture X and 
+Filippo shared a blog post reflecting on his key learning and insights, concluding that..
+Read the reflections [here](https://filipposantoni.net/2026/04/07/ai-and-education-some-reasons-for-hope/)
