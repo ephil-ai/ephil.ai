@@ -26,4 +26,4 @@ We’re happy to share that two colleagues recently taught a course on AI and cr
 
   *"In talking about AI and the future of creativity, we did not just talk about how we could remain creative, but we try to practice that creativity in the classroom; we did not only discuss how to design or use AI  in a way that preserve what we value in humanity: embodied engagement, personal meaning, physical proximity, joy, excitement, curiosity, justice, respect… we tried to design a course in which we could practice and enjoyed these things."*
 
-Read the blog post [here](https://filipposantoni.net/2026/04/07/ai-and-education-some-reasons-for-hope/)
+[Read the full blog post here](https://filipposantoni.net/2026/04/07/ai-and-education-some-reasons-for-hope/)
