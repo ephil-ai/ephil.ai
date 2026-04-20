@@ -20,7 +20,7 @@ image:
   caption: <span><a href="https://betterimagesofai.org/whoWeAre">Deborah Lupton</a> / <a href="https://betterimagesofai.org/images?artist=DeborahLupton&title=MachineVision">Machine Vision</a> / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
   focal_point: "Smart"
   preview_only: false
-#  alt_text: An AI-generated futuristic painting of a person practicing mindfulness in the chaos of modern life.
+  alt_text: The image is a photo of a large tree growing on a surburban street, with an ornate gold frame leaning against its trunk. The image of the tree trunk inside the frame has been manipulated to make it look distorted, contrasting with the rest of the photo, which has not been edited in any way.
 ---
 We’re happy to share that two colleagues recently taught a course on AI and creativity with great success, bringing fresh perspectives on the role of human creativity in the age of AI. Filippo now published a thoughtful blog post reflecting on his experiences and key learnings from the course—including the importance of practicing creativity, not just discussing it:
 
