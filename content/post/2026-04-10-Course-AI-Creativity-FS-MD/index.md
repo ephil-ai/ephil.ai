@@ -17,7 +17,7 @@ tags: [news]
 image:
   #filename: test.png  # Uncomment to load an image from `assets/media/` instead.
   placement: 1
-  #caption: "Céline Budding. Photo: Leoni Andriessen"
+  caption: <span><a href="https://betterimagesofai.org/whoWeAre">Deborah Lupton</a> / <a href="https://betterimagesofai.org/images?artist=DeborahLupton&title=MachineVision">Machine Vision</a> / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
   focal_point: "Smart"
   preview_only: false
 #  alt_text: An AI-generated futuristic painting of a person practicing mindfulness in the chaos of modern life.
