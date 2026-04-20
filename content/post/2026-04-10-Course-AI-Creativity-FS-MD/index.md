@@ -1,11 +1,11 @@
 ---
 title: "Course on Creative work and Artificial Intelligence"
 author: admin
-date: 2025-11-26
+date: 2026-04-10
 summary: ""
 
 
-projects: [explainability]
+projects: [creativity]
 tags: [news]
 
 # Cover image
