@@ -1,7 +1,7 @@
 ---
-title: "Course on Creative work and Artificial Intelligence"
+title: "Course on Creative Work and Artificial Intelligence"
 author: admin
-date: 2026-04-10
+date: 2026-04-20
 summary: ""
 
 
