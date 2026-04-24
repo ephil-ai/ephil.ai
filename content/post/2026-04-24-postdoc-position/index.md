@@ -17,7 +17,7 @@ tags: [news]
 image:
   #filename: test.png  # Uncomment to load an image from `assets/media/` instead.
   placement: 1
-  caption: <span><a href="https://betterimagesofai.org/whoWeAre">Deborah Lupton</a> / <a href="https://betterimagesofai.org/images?artist=DeborahLupton&title=MachineVision">Machine Vision</a> / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
+  caption: Photo by <a href="https://unsplash.com/@tory_hoffman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tory Hoffman</a> on <a href="https://unsplash.com/photos/a-red-neon-sign-that-says-vacancy-kAkCHzHI-lE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   focal_point: "Smart"
   preview_only: false
   alt_text: The image is a photo of a large tree growing on a surburban street, with an ornate gold frame leaning against its trunk. The image of the tree trunk inside the frame has been manipulated to make it look distorted, contrasting with the rest of the photo, which has not been edited in any way.
@@ -26,4 +26,4 @@ Are you excited to co-create, together with non-academic stakeholders, a transdi
 
 If your answer is a sound YES!, the new postdoctoral position at Eindhoven University of Technology might be of interest for you. The role is part of a 3-year postdoctoral fellowship within the Ethics of Socially Disruptive Technologies (ESDiT) consortium, which will be hosted in the Philosophy & Ethics Capacity Group at TU Eindhoven.
 
-(Read the full vancany and apply here!)[https://www.tue.nl/en/working-at-tue/vacancy-overview/postdoc-in-philosophy-of-technology] (**Deadline 30.05.2026**) 
+[Read the full vancany and apply here!](https://www.tue.nl/en/working-at-tue/vacancy-overview/postdoc-in-philosophy-of-technology) (**Deadline 30.05.2026**) 
